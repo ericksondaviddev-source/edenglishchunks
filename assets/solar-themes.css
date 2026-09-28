@@ -1,0 +1,124 @@
+/* ==========================================================================
+   Inglés con Chunks · Temas "Solar" (solar punk)
+   Se carga DESPUÉS del <style> de index.html → gana en empates de especificidad.
+   Secciones 1-4 sólo se aplican con data-theme="solar-light|solar-dark".
+   Las secciones 1-4 sólo aplican en solar-light / solar-dark: la paleta de "system" queda intacta.
+   Las secciones 5-6 (chrome del selector y ajustes móviles) aplican siempre, por diseño.
+   ========================================================================== */
+
+/* ---------- 1. Solar Light · papel cálido ---------- */
+:root[data-theme="solar-light"] {
+  color-scheme: light;
+  --page: #faf5e9;
+  --surface: #fffdf7;
+  --surface-2: #f4eddd;
+  --ink: #2a2318;
+  --muted: #6b6152;
+  --line: #e2d8c3;
+  --navy: #1c4a3f;
+  --blue: #1f6f63;
+  --blue-soft: #e2f0ea;
+  --yellow: #e9a92c;
+  --yellow-soft: #fdf1d3;
+  --red: #b4472f;
+  --green: #2f7a4a;
+  --green-soft: #e3f2e7;
+  --shadow: 0 18px 50px rgba(90, 70, 30, .16);
+}
+
+/* ---------- 2. Solar Dark · carbón cálido ---------- */
+:root[data-theme="solar-dark"] {
+  color-scheme: dark;
+  --page: #191510;
+  --surface: #221c15;
+  --surface-2: #2a231a;
+  --ink: #f2e8d5;
+  --muted: #bcb09a;
+  --line: #3a3226;
+  --navy: #0e0b07;
+  --blue: #7fd0c0;
+  --blue-soft: #153029;
+  --yellow: #f5c04a;
+  --yellow-soft: #3d3115;
+  --red: #ef8f74;
+  --green: #79d39b;
+  --green-soft: #16321f;
+  --shadow: 0 20px 56px rgba(0, 0, 0, .45);
+}
+
+/* ---------- 3. Solar Light · componentes vuelven al patrón "primario" ----------
+   Neutralizan las 6 reglas de index.html condicionadas a prefers-color-scheme: dark
+   (líneas 78, 196, 272, 318, 371, 453), que dependen del SO y no del tema elegido. */
+[data-theme="solar-light"] .mode-tab.active { background: var(--navy); color: var(--surface); }
+[data-theme="solar-light"] .learn-button { background: var(--navy); color: var(--surface); border-color: var(--navy); }
+[data-theme="solar-light"] .quiz-next { background: var(--navy); color: var(--surface); }
+[data-theme="solar-light"] .respond-next { background: var(--navy); color: var(--surface); }
+[data-theme="solar-light"] .sequence-video-button { border-color: var(--navy); background: var(--navy); color: var(--surface); }
+[data-theme="solar-light"] .toast { background: var(--navy); color: var(--surface); }
+
+/* ---------- 4. Solar Dark · primario = amarillo, texto oscuro ---------- */
+[data-theme="solar-dark"] .mode-tab.active { background: var(--yellow); color: #1b2430; }
+[data-theme="solar-dark"] .learn-button { background: var(--yellow); color: #172435; border-color: var(--yellow); }
+[data-theme="solar-dark"] .quiz-next { background: var(--yellow); color: #172435; }
+[data-theme="solar-dark"] .respond-next { background: var(--yellow); color: #172435; }
+[data-theme="solar-dark"] .sequence-video-button { border-color: var(--yellow); background: var(--yellow); color: #172435; }
+[data-theme="solar-dark"] .toast { background: var(--yellow); color: #142334; }
+
+/* Botones con fondo --blue / --red: en oscuro el texto pasa a oscuro (contraste AA) */
+[data-theme="solar-dark"] .listen-card,
+[data-theme="solar-dark"] .quiz-listen,
+[data-theme="solar-dark"] .sequence-primary,
+[data-theme="solar-dark"] .creative-listen { color: #14211c; }
+
+[data-theme="solar-dark"] .listen-card.playing,
+[data-theme="solar-dark"] .quiz-listen.playing,
+[data-theme="solar-dark"] .quiz-repeat.listening,
+[data-theme="solar-dark"] .sequence-primary.playing,
+[data-theme="solar-dark"] .creative-listen.playing,
+[data-theme="solar-dark"] .mic-button { color: #241b12; }
+
+/* ==========================================================================
+   5. Chrome del selector de tema  (aplica SIEMPRE, en los 3 modos)
+   ========================================================================== */
+.topbar-actions {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+.theme-cycle {
+  border: 1px solid var(--line);
+  background: var(--surface);
+  color: var(--ink);
+  padding: 9px 13px;
+  border-radius: 10px;
+  font-weight: 750;
+  font-size: .9rem;
+  white-space: nowrap;
+  cursor: pointer;
+}
+.theme-cycle:hover { border-color: var(--blue); color: var(--blue); }
+.theme-cycle:focus-visible { outline: 2px solid var(--blue); outline-offset: 2px; }
+
+/* ==========================================================================
+   6. Ajustes móviles  (aplican en los 3 modos; no tocan el `<style>` original — la regla de font-size anti-zoom de `.audio-control select` sólo se aplica a ≤590px)
+   ========================================================================== */
+input, select, textarea { font-size: 16px; }   /* evita el zoom automático de iOS */
+
+@media (max-width: 590px) {
+  .audio-control select { font-size: 16px; }   /* empata (0,1,1) con index.html:136 y gana por orden de carga */
+  .topbar-actions { display: grid; grid-template-columns: minmax(0, auto) minmax(0, 1fr); width: 100%; gap: 8px; }
+  .theme-cycle { width: 100%; text-align: center; min-height: 44px; }
+
+  .mode-tab { min-height: 44px; display: flex; align-items: center; justify-content: center; }
+  .module-button, .creative-pick, .creative-chip, .nav-button, .random-button { min-height: 44px; }
+  .listen-card, .quiz-listen, .quiz-repeat, .mic-button,
+  .sequence-primary, .creative-listen, .creative-sequence { min-height: 44px; }
+
+  .shell { padding-bottom: calc(44px + env(safe-area-inset-bottom)); }
+  .audio-bar { position: sticky; top: 0; z-index: 6; box-shadow: var(--shadow); }
+
+  /* Lista de Biblioteca con scroll propio acotado (evita duplicar scroll de página) */
+  .creative-library { max-height: 50vh; overflow-y: auto; -webkit-overflow-scrolling: touch; }
+}

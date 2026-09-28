@@ -1,0 +1,303 @@
+{
+  "slug": "chunks-el-primer-dia",
+  "title": "El primer día",
+  "subtitle": "Historia con chunks de Frases nativas · 2 voces · Un debut en la oficina",
+  "summary": "Sara estrena trabajo y Nora la guía por el primer día con las frases nativas que todo el mundo usa y nadie explica.",
+  "category": "native",
+  "voices": {
+    "Nora": "en-US-JennyNeural",
+    "Sara": "en-GB-SoniaNeural"
+  },
+  "lines": [
+    {
+      "en": "Follow me",
+      "es": "Sígueme / Acompáñame",
+      "speaker": "Nora"
+    },
+    {
+      "en": "Where is the conference room?",
+      "es": "¿Dónde está la sala de conferencias?",
+      "speaker": "Sara"
+    },
+    {
+      "en": "Right this way, follow me.",
+      "es": "Por aquí, sígueme.",
+      "speaker": "Nora"
+    },
+    {
+      "en": "Pardon me",
+      "es": "Perdóname / Disculpa",
+      "speaker": "Nora"
+    },
+    {
+      "en": "Pardon me, is this seat taken?",
+      "es": "Disculpe, ¿este asiento está ocupado?",
+      "speaker": "Sara"
+    },
+    {
+      "en": "No, it's free, go ahead.",
+      "es": "No, está libre, adelante.",
+      "speaker": "Nora"
+    },
+    {
+      "en": "What's your new job like?",
+      "es": "¿Qué tal es tu nuevo trabajo?",
+      "speaker": "Nora"
+    },
+    {
+      "en": "It's great, I really enjoy the team.",
+      "es": "Es genial, realmente disfruto el equipo.",
+      "speaker": "Sara"
+    },
+    {
+      "en": "May I speak with you for a minute?",
+      "es": "¿Puedo hablar contigo un minuto?",
+      "speaker": "Sara"
+    },
+    {
+      "en": "Yes, of course, what's on your mind?",
+      "es": "Sí, claro, ¿qué tienes en mente?",
+      "speaker": "Nora"
+    },
+    {
+      "en": "Got a minute to check this file?",
+      "es": "¿Tienes un minuto para revisar este archivo?",
+      "speaker": "Sara"
+    },
+    {
+      "en": "Sure, what do you need?",
+      "es": "Claro, ¿qué necesitas?",
+      "speaker": "Nora"
+    },
+    {
+      "en": "Deal with it",
+      "es": "Yo me encargo / Hazte cargo / Lidias con eso",
+      "speaker": "Nora"
+    },
+    {
+      "en": "I'll deal with it right now.",
+      "es": "Me encargaré de eso en este momento.",
+      "speaker": "Sara"
+    },
+    {
+      "en": "Can you deal with it?",
+      "es": "¿Puedes encargarte de eso?",
+      "speaker": "Nora"
+    },
+    {
+      "en": "Don't worry about the mess, I'll deal with it.",
+      "es": "No te preocupes por el desorden, yo me encargo.",
+      "speaker": "Sara"
+    },
+    {
+      "en": "I'm working on it",
+      "es": "Estoy trabajando en ello / Ya estoy en eso",
+      "speaker": "Nora"
+    },
+    {
+      "en": "Is the document ready yet?",
+      "es": "¿Ya está listo el documento?",
+      "speaker": "Nora"
+    },
+    {
+      "en": "Not yet, but I'm working on it.",
+      "es": "Todavía no, pero ya estoy en eso.",
+      "speaker": "Sara"
+    },
+    {
+      "en": "Will you keep me posted?",
+      "es": "¿Me mantendrás al tanto?",
+      "speaker": "Nora"
+    },
+    {
+      "en": "I'll keep you posted on the project.",
+      "es": "Te mantendré al tanto del proyecto.",
+      "speaker": "Sara"
+    },
+    {
+      "en": "Take your time",
+      "es": "Tómate tu tiempo / Sin prisa",
+      "speaker": "Nora"
+    },
+    {
+      "en": "Can I take my time?",
+      "es": "¿Puedo tomarme mi tiempo?",
+      "speaker": "Sara"
+    },
+    {
+      "en": "Take your time, there is no rush.",
+      "es": "Tómate tu tiempo, no hay prisa.",
+      "speaker": "Nora"
+    },
+    {
+      "en": "Mind if I join you for lunch?",
+      "es": "¿Te molesta si te acompaño a almuerzo?",
+      "speaker": "Nora"
+    },
+    {
+      "en": "Not at all, sit down!",
+      "es": "Para nada, ¡siéntate!",
+      "speaker": "Sara"
+    },
+    {
+      "en": "Hey! How's work going?",
+      "es": "¡Epa! ¿Cómo va el trabajo?",
+      "speaker": "Nora"
+    },
+    {
+      "en": "Pretty good, we are very busy lately.",
+      "es": "Bastante bien, estamos muy ocupados últimamente.",
+      "speaker": "Sara"
+    },
+    {
+      "en": "Need anything?",
+      "es": "¿Necesitas algo?",
+      "speaker": "Nora"
+    },
+    {
+      "en": "Are you coming down?",
+      "es": "¿Estás bajando?",
+      "speaker": "Nora"
+    },
+    {
+      "en": "Just wrapping up, I'll be there in a second!",
+      "es": "Solo termino aquí, ¡y llego en un segundito!",
+      "speaker": "Sara"
+    },
+    {
+      "en": "It completely slipped my mind",
+      "es": "Se me pasó por completo / Se me olvidó",
+      "speaker": "Nora"
+    },
+    {
+      "en": "I'm so sorry, it completely slipped my mind.",
+      "es": "Lo siento tanto, se me pasó por completo.",
+      "speaker": "Sara"
+    },
+    {
+      "en": "Don't worry, I'm working on it right now.",
+      "es": "No te preocupes, estoy trabajando en ello ahora.",
+      "speaker": "Nora"
+    },
+    {
+      "en": "It's up to you",
+      "es": "Tú decides / Depende de ti",
+      "speaker": "Nora"
+    },
+    {
+      "en": "I'll leave it up to you.",
+      "es": "Lo dejaré a tu criterio.",
+      "speaker": "Nora"
+    },
+    {
+      "en": "It's up to you, whatever you prefer.",
+      "es": "Tú decides, lo que prefieras.",
+      "speaker": "Sara"
+    },
+    {
+      "en": "I've been there",
+      "es": "Sé lo que se siente / Ya pasé por eso",
+      "speaker": "Nora"
+    },
+    {
+      "en": "Work stress is really getting to me.",
+      "es": "El estrés del trabajo me está superando.",
+      "speaker": "Sara"
+    },
+    {
+      "en": "Don't worry, I've been there before.",
+      "es": "No te preocupes, ya pasé por eso antes.",
+      "speaker": "Nora"
+    },
+    {
+      "en": "Did you finish the project?",
+      "es": "¿Terminaste el proyecto?",
+      "speaker": "Nora"
+    },
+    {
+      "en": "Yes! Thanks for your help with the details.",
+      "es": "¡Sí! Gracias por tu ayuda con los detalles.",
+      "speaker": "Sara"
+    },
+    {
+      "en": "Thanks for your help",
+      "es": "Gracias por tu ayuda",
+      "speaker": "Nora"
+    },
+    {
+      "en": "I want to say thanks for your help.",
+      "es": "Quiero darte las gracias por tu ayuda.",
+      "speaker": "Sara"
+    },
+    {
+      "en": "That's very kind of you",
+      "es": "Es muy amable de tu parte",
+      "speaker": "Nora"
+    },
+    {
+      "en": "I brought you some fresh coffee.",
+      "es": "Te traje un poco de café fresco.",
+      "speaker": "Nora"
+    },
+    {
+      "en": "Oh, thank you! That's very kind of you.",
+      "es": "¡Oh, gracias! Es muy amable de tu parte.",
+      "speaker": "Sara"
+    },
+    {
+      "en": "Don't mention it",
+      "es": "De nada / Ni lo menciones",
+      "speaker": "Nora"
+    },
+    {
+      "en": "Don't mention it, happy to help.",
+      "es": "Ni lo menciones, feliz de ayudar.",
+      "speaker": "Nora"
+    },
+    {
+      "en": "I'm glad you like it",
+      "es": "Me alegra que te guste",
+      "speaker": "Nora"
+    },
+    {
+      "en": "This gift is amazing, thank you!",
+      "es": "¡Este regalo está increíble, gracias!",
+      "speaker": "Sara"
+    },
+    {
+      "en": "You're welcome! I'm glad you like it.",
+      "es": "¡De nada! Me alegra que te guste.",
+      "speaker": "Nora"
+    },
+    {
+      "en": "It's been a long day",
+      "es": "Ha sido un día pesado / largo",
+      "speaker": "Nora"
+    },
+    {
+      "en": "I just want to rest, it's been a long day.",
+      "es": "Solo quiero descansar, ha sido un día pesado.",
+      "speaker": "Sara"
+    },
+    {
+      "en": "Do you want to go out tonight?",
+      "es": "¿Quieres salir esta noche?",
+      "speaker": "Nora"
+    },
+    {
+      "en": "I'd pass, it's been a long day.",
+      "es": "Paso, ha sido un día pesado.",
+      "speaker": "Sara"
+    },
+    {
+      "en": "How about dinner at 8 PM?",
+      "es": "¿Qué tal cenar a las 8 PM?",
+      "speaker": "Nora"
+    },
+    {
+      "en": "Sounds good to me, see you then!",
+      "es": "Me parece perfecto, ¡nos vemos entonces!",
+      "speaker": "Sara"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+[
+  {
+    "id": "amanecer",
+    "title": "Amanecer · pads cálidos",
+    "file": "assets/music/amanecer.mp3"
+  },
+  {
+    "id": "noche",
+    "title": "Noche · calma profunda",
+    "file": "assets/music/noche.mp3"
+  },
+  {
+    "id": "pulso",
+    "title": "Pulso · pulso suave",
+    "file": "assets/music/pulso.mp3"
+  }
+]

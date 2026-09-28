@@ -1,0 +1,313 @@
+{
+  "slug": "chunks-la-semana",
+  "title": "Una semana a tope",
+  "subtitle": "Historia con chunks de Idioms · 2 voces · Ida y vuelta en la oficina",
+  "summary": "Nora y Marco organizan una semana imposible usando chunks de Idioms: planes que se complican, plazos que se corren y nada que se resuelve sin hablarlo.",
+  "category": "idioms",
+  "voices": {
+    "Nora": "en-US-JennyNeural",
+    "Marco": "en-US-AndrewMultilingualNeural"
+  },
+  "lines": [
+    {
+      "en": "A full plate / A lot on your plate",
+      "es": "Tener mucho trabajo / estar muy ocupado",
+      "speaker": "Nora"
+    },
+    {
+      "en": "I have a lot on my plate.",
+      "es": "Tengo mucho trabajo.",
+      "speaker": "Nora"
+    },
+    {
+      "en": "Do you have a lot on your plate?",
+      "es": "¿Tienes mucho trabajo?",
+      "speaker": "Marco"
+    },
+    {
+      "en": "Yes, I have a full plate today.",
+      "es": "Sí, hoy tengo mucho trabajo.",
+      "speaker": "Nora"
+    },
+    {
+      "en": "She has a lot on her plate.",
+      "es": "Ella tiene mucho trabajo.",
+      "speaker": "Nora"
+    },
+    {
+      "en": "What is our game plan for Q4?",
+      "es": "¿Cuál es nuestro plan de acción para el cuarto trimestre?",
+      "speaker": "Marco"
+    },
+    {
+      "en": "I prepared a clear game plan.",
+      "es": "Preparé un plan de acción claro.",
+      "speaker": "Nora"
+    },
+    {
+      "en": "We will focus on digital sales.",
+      "es": "Nos enfocaremos en las ventas digitales.",
+      "speaker": "Marco"
+    },
+    {
+      "en": "I focus on the big picture.",
+      "es": "Me enfoco en el panorama completo.",
+      "speaker": "Nora"
+    },
+    {
+      "en": "Do you see the big picture?",
+      "es": "¿Ves el panorama completo?",
+      "speaker": "Marco"
+    },
+    {
+      "en": "Yes, I always keep the big picture in mind.",
+      "es": "Sí, siempre tengo en mente la visión general.",
+      "speaker": "Nora"
+    },
+    {
+      "en": "Can you give me a ballpark figure?",
+      "es": "¿Puedes darme una cifra aproximada?",
+      "speaker": "Nora"
+    },
+    {
+      "en": "Yes, my ballpark figure is ten thousand.",
+      "es": "Sí, mi cifra aproximada es diez mil.",
+      "speaker": "Marco"
+    },
+    {
+      "en": "I want to make sure we are on the same page.",
+      "es": "Quiero asegurarme de que estemos en la misma sintonía.",
+      "speaker": "Nora"
+    },
+    {
+      "en": "Yes, we agree on all points.",
+      "es": "Sí, estamos de acuerdo en todos los puntos.",
+      "speaker": "Marco"
+    },
+    {
+      "en": "The project launch date is up in the air.",
+      "es": "La fecha de lanzamiento del proyecto está incierta.",
+      "speaker": "Marco"
+    },
+    {
+      "en": "Is the budget still up in the air?",
+      "es": "¿El presupuesto aún está sin definir?",
+      "speaker": "Nora"
+    },
+    {
+      "en": "Yes, pending board approval.",
+      "es": "Sí, pendiente de aprobación por la junta.",
+      "speaker": "Marco"
+    },
+    {
+      "en": "I will kick off the presentation at nine.",
+      "es": "Daré inicio a la presentación a las nueve.",
+      "speaker": "Nora"
+    },
+    {
+      "en": "When do we kick off?",
+      "es": "¿Cuándo damos inicio?",
+      "speaker": "Marco"
+    },
+    {
+      "en": "Right after the coffee break.",
+      "es": "Justo después de la pausa del café.",
+      "speaker": "Nora"
+    },
+    {
+      "en": "How do you break the ice in sales?",
+      "es": "¿Cómo rompes el hielo en las ventas?",
+      "speaker": "Marco"
+    },
+    {
+      "en": "I tell a quick story to break the ice.",
+      "es": "Cuento una breve historia para romper el hielo.",
+      "speaker": "Nora"
+    },
+    {
+      "en": "My idea is a long shot.",
+      "es": "Mi idea es muy poco probable.",
+      "speaker": "Marco"
+    },
+    {
+      "en": "Is this deal a long shot?",
+      "es": "¿Este trato es muy poco probable?",
+      "speaker": "Nora"
+    },
+    {
+      "en": "Yes, it is definitely a long shot.",
+      "es": "Sí, definitivamente es muy poco probable.",
+      "speaker": "Marco"
+    },
+    {
+      "en": "I am back to square one.",
+      "es": "Estoy de vuelta al principio.",
+      "speaker": "Marco"
+    },
+    {
+      "en": "Are we back to square one?",
+      "es": "¿Estamos de vuelta al principio?",
+      "speaker": "Nora"
+    },
+    {
+      "en": "Yes, we are back to square one now.",
+      "es": "Sí, ahora estamos de vuelta al principio.",
+      "speaker": "Marco"
+    },
+    {
+      "en": "Should we go back to the drawing board?",
+      "es": "¿Deberíamos volver a la mesa de dibujo?",
+      "speaker": "Nora"
+    },
+    {
+      "en": "Yes, let's go back to the drawing board.",
+      "es": "Sí, volvamos a la mesa de dibujo.",
+      "speaker": "Marco"
+    },
+    {
+      "en": "I am handling damage control today.",
+      "es": "Hoy estoy gestionando el control de daños.",
+      "speaker": "Nora"
+    },
+    {
+      "en": "Do we need damage control?",
+      "es": "¿Necesitamos hacer control de daños?",
+      "speaker": "Marco"
+    },
+    {
+      "en": "Yes, we must release a statement.",
+      "es": "Sí, debemos emitir un comunicado.",
+      "speaker": "Nora"
+    },
+    {
+      "en": "My job is at stake.",
+      "es": "Mi trabajo está en juego.",
+      "speaker": "Marco"
+    },
+    {
+      "en": "I felt out of the loop during the launch.",
+      "es": "Me sentí desinformado durante el lanzamiento.",
+      "speaker": "Marco"
+    },
+    {
+      "en": "Why am I out of the loop?",
+      "es": "¿Por qué estoy al margen de las novedades?",
+      "speaker": "Marco"
+    },
+    {
+      "en": "Sorry, we forgot to CC you.",
+      "es": "Lo siento, olvidamos copiarte en el correo.",
+      "speaker": "Nora"
+    },
+    {
+      "en": "I came up short on my sales target.",
+      "es": "Me quedé corto en mi meta de ventas.",
+      "speaker": "Marco"
+    },
+    {
+      "en": "Did we come up short on the budget?",
+      "es": "¿Nos quedamos cortos con el presupuesto?",
+      "speaker": "Nora"
+    },
+    {
+      "en": "Yes, we need ten percent more.",
+      "es": "Sí, necesitamos diez por ciento más.",
+      "speaker": "Marco"
+    },
+    {
+      "en": "I have to bite the bullet and invest.",
+      "es": "Tengo que hacer de tripas corazón e invertir.",
+      "speaker": "Nora"
+    },
+    {
+      "en": "Should we bite the bullet?",
+      "es": "¿Deberíamos hacer de tripas corazón?",
+      "speaker": "Marco"
+    },
+    {
+      "en": "Yes, it is time to bite the bullet.",
+      "es": "Sí, es hora de aceptar lo inevitable.",
+      "speaker": "Nora"
+    },
+    {
+      "en": "I am trying to avoid burnout.",
+      "es": "Estoy tratando de evitar el agotamiento.",
+      "speaker": "Nora"
+    },
+    {
+      "en": "Are you suffering from burnout?",
+      "es": "¿Estás sufriendo de agotamiento extremo?",
+      "speaker": "Marco"
+    },
+    {
+      "en": "A little bit, I need a break.",
+      "es": "Un poco, necesito un descanso.",
+      "speaker": "Nora"
+    },
+    {
+      "en": "Is your company ahead of the curve?",
+      "es": "¿Tu empresa está a la vanguardia?",
+      "speaker": "Marco"
+    },
+    {
+      "en": "Yes, we are ahead of the curve.",
+      "es": "Sí, estamos a la vanguardia.",
+      "speaker": "Nora"
+    },
+    {
+      "en": "I landed a big client today.",
+      "es": "Cerré un gran cliente hoy.",
+      "speaker": "Nora"
+    },
+    {
+      "en": "Did you land the deal?",
+      "es": "¿Cerraste el contrato?",
+      "speaker": "Marco"
+    },
+    {
+      "en": "Yes, we signed this morning.",
+      "es": "Sí, firmamos esta mañana.",
+      "speaker": "Nora"
+    },
+    {
+      "en": "Accepting that deal was a no-brainer for me.",
+      "es": "Aceptar ese trato fue una decisión obvia para mí.",
+      "speaker": "Nora"
+    },
+    {
+      "en": "Is this proposal a no-brainer?",
+      "es": "¿Es esta propuesta una decisión evidente?",
+      "speaker": "Marco"
+    },
+    {
+      "en": "I always deliver the goods on time.",
+      "es": "Siempre cumplo con las expectativas a tiempo.",
+      "speaker": "Marco"
+    },
+    {
+      "en": "Can they deliver the goods?",
+      "es": "¿Pueden ellos dar la talla?",
+      "speaker": "Nora"
+    },
+    {
+      "en": "Yes, they are extremely reliable.",
+      "es": "Sí, son sumamente confiables.",
+      "speaker": "Marco"
+    },
+    {
+      "en": "I am ready to call it a day.",
+      "es": "Estoy listo para dar el día por terminado.",
+      "speaker": "Nora"
+    },
+    {
+      "en": "Should we call it a day?",
+      "es": "¿Damos el día por terminado?",
+      "speaker": "Marco"
+    },
+    {
+      "en": "Yes, let's call it a day now.",
+      "es": "Sí, cerremos la jornada por hoy.",
+      "speaker": "Nora"
+    }
+  ]
+}

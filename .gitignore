@@ -1,0 +1,29 @@
+# Artefactos de exportacion generados en pruebas (no son de la app)
+mi-secuencia-*.mp4
+mi-secuencia-*.mp3
+escenario-*.png
+
+# Snapshots de respaldo (no forman parte de la app publicada)
+index.pre-*.html
+index.post-*.html
+index.backup-*.html
+index.pre-edit-*.html
+escenario-*.png
+
+# Cachés de generación (se regeneran con tools/)
+assets/stories/.build/
+assets/songs/.align/
+
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+node_modules/
+.vercel/
+*.log
+.env
+.env.local
+__pycache__/
+
+# Marcadores del generador de musica (vacias)
+.belt/

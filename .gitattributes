@@ -1,0 +1,11 @@
+# Normaliza finales de linea: el repo se construye en Linux (Vercel) y se
+# editaba en Windows. Evita diffs ruidosos por CRLF/LF.
+* text=auto eol=lf
+
+# Binarios: nunca tocar
+*.mp3 binary
+*.mp4 binary
+*.wasm binary
+*.png binary
+*.jpg binary
+*.svg text

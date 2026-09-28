@@ -1,0 +1,9902 @@
+{
+ "adjetivos-sustantivos_1": {
+  "idiom": [
+   0.0,
+   1.8
+  ],
+  "first_person": [
+   2.05,
+   4.162
+  ],
+  "third_person": [
+   4.412,
+   6.092
+  ],
+  "question": [
+   6.342,
+   7.83
+  ],
+  "answer": [
+   8.08,
+   9.952
+  ]
+ },
+ "adjetivos-sustantivos_10": {
+  "idiom": [
+   0.0,
+   1.728
+  ],
+  "first_person": [
+   1.978,
+   3.73
+  ],
+  "third_person": [
+   3.98,
+   5.588
+  ],
+  "question": [
+   5.838,
+   6.99
+  ],
+  "answer": [
+   7.24,
+   9.04
+  ]
+ },
+ "adjetivos-sustantivos_100": {
+  "idiom": [
+   0.0,
+   2.04
+  ],
+  "first_person": [
+   2.29,
+   4.21
+  ],
+  "third_person": [
+   4.46,
+   6.692
+  ],
+  "question": [
+   6.942,
+   9.774
+  ],
+  "answer": [
+   10.024,
+   13.144
+  ]
+ },
+ "adjetivos-sustantivos_11": {
+  "idiom": [
+   0.0,
+   1.8
+  ],
+  "first_person": [
+   2.05,
+   3.97
+  ],
+  "third_person": [
+   4.22,
+   6.332
+  ],
+  "question": [
+   6.582,
+   8.142
+  ],
+  "answer": [
+   8.392,
+   10.6
+  ]
+ },
+ "adjetivos-sustantivos_12": {
+  "idiom": [
+   0.0,
+   1.872
+  ],
+  "first_person": [
+   2.122,
+   4.474
+  ],
+  "third_person": [
+   4.724,
+   6.716
+  ],
+  "question": [
+   6.966,
+   8.766
+  ],
+  "answer": [
+   9.016,
+   11.464
+  ]
+ },
+ "adjetivos-sustantivos_13": {
+  "idiom": [
+   0.0,
+   1.68
+  ],
+  "first_person": [
+   1.93,
+   3.658
+  ],
+  "third_person": [
+   3.908,
+   5.636
+  ],
+  "question": [
+   5.886,
+   7.086
+  ],
+  "answer": [
+   7.336,
+   9.616
+  ]
+ },
+ "adjetivos-sustantivos_14": {
+  "idiom": [
+   0.0,
+   1.872
+  ],
+  "first_person": [
+   2.122,
+   4.45
+  ],
+  "third_person": [
+   4.7,
+   6.452
+  ],
+  "question": [
+   6.702,
+   8.214
+  ],
+  "answer": [
+   8.464,
+   9.856
+  ]
+ },
+ "adjetivos-sustantivos_15": {
+  "idiom": [
+   0.0,
+   1.512
+  ],
+  "first_person": [
+   1.762,
+   4.162
+  ],
+  "third_person": [
+   4.412,
+   6.38
+  ],
+  "question": [
+   6.63,
+   8.358
+  ],
+  "answer": [
+   8.608,
+   10.816
+  ]
+ },
+ "adjetivos-sustantivos_16": {
+  "idiom": [
+   0.0,
+   1.8
+  ],
+  "first_person": [
+   2.05,
+   3.61
+  ],
+  "third_person": [
+   3.86,
+   5.66
+  ],
+  "question": [
+   5.91,
+   7.35
+  ],
+  "answer": [
+   7.6,
+   9.4
+  ]
+ },
+ "adjetivos-sustantivos_17": {
+  "idiom": [
+   0.0,
+   1.872
+  ],
+  "first_person": [
+   2.122,
+   4.354
+  ],
+  "third_person": [
+   4.604,
+   6.404
+  ],
+  "question": [
+   6.654,
+   8.142
+  ],
+  "answer": [
+   8.392,
+   10.432
+  ]
+ },
+ "adjetivos-sustantivos_18": {
+  "idiom": [
+   0.0,
+   1.68
+  ],
+  "first_person": [
+   1.93,
+   3.85
+  ],
+  "third_person": [
+   4.1,
+   6.5
+  ],
+  "question": [
+   6.75,
+   8.43
+  ],
+  "answer": [
+   8.68,
+   10.72
+  ]
+ },
+ "adjetivos-sustantivos_19": {
+  "idiom": [
+   0.0,
+   1.608
+  ],
+  "first_person": [
+   1.858,
+   3.586
+  ],
+  "third_person": [
+   3.836,
+   5.444
+  ],
+  "question": [
+   5.694,
+   7.182
+  ],
+  "answer": [
+   7.432,
+   9.16
+  ]
+ },
+ "adjetivos-sustantivos_2": {
+  "idiom": [
+   0.0,
+   1.56
+  ],
+  "first_person": [
+   1.81,
+   3.322
+  ],
+  "third_person": [
+   3.572,
+   5.3
+  ],
+  "question": [
+   5.55,
+   7.158
+  ],
+  "answer": [
+   7.408,
+   9.568
+  ]
+ },
+ "adjetivos-sustantivos_20": {
+  "idiom": [
+   0.0,
+   1.92
+  ],
+  "first_person": [
+   2.17,
+   4.858
+  ],
+  "third_person": [
+   5.108,
+   7.028
+  ],
+  "question": [
+   7.278,
+   8.886
+  ],
+  "answer": [
+   9.136,
+   11.224
+  ]
+ },
+ "adjetivos-sustantivos_21": {
+  "idiom": [
+   0.0,
+   1.848
+  ],
+  "first_person": [
+   2.098,
+   3.706
+  ],
+  "third_person": [
+   3.956,
+   5.444
+  ],
+  "question": [
+   5.694,
+   7.086
+  ],
+  "answer": [
+   7.336,
+   9.424
+  ]
+ },
+ "adjetivos-sustantivos_22": {
+  "idiom": [
+   0.0,
+   1.848
+  ],
+  "first_person": [
+   2.098,
+   3.898
+  ],
+  "third_person": [
+   4.148,
+   5.948
+  ],
+  "question": [
+   6.198,
+   7.686
+  ],
+  "answer": [
+   7.936,
+   10.096
+  ]
+ },
+ "adjetivos-sustantivos_23": {
+  "idiom": [
+   0.0,
+   1.608
+  ],
+  "first_person": [
+   1.858,
+   3.706
+  ],
+  "third_person": [
+   3.956,
+   5.516
+  ],
+  "question": [
+   5.766,
+   7.374
+  ],
+  "answer": [
+   7.624,
+   10.024
+  ]
+ },
+ "adjetivos-sustantivos_24": {
+  "idiom": [
+   0.0,
+   2.04
+  ],
+  "first_person": [
+   2.29,
+   3.922
+  ],
+  "third_person": [
+   4.172,
+   6.212
+  ],
+  "question": [
+   6.462,
+   8.31
+  ],
+  "answer": [
+   8.56,
+   10.408
+  ]
+ },
+ "adjetivos-sustantivos_25": {
+  "idiom": [
+   0.0,
+   1.68
+  ],
+  "first_person": [
+   1.93,
+   4.402
+  ],
+  "third_person": [
+   4.652,
+   6.38
+  ],
+  "question": [
+   6.63,
+   8.238
+  ],
+  "answer": [
+   8.488,
+   10.6
+  ]
+ },
+ "adjetivos-sustantivos_26": {
+  "idiom": [
+   0.0,
+   1.848
+  ],
+  "first_person": [
+   2.098,
+   3.898
+  ],
+  "third_person": [
+   4.148,
+   5.876
+  ],
+  "question": [
+   6.126,
+   7.926
+  ],
+  "answer": [
+   8.176,
+   10.456
+  ]
+ },
+ "adjetivos-sustantivos_27": {
+  "idiom": [
+   0.0,
+   1.872
+  ],
+  "first_person": [
+   2.122,
+   4.09
+  ],
+  "third_person": [
+   4.34,
+   6.02
+  ],
+  "question": [
+   6.27,
+   7.95
+  ],
+  "answer": [
+   8.2,
+   10.408
+  ]
+ },
+ "adjetivos-sustantivos_28": {
+  "idiom": [
+   0.0,
+   1.848
+  ],
+  "first_person": [
+   2.098,
+   3.946
+  ],
+  "third_person": [
+   4.196,
+   5.684
+  ],
+  "question": [
+   5.934,
+   7.566
+  ],
+  "answer": [
+   7.816,
+   9.736
+  ]
+ },
+ "adjetivos-sustantivos_29": {
+  "idiom": [
+   0.0,
+   1.752
+  ],
+  "first_person": [
+   2.002,
+   3.442
+  ],
+  "third_person": [
+   3.692,
+   5.372
+  ],
+  "question": [
+   5.622,
+   7.542
+  ],
+  "answer": [
+   7.792,
+   9.544
+  ]
+ },
+ "adjetivos-sustantivos_3": {
+  "idiom": [
+   0.0,
+   1.848
+  ],
+  "first_person": [
+   2.098,
+   3.97
+  ],
+  "third_person": [
+   4.22,
+   5.78
+  ],
+  "question": [
+   6.03,
+   7.758
+  ],
+  "answer": [
+   8.008,
+   10.096
+  ]
+ },
+ "adjetivos-sustantivos_30": {
+  "idiom": [
+   0.0,
+   1.68
+  ],
+  "first_person": [
+   1.93,
+   3.538
+  ],
+  "third_person": [
+   3.788,
+   5.588
+  ],
+  "question": [
+   5.838,
+   7.566
+  ],
+  "answer": [
+   7.816,
+   9.736
+  ]
+ },
+ "adjetivos-sustantivos_31": {
+  "idiom": [
+   0.0,
+   1.968
+  ],
+  "first_person": [
+   2.218,
+   3.85
+  ],
+  "third_person": [
+   4.1,
+   5.612
+  ],
+  "question": [
+   5.862,
+   7.35
+  ],
+  "answer": [
+   7.6,
+   9.64
+  ]
+ },
+ "adjetivos-sustantivos_32": {
+  "idiom": [
+   0.0,
+   1.608
+  ],
+  "first_person": [
+   1.858,
+   3.49
+  ],
+  "third_person": [
+   3.74,
+   5.372
+  ],
+  "question": [
+   5.622,
+   7.014
+  ],
+  "answer": [
+   7.264,
+   9.112
+  ]
+ },
+ "adjetivos-sustantivos_33": {
+  "idiom": [
+   0.0,
+   2.88
+  ],
+  "first_person": [
+   3.13,
+   4.978
+  ],
+  "third_person": [
+   5.228,
+   7.076
+  ],
+  "question": [
+   7.326,
+   9.126
+  ],
+  "answer": [
+   9.376,
+   11.728
+  ]
+ },
+ "adjetivos-sustantivos_34": {
+  "idiom": [
+   0.0,
+   1.56
+  ],
+  "first_person": [
+   1.81,
+   4.138
+  ],
+  "third_person": [
+   4.388,
+   5.876
+  ],
+  "question": [
+   6.126,
+   7.734
+  ],
+  "answer": [
+   7.984,
+   10.192
+  ]
+ },
+ "adjetivos-sustantivos_35": {
+  "idiom": [
+   0.0,
+   1.032
+  ],
+  "first_person": [
+   1.282,
+   3.37
+  ],
+  "third_person": [
+   3.62,
+   4.892
+  ],
+  "question": [
+   5.142,
+   6.39
+  ],
+  "answer": [
+   6.64,
+   8.44
+  ]
+ },
+ "adjetivos-sustantivos_36": {
+  "idiom": [
+   0.0,
+   1.728
+  ],
+  "first_person": [
+   1.978,
+   3.85
+  ],
+  "third_person": [
+   4.1,
+   5.9
+  ],
+  "question": [
+   6.15,
+   7.59
+  ],
+  "answer": [
+   7.84,
+   10.072
+  ]
+ },
+ "adjetivos-sustantivos_37": {
+  "idiom": [
+   0.0,
+   1.752
+  ],
+  "first_person": [
+   2.002,
+   3.85
+  ],
+  "third_person": [
+   4.1,
+   5.9
+  ],
+  "question": [
+   6.15,
+   7.638
+  ],
+  "answer": [
+   7.888,
+   10.12
+  ]
+ },
+ "adjetivos-sustantivos_38": {
+  "idiom": [
+   0.0,
+   1.848
+  ],
+  "first_person": [
+   2.098,
+   4.186
+  ],
+  "third_person": [
+   4.436,
+   5.924
+  ],
+  "question": [
+   6.174,
+   7.566
+  ],
+  "answer": [
+   7.816,
+   9.664
+  ]
+ },
+ "adjetivos-sustantivos_39": {
+  "idiom": [
+   0.0,
+   1.92
+  ],
+  "first_person": [
+   2.17,
+   3.922
+  ],
+  "third_person": [
+   4.172,
+   5.804
+  ],
+  "question": [
+   6.054,
+   7.662
+  ],
+  "answer": [
+   7.912,
+   10.432
+  ]
+ },
+ "adjetivos-sustantivos_4": {
+  "idiom": [
+   0.0,
+   1.872
+  ],
+  "first_person": [
+   2.122,
+   3.922
+  ],
+  "third_person": [
+   4.172,
+   5.924
+  ],
+  "question": [
+   6.174,
+   7.494
+  ],
+  "answer": [
+   7.744,
+   9.952
+  ]
+ },
+ "adjetivos-sustantivos_40": {
+  "idiom": [
+   0.0,
+   1.512
+  ],
+  "first_person": [
+   1.762,
+   3.85
+  ],
+  "third_person": [
+   4.1,
+   5.54
+  ],
+  "question": [
+   5.79,
+   7.302
+  ],
+  "answer": [
+   7.552,
+   8.944
+  ]
+ },
+ "adjetivos-sustantivos_41": {
+  "idiom": [
+   0.0,
+   1.728
+  ],
+  "first_person": [
+   1.978,
+   3.61
+  ],
+  "third_person": [
+   3.86,
+   5.588
+  ],
+  "question": [
+   5.838,
+   7.11
+  ],
+  "answer": [
+   7.36,
+   9.52
+  ]
+ },
+ "adjetivos-sustantivos_42": {
+  "idiom": [
+   0.0,
+   1.872
+  ],
+  "first_person": [
+   2.122,
+   4.594
+  ],
+  "third_person": [
+   4.844,
+   6.524
+  ],
+  "question": [
+   6.774,
+   8.262
+  ],
+  "answer": [
+   8.512,
+   10.552
+  ]
+ },
+ "adjetivos-sustantivos_43": {
+  "idiom": [
+   0.0,
+   1.728
+  ],
+  "first_person": [
+   1.978,
+   3.658
+  ],
+  "third_person": [
+   3.908,
+   5.54
+  ],
+  "question": [
+   5.79,
+   7.182
+  ],
+  "answer": [
+   7.432,
+   9.64
+  ]
+ },
+ "adjetivos-sustantivos_44": {
+  "idiom": [
+   0.0,
+   1.8
+  ],
+  "first_person": [
+   2.05,
+   4.09
+  ],
+  "third_person": [
+   4.34,
+   6.14
+  ],
+  "question": [
+   6.39,
+   7.95
+  ],
+  "answer": [
+   8.2,
+   10.552
+  ]
+ },
+ "adjetivos-sustantivos_45": {
+  "idiom": [
+   0.0,
+   1.968
+  ],
+  "first_person": [
+   2.218,
+   4.138
+  ],
+  "third_person": [
+   4.388,
+   6.26
+  ],
+  "question": [
+   6.51,
+   8.142
+  ],
+  "answer": [
+   8.392,
+   10.744
+  ]
+ },
+ "adjetivos-sustantivos_46": {
+  "idiom": [
+   0.0,
+   1.848
+  ],
+  "first_person": [
+   2.098,
+   4.306
+  ],
+  "third_person": [
+   4.556,
+   6.404
+  ],
+  "question": [
+   6.654,
+   7.974
+  ],
+  "answer": [
+   8.224,
+   10.096
+  ]
+ },
+ "adjetivos-sustantivos_47": {
+  "idiom": [
+   0.0,
+   1.992
+  ],
+  "first_person": [
+   2.242,
+   4.522
+  ],
+  "third_person": [
+   4.772,
+   6.164
+  ],
+  "question": [
+   6.414,
+   7.902
+  ],
+  "answer": [
+   8.152,
+   10.744
+  ]
+ },
+ "adjetivos-sustantivos_48": {
+  "idiom": [
+   0.0,
+   1.632
+  ],
+  "first_person": [
+   1.882,
+   3.61
+  ],
+  "third_person": [
+   3.86,
+   5.732
+  ],
+  "question": [
+   5.982,
+   7.71
+  ],
+  "answer": [
+   7.96,
+   9.88
+  ]
+ },
+ "adjetivos-sustantivos_49": {
+  "idiom": [
+   0.0,
+   1.848
+  ],
+  "first_person": [
+   2.098,
+   3.61
+  ],
+  "third_person": [
+   3.86,
+   5.54
+  ],
+  "question": [
+   5.79,
+   7.302
+  ],
+  "answer": [
+   7.552,
+   9.664
+  ]
+ },
+ "adjetivos-sustantivos_5": {
+  "idiom": [
+   0.0,
+   1.92
+  ],
+  "first_person": [
+   2.17,
+   4.762
+  ],
+  "third_person": [
+   5.012,
+   6.5
+  ],
+  "question": [
+   6.75,
+   8.382
+  ],
+  "answer": [
+   8.632,
+   10.96
+  ]
+ },
+ "adjetivos-sustantivos_50": {
+  "idiom": [
+   0.0,
+   1.872
+  ],
+  "first_person": [
+   2.122,
+   4.09
+  ],
+  "third_person": [
+   4.34,
+   6.188
+  ],
+  "question": [
+   6.438,
+   8.31
+  ],
+  "answer": [
+   8.56,
+   10.552
+  ]
+ },
+ "adjetivos-sustantivos_51": {
+  "idiom": [
+   0.0,
+   1.92
+  ],
+  "first_person": [
+   2.17,
+   4.282
+  ],
+  "third_person": [
+   4.532,
+   6.14
+  ],
+  "question": [
+   6.39,
+   7.902
+  ],
+  "answer": [
+   8.152,
+   10.0
+  ]
+ },
+ "adjetivos-sustantivos_52": {
+  "idiom": [
+   0.0,
+   1.872
+  ],
+  "first_person": [
+   2.122,
+   3.514
+  ],
+  "third_person": [
+   3.764,
+   5.372
+  ],
+  "question": [
+   5.622,
+   7.014
+  ],
+  "answer": [
+   7.264,
+   9.424
+  ]
+ },
+ "adjetivos-sustantivos_53": {
+  "idiom": [
+   0.0,
+   1.848
+  ],
+  "first_person": [
+   2.098,
+   3.898
+  ],
+  "third_person": [
+   4.148,
+   5.78
+  ],
+  "question": [
+   6.03,
+   7.662
+  ],
+  "answer": [
+   7.912,
+   9.712
+  ]
+ },
+ "adjetivos-sustantivos_54": {
+  "idiom": [
+   0.0,
+   1.8
+  ],
+  "first_person": [
+   2.05,
+   3.682
+  ],
+  "third_person": [
+   3.932,
+   5.444
+  ],
+  "question": [
+   5.694,
+   7.182
+  ],
+  "answer": [
+   7.432,
+   9.472
+  ]
+ },
+ "adjetivos-sustantivos_55": {
+  "idiom": [
+   0.0,
+   1.872
+  ],
+  "first_person": [
+   2.122,
+   3.754
+  ],
+  "third_person": [
+   4.004,
+   6.092
+  ],
+  "question": [
+   6.342,
+   7.662
+  ],
+  "answer": [
+   7.912,
+   10.0
+  ]
+ },
+ "adjetivos-sustantivos_56": {
+  "idiom": [
+   0.0,
+   1.752
+  ],
+  "first_person": [
+   2.002,
+   4.33
+  ],
+  "third_person": [
+   4.58,
+   6.308
+  ],
+  "question": [
+   6.558,
+   8.07
+  ],
+  "answer": [
+   8.32,
+   10.528
+  ]
+ },
+ "adjetivos-sustantivos_57": {
+  "idiom": [
+   0.0,
+   1.872
+  ],
+  "first_person": [
+   2.122,
+   3.61
+  ],
+  "third_person": [
+   3.86,
+   5.468
+  ],
+  "question": [
+   5.718,
+   6.966
+  ],
+  "answer": [
+   7.216,
+   8.944
+  ]
+ },
+ "adjetivos-sustantivos_58": {
+  "idiom": [
+   0.0,
+   1.728
+  ],
+  "first_person": [
+   1.978,
+   3.538
+  ],
+  "third_person": [
+   3.788,
+   5.636
+  ],
+  "question": [
+   5.886,
+   7.374
+  ],
+  "answer": [
+   7.624,
+   9.592
+  ]
+ },
+ "adjetivos-sustantivos_59": {
+  "idiom": [
+   0.0,
+   1.8
+  ],
+  "first_person": [
+   2.05,
+   3.85
+  ],
+  "third_person": [
+   4.1,
+   5.66
+  ],
+  "question": [
+   5.91,
+   7.422
+  ],
+  "answer": [
+   7.672,
+   9.232
+  ]
+ },
+ "adjetivos-sustantivos_6": {
+  "idiom": [
+   0.0,
+   1.752
+  ],
+  "first_person": [
+   2.002,
+   3.922
+  ],
+  "third_person": [
+   4.172,
+   5.66
+  ],
+  "question": [
+   5.91,
+   7.59
+  ],
+  "answer": [
+   7.84,
+   9.952
+  ]
+ },
+ "adjetivos-sustantivos_60": {
+  "idiom": [
+   0.0,
+   1.848
+  ],
+  "first_person": [
+   2.098,
+   3.97
+  ],
+  "third_person": [
+   4.22,
+   6.068
+  ],
+  "question": [
+   6.318,
+   7.758
+  ],
+  "answer": [
+   8.008,
+   9.88
+  ]
+ },
+ "adjetivos-sustantivos_61": {
+  "idiom": [
+   0.0,
+   1.632
+  ],
+  "first_person": [
+   1.882,
+   3.61
+  ],
+  "third_person": [
+   3.86,
+   5.468
+  ],
+  "question": [
+   5.718,
+   7.35
+  ],
+  "answer": [
+   7.6,
+   9.64
+  ]
+ },
+ "adjetivos-sustantivos_62": {
+  "idiom": [
+   0.0,
+   1.728
+  ],
+  "first_person": [
+   1.978,
+   3.706
+  ],
+  "third_person": [
+   3.956,
+   5.588
+  ],
+  "question": [
+   5.838,
+   7.278
+  ],
+  "answer": [
+   7.528,
+   9.856
+  ]
+ },
+ "adjetivos-sustantivos_63": {
+  "idiom": [
+   0.0,
+   1.8
+  ],
+  "first_person": [
+   2.05,
+   4.258
+  ],
+  "third_person": [
+   4.508,
+   6.356
+  ],
+  "question": [
+   6.606,
+   7.998
+  ],
+  "answer": [
+   8.248,
+   10.576
+  ]
+ },
+ "adjetivos-sustantivos_64": {
+  "idiom": [
+   0.0,
+   1.92
+  ],
+  "first_person": [
+   2.17,
+   3.85
+  ],
+  "third_person": [
+   4.1,
+   5.9
+  ],
+  "question": [
+   6.15,
+   7.542
+  ],
+  "answer": [
+   7.792,
+   10.024
+  ]
+ },
+ "adjetivos-sustantivos_65": {
+  "idiom": [
+   0.0,
+   1.92
+  ],
+  "first_person": [
+   2.17,
+   3.97
+  ],
+  "third_person": [
+   4.22,
+   5.828
+  ],
+  "question": [
+   6.078,
+   7.47
+  ],
+  "answer": [
+   7.72,
+   9.592
+  ]
+ },
+ "adjetivos-sustantivos_66": {
+  "idiom": [
+   0.0,
+   1.968
+  ],
+  "first_person": [
+   2.218,
+   4.45
+  ],
+  "third_person": [
+   4.7,
+   6.74
+  ],
+  "question": [
+   6.99,
+   8.43
+  ],
+  "answer": [
+   8.68,
+   10.888
+  ]
+ },
+ "adjetivos-sustantivos_67": {
+  "idiom": [
+   0.0,
+   1.752
+  ],
+  "first_person": [
+   2.002,
+   3.922
+  ],
+  "third_person": [
+   4.172,
+   5.9
+  ],
+  "question": [
+   6.15,
+   7.83
+  ],
+  "answer": [
+   8.08,
+   10.36
+  ]
+ },
+ "adjetivos-sustantivos_68": {
+  "idiom": [
+   0.0,
+   1.872
+  ],
+  "first_person": [
+   2.122,
+   3.634
+  ],
+  "third_person": [
+   3.884,
+   5.612
+  ],
+  "question": [
+   5.862,
+   7.422
+  ],
+  "answer": [
+   7.672,
+   9.832
+  ]
+ },
+ "adjetivos-sustantivos_69": {
+  "idiom": [
+   0.0,
+   1.92
+  ],
+  "first_person": [
+   2.17,
+   3.85
+  ],
+  "third_person": [
+   4.1,
+   5.78
+  ],
+  "question": [
+   6.03,
+   7.422
+  ],
+  "answer": [
+   7.672,
+   10.432
+  ]
+ },
+ "adjetivos-sustantivos_7": {
+  "idiom": [
+   0.0,
+   2.04
+  ],
+  "first_person": [
+   2.29,
+   4.018
+  ],
+  "third_person": [
+   4.268,
+   5.708
+  ],
+  "question": [
+   5.958,
+   7.446
+  ],
+  "answer": [
+   7.696,
+   8.896
+  ]
+ },
+ "adjetivos-sustantivos_70": {
+  "idiom": [
+   0.0,
+   2.088
+  ],
+  "first_person": [
+   2.338,
+   4.21
+  ],
+  "third_person": [
+   4.46,
+   6.332
+  ],
+  "question": [
+   6.582,
+   8.262
+  ],
+  "answer": [
+   8.512,
+   10.36
+  ]
+ },
+ "adjetivos-sustantivos_71": {
+  "idiom": [
+   0.0,
+   1.848
+  ],
+  "first_person": [
+   2.098,
+   3.778
+  ],
+  "third_person": [
+   4.028,
+   5.66
+  ],
+  "question": [
+   5.91,
+   7.47
+  ],
+  "answer": [
+   7.72,
+   9.448
+  ]
+ },
+ "adjetivos-sustantivos_72": {
+  "idiom": [
+   0.0,
+   1.728
+  ],
+  "first_person": [
+   1.978,
+   3.946
+  ],
+  "third_person": [
+   4.196,
+   5.684
+  ],
+  "question": [
+   5.934,
+   7.686
+  ],
+  "answer": [
+   7.936,
+   9.904
+  ]
+ },
+ "adjetivos-sustantivos_73": {
+  "idiom": [
+   0.0,
+   1.92
+  ],
+  "first_person": [
+   2.17,
+   4.21
+  ],
+  "third_person": [
+   4.46,
+   6.14
+  ],
+  "question": [
+   6.39,
+   7.902
+  ],
+  "answer": [
+   8.152,
+   10.264
+  ]
+ },
+ "adjetivos-sustantivos_74": {
+  "idiom": [
+   0.0,
+   1.8
+  ],
+  "first_person": [
+   2.05,
+   3.682
+  ],
+  "third_person": [
+   3.932,
+   5.564
+  ],
+  "question": [
+   5.814,
+   7.206
+  ],
+  "answer": [
+   7.456,
+   9.184
+  ]
+ },
+ "adjetivos-sustantivos_75": {
+  "idiom": [
+   0.0,
+   1.8
+  ],
+  "first_person": [
+   2.05,
+   3.898
+  ],
+  "third_person": [
+   4.148,
+   6.188
+  ],
+  "question": [
+   6.438,
+   7.926
+  ],
+  "answer": [
+   8.176,
+   9.976
+  ]
+ },
+ "adjetivos-sustantivos_76": {
+  "idiom": [
+   0.0,
+   2.04
+  ],
+  "first_person": [
+   2.29,
+   4.33
+  ],
+  "third_person": [
+   4.58,
+   6.5
+  ],
+  "question": [
+   6.75,
+   8.238
+  ],
+  "answer": [
+   8.488,
+   10.96
+  ]
+ },
+ "adjetivos-sustantivos_77": {
+  "idiom": [
+   0.0,
+   1.8
+  ],
+  "first_person": [
+   2.05,
+   4.21
+  ],
+  "third_person": [
+   4.46,
+   6.62
+  ],
+  "question": [
+   6.87,
+   8.622
+  ],
+  "answer": [
+   8.872,
+   11.2
+  ]
+ },
+ "adjetivos-sustantivos_78": {
+  "idiom": [
+   0.0,
+   1.8
+  ],
+  "first_person": [
+   2.05,
+   4.138
+  ],
+  "third_person": [
+   4.388,
+   6.5
+  ],
+  "question": [
+   6.75,
+   8.142
+  ],
+  "answer": [
+   8.392,
+   10.264
+  ]
+ },
+ "adjetivos-sustantivos_79": {
+  "idiom": [
+   0.0,
+   2.232
+  ],
+  "first_person": [
+   2.482,
+   4.33
+  ],
+  "third_person": [
+   4.58,
+   6.092
+  ],
+  "question": [
+   6.342,
+   8.07
+  ],
+  "answer": [
+   8.32,
+   10.408
+  ]
+ },
+ "adjetivos-sustantivos_8": {
+  "idiom": [
+   0.0,
+   1.968
+  ],
+  "first_person": [
+   2.218,
+   4.618
+  ],
+  "third_person": [
+   4.868,
+   6.476
+  ],
+  "question": [
+   6.726,
+   8.934
+  ],
+  "answer": [
+   9.184,
+   11.536
+  ]
+ },
+ "adjetivos-sustantivos_80": {
+  "idiom": [
+   0.0,
+   1.968
+  ],
+  "first_person": [
+   2.218,
+   4.186
+  ],
+  "third_person": [
+   4.436,
+   5.996
+  ],
+  "question": [
+   6.246,
+   7.686
+  ],
+  "answer": [
+   7.936,
+   9.424
+  ]
+ },
+ "adjetivos-sustantivos_81": {
+  "idiom": [
+   0.0,
+   1.728
+  ],
+  "first_person": [
+   1.978,
+   4.018
+  ],
+  "third_person": [
+   4.268,
+   6.02
+  ],
+  "question": [
+   6.27,
+   7.758
+  ],
+  "answer": [
+   8.008,
+   10.768
+  ]
+ },
+ "adjetivos-sustantivos_82": {
+  "idiom": [
+   0.0,
+   1.512
+  ],
+  "first_person": [
+   1.762,
+   3.37
+  ],
+  "third_person": [
+   3.62,
+   5.348
+  ],
+  "question": [
+   5.598,
+   7.158
+  ],
+  "answer": [
+   7.408,
+   9.136
+  ]
+ },
+ "adjetivos-sustantivos_83": {
+  "idiom": [
+   0.0,
+   1.632
+  ],
+  "first_person": [
+   1.882,
+   4.21
+  ],
+  "third_person": [
+   4.46,
+   6.02
+  ],
+  "question": [
+   6.27,
+   7.542
+  ],
+  "answer": [
+   7.792,
+   9.712
+  ]
+ },
+ "adjetivos-sustantivos_84": {
+  "idiom": [
+   0.0,
+   1.8
+  ],
+  "first_person": [
+   2.05,
+   3.922
+  ],
+  "third_person": [
+   4.172,
+   5.684
+  ],
+  "question": [
+   5.934,
+   7.254
+  ],
+  "answer": [
+   7.504,
+   9.352
+  ]
+ },
+ "adjetivos-sustantivos_85": {
+  "idiom": [
+   0.0,
+   1.608
+  ],
+  "first_person": [
+   1.858,
+   3.658
+  ],
+  "third_person": [
+   3.908,
+   5.42
+  ],
+  "question": [
+   5.67,
+   6.99
+  ],
+  "answer": [
+   7.24,
+   9.232
+  ]
+ },
+ "adjetivos-sustantivos_86": {
+  "idiom": [
+   0.0,
+   1.752
+  ],
+  "first_person": [
+   2.002,
+   4.33
+  ],
+  "third_person": [
+   4.58,
+   6.572
+  ],
+  "question": [
+   6.822,
+   8.262
+  ],
+  "answer": [
+   8.512,
+   10.6
+  ]
+ },
+ "adjetivos-sustantivos_87": {
+  "idiom": [
+   0.0,
+   1.752
+  ],
+  "first_person": [
+   2.002,
+   4.09
+  ],
+  "third_person": [
+   4.34,
+   5.78
+  ],
+  "question": [
+   6.03,
+   7.422
+  ],
+  "answer": [
+   7.672,
+   9.544
+  ]
+ },
+ "adjetivos-sustantivos_88": {
+  "idiom": [
+   0.0,
+   3.12
+  ],
+  "first_person": [
+   3.37,
+   5.338
+  ],
+  "third_person": [
+   5.588,
+   7.148
+  ],
+  "question": [
+   7.398,
+   9.126
+  ],
+  "answer": [
+   9.376,
+   11.056
+  ]
+ },
+ "adjetivos-sustantivos_89": {
+  "idiom": [
+   0.0,
+   1.92
+  ],
+  "first_person": [
+   2.17,
+   3.922
+  ],
+  "third_person": [
+   4.172,
+   5.9
+  ],
+  "question": [
+   6.15,
+   7.902
+  ],
+  "answer": [
+   8.152,
+   10.504
+  ]
+ },
+ "adjetivos-sustantivos_9": {
+  "idiom": [
+   0.0,
+   1.848
+  ],
+  "first_person": [
+   2.098,
+   4.186
+  ],
+  "third_person": [
+   4.436,
+   6.356
+  ],
+  "question": [
+   6.606,
+   8.454
+  ],
+  "answer": [
+   8.704,
+   11.056
+  ]
+ },
+ "adjetivos-sustantivos_90": {
+  "idiom": [
+   0.0,
+   2.16
+  ],
+  "first_person": [
+   2.41,
+   4.858
+  ],
+  "third_person": [
+   5.108,
+   6.788
+  ],
+  "question": [
+   7.038,
+   8.598
+  ],
+  "answer": [
+   8.848,
+   11.008
+  ]
+ },
+ "adjetivos-sustantivos_91": {
+  "idiom": [
+   0.0,
+   1.968
+  ],
+  "first_person": [
+   2.218,
+   4.498
+  ],
+  "third_person": [
+   4.748,
+   6.5
+  ],
+  "question": [
+   6.75,
+   8.238
+  ],
+  "answer": [
+   8.488,
+   10.36
+  ]
+ },
+ "adjetivos-sustantivos_92": {
+  "idiom": [
+   0.0,
+   1.8
+  ],
+  "first_person": [
+   2.05,
+   4.138
+  ],
+  "third_person": [
+   4.388,
+   5.948
+  ],
+  "question": [
+   6.198,
+   7.686
+  ],
+  "answer": [
+   7.936,
+   10.408
+  ]
+ },
+ "adjetivos-sustantivos_93": {
+  "idiom": [
+   0.0,
+   1.752
+  ],
+  "first_person": [
+   2.002,
+   4.042
+  ],
+  "third_person": [
+   4.292,
+   6.044
+  ],
+  "question": [
+   6.294,
+   7.686
+  ],
+  "answer": [
+   7.936,
+   10.024
+  ]
+ },
+ "adjetivos-sustantivos_94": {
+  "idiom": [
+   0.0,
+   1.992
+  ],
+  "first_person": [
+   2.242,
+   3.874
+  ],
+  "third_person": [
+   4.124,
+   5.756
+  ],
+  "question": [
+   6.006,
+   7.398
+  ],
+  "answer": [
+   7.648,
+   10.0
+  ]
+ },
+ "adjetivos-sustantivos_95": {
+  "idiom": [
+   0.0,
+   2.04
+  ],
+  "first_person": [
+   2.29,
+   4.378
+  ],
+  "third_person": [
+   4.628,
+   6.428
+  ],
+  "question": [
+   6.678,
+   8.19
+  ],
+  "answer": [
+   8.44,
+   10.888
+  ]
+ },
+ "adjetivos-sustantivos_96": {
+  "idiom": [
+   0.0,
+   1.848
+  ],
+  "first_person": [
+   2.098,
+   3.97
+  ],
+  "third_person": [
+   4.22,
+   5.66
+  ],
+  "question": [
+   5.91,
+   7.422
+  ],
+  "answer": [
+   7.672,
+   9.64
+  ]
+ },
+ "adjetivos-sustantivos_97": {
+  "idiom": [
+   0.0,
+   1.8
+  ],
+  "first_person": [
+   2.05,
+   3.802
+  ],
+  "third_person": [
+   4.052,
+   5.54
+  ],
+  "question": [
+   5.79,
+   7.302
+  ],
+  "answer": [
+   7.552,
+   9.304
+  ]
+ },
+ "adjetivos-sustantivos_98": {
+  "idiom": [
+   0.0,
+   2.208
+  ],
+  "first_person": [
+   2.458,
+   4.69
+  ],
+  "third_person": [
+   4.94,
+   6.668
+  ],
+  "question": [
+   6.918,
+   8.406
+  ],
+  "answer": [
+   8.656,
+   10.984
+  ]
+ },
+ "adjetivos-sustantivos_99": {
+  "idiom": [
+   0.0,
+   1.8
+  ],
+  "first_person": [
+   2.05,
+   3.922
+  ],
+  "third_person": [
+   4.172,
+   5.78
+  ],
+  "question": [
+   6.03,
+   7.422
+  ],
+  "answer": [
+   7.672,
+   9.64
+  ]
+ },
+ "contracciones_1": {
+  "idiom": [
+   0.0,
+   2.208
+  ],
+  "first_person": [
+   2.458,
+   3.73
+  ],
+  "third_person": [
+   3.98,
+   5.252
+  ],
+  "question": [
+   5.502,
+   6.63
+  ],
+  "answer": [
+   6.88,
+   8.32
+  ]
+ },
+ "contracciones_10": {
+  "idiom": [
+   0.0,
+   2.712
+  ],
+  "first_person": [
+   2.962,
+   4.282
+  ],
+  "third_person": [
+   4.532,
+   6.092
+  ],
+  "question": [
+   6.342,
+   8.43
+  ],
+  "answer": [
+   8.68,
+   10.552
+  ]
+ },
+ "contracciones_11": {
+  "idiom": [
+   0.0,
+   1.8
+  ],
+  "first_person": [
+   2.05,
+   3.562
+  ],
+  "third_person": [
+   3.812,
+   5.084
+  ],
+  "question": [
+   5.334,
+   6.726
+  ],
+  "answer": [
+   6.976,
+   9.016
+  ]
+ },
+ "contracciones_12": {
+  "idiom": [
+   0.0,
+   1.272
+  ],
+  "first_person": [
+   1.522,
+   3.37
+  ],
+  "third_person": [
+   3.62,
+   5.18
+  ],
+  "question": [
+   5.43,
+   6.918
+  ],
+  "answer": [
+   7.168,
+   9.448
+  ]
+ },
+ "contracciones_13": {
+  "idiom": [
+   0.0,
+   0.912
+  ],
+  "first_person": [
+   1.162,
+   2.554
+  ],
+  "third_person": [
+   2.804,
+   4.076
+  ],
+  "question": [
+   4.326,
+   5.886
+  ],
+  "answer": [
+   6.136,
+   8.128
+  ]
+ },
+ "contracciones_14": {
+  "idiom": [
+   0.0,
+   1.8
+  ],
+  "first_person": [
+   2.05,
+   3.37
+  ],
+  "third_person": [
+   3.62,
+   5.66
+  ],
+  "question": [
+   5.91,
+   7.47
+  ],
+  "answer": [
+   7.72,
+   9.232
+  ]
+ },
+ "contracciones_15": {
+  "idiom": [
+   0.0,
+   4.632
+  ],
+  "first_person": [
+   4.882,
+   6.202
+  ],
+  "third_person": [
+   6.452,
+   7.844
+  ],
+  "question": [
+   8.094,
+   9.294
+  ],
+  "answer": [
+   9.544,
+   11.512
+  ]
+ },
+ "contracciones_16": {
+  "idiom": [
+   0.0,
+   1.8
+  ],
+  "first_person": [
+   2.05,
+   3.85
+  ],
+  "third_person": [
+   4.1,
+   6.26
+  ],
+  "question": [
+   6.51,
+   8.142
+  ],
+  "answer": [
+   8.392,
+   10.6
+  ]
+ },
+ "contracciones_17": {
+  "idiom": [
+   0.0,
+   1.848
+  ],
+  "first_person": [
+   2.098,
+   3.61
+  ],
+  "third_person": [
+   3.86,
+   5.492
+  ],
+  "question": [
+   5.742,
+   7.302
+  ],
+  "answer": [
+   7.552,
+   8.944
+  ]
+ },
+ "contracciones_18": {
+  "idiom": [
+   0.0,
+   2.088
+  ],
+  "first_person": [
+   2.338,
+   4.21
+  ],
+  "third_person": [
+   4.46,
+   6.692
+  ],
+  "question": [
+   6.942,
+   8.334
+  ],
+  "answer": [
+   8.584,
+   11.176
+  ]
+ },
+ "contracciones_19": {
+  "idiom": [
+   0.0,
+   1.008
+  ],
+  "first_person": [
+   1.258,
+   3.226
+  ],
+  "third_person": [
+   3.476,
+   5.708
+  ],
+  "question": [
+   5.958,
+   7.638
+  ],
+  "answer": [
+   7.888,
+   9.616
+  ]
+ },
+ "contracciones_2": {
+  "idiom": [
+   0.0,
+   2.952
+  ],
+  "first_person": [
+   3.202,
+   4.474
+  ],
+  "third_person": [
+   4.724,
+   6.212
+  ],
+  "question": [
+   6.462,
+   7.782
+  ],
+  "answer": [
+   8.032,
+   9.592
+  ]
+ },
+ "contracciones_20": {
+  "idiom": [
+   0.0,
+   0.912
+  ],
+  "first_person": [
+   1.162,
+   2.554
+  ],
+  "third_person": [
+   2.804,
+   4.364
+  ],
+  "question": [
+   4.614,
+   5.886
+  ],
+  "answer": [
+   6.136,
+   8.416
+  ]
+ },
+ "contracciones_21": {
+  "idiom": [
+   0.0,
+   2.808
+  ],
+  "first_person": [
+   3.058,
+   4.45
+  ],
+  "third_person": [
+   4.7,
+   6.14
+  ],
+  "question": [
+   6.39,
+   7.47
+  ],
+  "answer": [
+   7.72,
+   9.808
+  ]
+ },
+ "contracciones_22": {
+  "idiom": [
+   0.0,
+   0.6
+  ],
+  "first_person": [
+   0.85,
+   2.122
+  ],
+  "third_person": [
+   2.372,
+   3.452
+  ],
+  "question": [
+   3.702,
+   4.782
+  ],
+  "answer": [
+   5.032,
+   6.16
+  ]
+ },
+ "contracciones_23": {
+  "idiom": [
+   0.0,
+   1.56
+  ],
+  "first_person": [
+   1.81,
+   3.322
+  ],
+  "third_person": [
+   3.572,
+   5.06
+  ],
+  "question": [
+   5.31,
+   6.51
+  ],
+  "answer": [
+   6.76,
+   9.088
+  ]
+ },
+ "contracciones_24": {
+  "idiom": [
+   0.0,
+   1.752
+  ],
+  "first_person": [
+   2.002,
+   3.514
+  ],
+  "third_person": [
+   3.764,
+   5.612
+  ],
+  "question": [
+   5.862,
+   7.182
+  ],
+  "answer": [
+   7.432,
+   9.664
+  ]
+ },
+ "contracciones_25": {
+  "idiom": [
+   0.0,
+   2.16
+  ],
+  "first_person": [
+   2.41,
+   3.802
+  ],
+  "third_person": [
+   4.052,
+   5.612
+  ],
+  "question": [
+   5.862,
+   7.11
+  ],
+  "answer": [
+   7.36,
+   9.04
+  ]
+ },
+ "contracciones_3": {
+  "idiom": [
+   0.0,
+   2.4
+  ],
+  "first_person": [
+   2.65,
+   4.138
+  ],
+  "third_person": [
+   4.388,
+   5.78
+  ],
+  "question": [
+   6.03,
+   7.278
+  ],
+  "answer": [
+   7.528,
+   9.4
+  ]
+ },
+ "contracciones_4": {
+  "idiom": [
+   0.0,
+   0.888
+  ],
+  "first_person": [
+   1.138,
+   2.746
+  ],
+  "third_person": [
+   2.996,
+   4.676
+  ],
+  "question": [
+   4.926,
+   6.198
+  ],
+  "answer": [
+   6.448,
+   8.248
+  ]
+ },
+ "contracciones_5": {
+  "idiom": [
+   0.0,
+   1.8
+  ],
+  "first_person": [
+   2.05,
+   3.25
+  ],
+  "third_person": [
+   3.5,
+   4.94
+  ],
+  "question": [
+   5.19,
+   6.198
+  ],
+  "answer": [
+   6.448,
+   8.08
+  ]
+ },
+ "contracciones_6": {
+  "idiom": [
+   0.0,
+   1.728
+  ],
+  "first_person": [
+   1.978,
+   3.538
+  ],
+  "third_person": [
+   3.788,
+   5.276
+  ],
+  "question": [
+   5.526,
+   6.774
+  ],
+  "answer": [
+   7.024,
+   8.656
+  ]
+ },
+ "contracciones_7": {
+  "idiom": [
+   0.0,
+   1.968
+  ],
+  "first_person": [
+   2.218,
+   4.018
+  ],
+  "third_person": [
+   4.268,
+   5.708
+  ],
+  "question": [
+   5.958,
+   7.518
+  ],
+  "answer": [
+   7.768,
+   9.856
+  ]
+ },
+ "contracciones_8": {
+  "idiom": [
+   0.0,
+   1.008
+  ],
+  "first_person": [
+   1.258,
+   2.746
+  ],
+  "third_person": [
+   2.996,
+   4.484
+  ],
+  "question": [
+   4.734,
+   5.982
+  ],
+  "answer": [
+   6.232,
+   8.224
+  ]
+ },
+ "contracciones_9": {
+  "idiom": [
+   0.0,
+   0.912
+  ],
+  "first_person": [
+   1.162,
+   2.602
+  ],
+  "third_person": [
+   2.852,
+   4.892
+  ],
+  "question": [
+   5.142,
+   6.414
+  ],
+  "answer": [
+   6.664,
+   8.704
+  ]
+ },
+ "frases-nativas_1": {
+  "idiom": [
+   0.0,
+   1.008
+  ],
+  "first_person": [
+   1.258,
+   2.746
+  ],
+  "third_person": [
+   2.996,
+   4.484
+  ],
+  "question": [
+   4.734,
+   5.934
+  ],
+  "answer": [
+   6.184,
+   8.896
+  ]
+ },
+ "frases-nativas_10": {
+  "idiom": [
+   0.0,
+   1.2
+  ],
+  "first_person": [
+   1.45,
+   3.562
+  ],
+  "third_person": [
+   3.812,
+   6.164
+  ],
+  "question": [
+   6.414,
+   7.974
+  ],
+  "answer": [
+   8.224,
+   10.696
+  ]
+ },
+ "frases-nativas_100": {
+  "idiom": [
+   0.0,
+   1.44
+  ],
+  "first_person": [
+   1.69,
+   4.762
+  ],
+  "third_person": [
+   5.012,
+   7.892
+  ],
+  "question": [
+   8.142,
+   10.302
+  ],
+  "answer": [
+   10.552,
+   13.072
+  ]
+ },
+ "frases-nativas_11": {
+  "idiom": [
+   0.0,
+   1.272
+  ],
+  "first_person": [
+   1.522,
+   3.61
+  ],
+  "third_person": [
+   3.86,
+   5.852
+  ],
+  "question": [
+   6.102,
+   7.59
+  ],
+  "answer": [
+   7.84,
+   10.312
+  ]
+ },
+ "frases-nativas_12": {
+  "idiom": [
+   0.0,
+   1.128
+  ],
+  "first_person": [
+   1.378,
+   3.13
+  ],
+  "third_person": [
+   3.38,
+   5.012
+  ],
+  "question": [
+   5.262,
+   6.702
+  ],
+  "answer": [
+   6.952,
+   9.232
+  ]
+ },
+ "frases-nativas_13": {
+  "idiom": [
+   0.0,
+   1.08
+  ],
+  "first_person": [
+   1.33,
+   2.578
+  ],
+  "third_person": [
+   2.828,
+   4.7
+  ],
+  "question": [
+   4.95,
+   6.342
+  ],
+  "answer": [
+   6.592,
+   8.752
+  ]
+ },
+ "frases-nativas_14": {
+  "idiom": [
+   0.0,
+   1.128
+  ],
+  "first_person": [
+   1.378,
+   3.01
+  ],
+  "third_person": [
+   3.26,
+   5.108
+  ],
+  "question": [
+   5.358,
+   7.038
+  ],
+  "answer": [
+   7.288,
+   9.736
+  ]
+ },
+ "frases-nativas_15": {
+  "idiom": [
+   0.0,
+   0.84
+  ],
+  "first_person": [
+   1.09,
+   3.202
+  ],
+  "third_person": [
+   3.452,
+   5.324
+  ],
+  "question": [
+   5.574,
+   8.142
+  ],
+  "answer": [
+   8.392,
+   10.624
+  ]
+ },
+ "frases-nativas_16": {
+  "idiom": [
+   0.0,
+   1.248
+  ],
+  "first_person": [
+   1.498,
+   3.058
+  ],
+  "third_person": [
+   3.308,
+   5.228
+  ],
+  "question": [
+   5.478,
+   6.726
+  ],
+  "answer": [
+   6.976,
+   10.264
+  ]
+ },
+ "frases-nativas_17": {
+  "idiom": [
+   0.0,
+   1.2
+  ],
+  "first_person": [
+   1.45,
+   3.61
+  ],
+  "third_person": [
+   3.86,
+   5.612
+  ],
+  "question": [
+   5.862,
+   7.542
+  ],
+  "answer": [
+   7.792,
+   10.672
+  ]
+ },
+ "frases-nativas_18": {
+  "idiom": [
+   0.0,
+   1.272
+  ],
+  "first_person": [
+   1.522,
+   3.514
+  ],
+  "third_person": [
+   3.764,
+   5.492
+  ],
+  "question": [
+   5.742,
+   7.134
+  ],
+  "answer": [
+   7.384,
+   9.544
+  ]
+ },
+ "frases-nativas_19": {
+  "idiom": [
+   0.0,
+   1.272
+  ],
+  "first_person": [
+   1.522,
+   3.274
+  ],
+  "third_person": [
+   3.524,
+   5.132
+  ],
+  "question": [
+   5.382,
+   7.062
+  ],
+  "answer": [
+   7.312,
+   9.52
+  ]
+ },
+ "frases-nativas_2": {
+  "idiom": [
+   0.0,
+   1.392
+  ],
+  "first_person": [
+   1.642,
+   3.61
+  ],
+  "third_person": [
+   3.86,
+   5.42
+  ],
+  "question": [
+   5.67,
+   7.062
+  ],
+  "answer": [
+   7.312,
+   10.0
+  ]
+ },
+ "frases-nativas_20": {
+  "idiom": [
+   0.0,
+   1.392
+  ],
+  "first_person": [
+   1.642,
+   3.37
+  ],
+  "third_person": [
+   3.62,
+   5.468
+  ],
+  "question": [
+   5.718,
+   7.23
+  ],
+  "answer": [
+   7.48,
+   9.592
+  ]
+ },
+ "frases-nativas_21": {
+  "idiom": [
+   0.0,
+   1.272
+  ],
+  "first_person": [
+   1.522,
+   3.994
+  ],
+  "third_person": [
+   4.244,
+   5.756
+  ],
+  "question": [
+   6.006,
+   7.494
+  ],
+  "answer": [
+   7.744,
+   10.336
+  ]
+ },
+ "frases-nativas_22": {
+  "idiom": [
+   0.0,
+   1.44
+  ],
+  "first_person": [
+   1.69,
+   3.802
+  ],
+  "third_person": [
+   4.052,
+   6.452
+  ],
+  "question": [
+   6.702,
+   8.19
+  ],
+  "answer": [
+   8.44,
+   10.672
+  ]
+ },
+ "frases-nativas_23": {
+  "idiom": [
+   0.0,
+   1.08
+  ],
+  "first_person": [
+   1.33,
+   2.962
+  ],
+  "third_person": [
+   3.212,
+   4.82
+  ],
+  "question": [
+   5.07,
+   6.63
+  ],
+  "answer": [
+   6.88,
+   9.04
+  ]
+ },
+ "frases-nativas_24": {
+  "idiom": [
+   0.0,
+   0.768
+  ],
+  "first_person": [
+   1.018,
+   3.298
+  ],
+  "third_person": [
+   3.548,
+   5.3
+  ],
+  "question": [
+   5.55,
+   7.182
+  ],
+  "answer": [
+   7.432,
+   9.88
+  ]
+ },
+ "frases-nativas_25": {
+  "idiom": [
+   0.0,
+   1.512
+  ],
+  "first_person": [
+   1.762,
+   4.45
+  ],
+  "third_person": [
+   4.7,
+   6.692
+  ],
+  "question": [
+   6.942,
+   8.622
+  ],
+  "answer": [
+   8.872,
+   10.744
+  ]
+ },
+ "frases-nativas_26": {
+  "idiom": [
+   0.0,
+   1.8
+  ],
+  "first_person": [
+   2.05,
+   4.858
+  ],
+  "third_person": [
+   5.108,
+   7.028
+  ],
+  "question": [
+   7.278,
+   8.886
+  ],
+  "answer": [
+   9.136,
+   11.848
+  ]
+ },
+ "frases-nativas_27": {
+  "idiom": [
+   0.0,
+   1.128
+  ],
+  "first_person": [
+   1.378,
+   3.778
+  ],
+  "third_person": [
+   4.028,
+   6.788
+  ],
+  "question": [
+   7.038,
+   8.718
+  ],
+  "answer": [
+   8.968,
+   11.32
+  ]
+ },
+ "frases-nativas_28": {
+  "idiom": [
+   0.0,
+   1.032
+  ],
+  "first_person": [
+   1.282,
+   2.842
+  ],
+  "third_person": [
+   3.092,
+   4.58
+  ],
+  "question": [
+   4.83,
+   6.342
+  ],
+  "answer": [
+   6.592,
+   8.704
+  ]
+ },
+ "frases-nativas_29": {
+  "idiom": [
+   0.0,
+   1.248
+  ],
+  "first_person": [
+   1.498,
+   3.058
+  ],
+  "third_person": [
+   3.308,
+   4.796
+  ],
+  "question": [
+   5.046,
+   6.726
+  ],
+  "answer": [
+   6.976,
+   8.968
+  ]
+ },
+ "frases-nativas_3": {
+  "idiom": [
+   0.0,
+   1.44
+  ],
+  "first_person": [
+   1.69,
+   3.61
+  ],
+  "third_person": [
+   3.86,
+   5.852
+  ],
+  "question": [
+   6.102,
+   7.71
+  ],
+  "answer": [
+   7.96,
+   10.312
+  ]
+ },
+ "frases-nativas_30": {
+  "idiom": [
+   0.0,
+   1.08
+  ],
+  "first_person": [
+   1.33,
+   3.13
+  ],
+  "third_person": [
+   3.38,
+   5.18
+  ],
+  "question": [
+   5.43,
+   7.23
+  ],
+  "answer": [
+   7.48,
+   9.448
+  ]
+ },
+ "frases-nativas_31": {
+  "idiom": [
+   0.0,
+   1.128
+  ],
+  "first_person": [
+   1.378,
+   2.866
+  ],
+  "third_person": [
+   3.116,
+   4.844
+  ],
+  "question": [
+   5.094,
+   7.086
+  ],
+  "answer": [
+   7.336,
+   9.208
+  ]
+ },
+ "frases-nativas_32": {
+  "idiom": [
+   0.0,
+   1.032
+  ],
+  "first_person": [
+   1.282,
+   3.61
+  ],
+  "third_person": [
+   3.86,
+   5.54
+  ],
+  "question": [
+   5.79,
+   7.398
+  ],
+  "answer": [
+   7.648,
+   9.856
+  ]
+ },
+ "frases-nativas_33": {
+  "idiom": [
+   0.0,
+   0.912
+  ],
+  "first_person": [
+   1.162,
+   2.362
+  ],
+  "third_person": [
+   2.612,
+   4.34
+  ],
+  "question": [
+   4.59,
+   6.15
+  ],
+  "answer": [
+   6.4,
+   8.728
+  ]
+ },
+ "frases-nativas_34": {
+  "idiom": [
+   0.0,
+   1.128
+  ],
+  "first_person": [
+   1.378,
+   3.658
+  ],
+  "third_person": [
+   3.908,
+   5.996
+  ],
+  "question": [
+   6.246,
+   9.078
+  ],
+  "answer": [
+   9.328,
+   11.368
+  ]
+ },
+ "frases-nativas_35": {
+  "idiom": [
+   0.0,
+   1.08
+  ],
+  "first_person": [
+   1.33,
+   3.562
+  ],
+  "third_person": [
+   3.812,
+   6.14
+  ],
+  "question": [
+   6.39,
+   7.782
+  ],
+  "answer": [
+   8.032,
+   10.264
+  ]
+ },
+ "frases-nativas_36": {
+  "idiom": [
+   0.0,
+   1.128
+  ],
+  "first_person": [
+   1.378,
+   3.106
+  ],
+  "third_person": [
+   3.356,
+   5.276
+  ],
+  "question": [
+   5.526,
+   7.038
+  ],
+  "answer": [
+   7.288,
+   9.88
+  ]
+ },
+ "frases-nativas_37": {
+  "idiom": [
+   0.0,
+   1.44
+  ],
+  "first_person": [
+   1.69,
+   3.538
+  ],
+  "third_person": [
+   3.788,
+   5.948
+  ],
+  "question": [
+   6.198,
+   7.83
+  ],
+  "answer": [
+   8.08,
+   10.528
+  ]
+ },
+ "frases-nativas_38": {
+  "idiom": [
+   0.0,
+   1.032
+  ],
+  "first_person": [
+   1.282,
+   3.514
+  ],
+  "third_person": [
+   3.764,
+   6.116
+  ],
+  "question": [
+   6.366,
+   8.238
+  ],
+  "answer": [
+   8.488,
+   10.48
+  ]
+ },
+ "frases-nativas_39": {
+  "idiom": [
+   0.0,
+   1.128
+  ],
+  "first_person": [
+   1.378,
+   3.058
+  ],
+  "third_person": [
+   3.308,
+   5.108
+  ],
+  "question": [
+   5.358,
+   6.846
+  ],
+  "answer": [
+   7.096,
+   8.584
+  ]
+ },
+ "frases-nativas_4": {
+  "idiom": [
+   0.0,
+   1.08
+  ],
+  "first_person": [
+   1.33,
+   3.202
+  ],
+  "third_person": [
+   3.452,
+   5.204
+  ],
+  "question": [
+   5.454,
+   6.702
+  ],
+  "answer": [
+   6.952,
+   9.112
+  ]
+ },
+ "frases-nativas_40": {
+  "idiom": [
+   0.0,
+   0.84
+  ],
+  "first_person": [
+   1.09,
+   2.53
+  ],
+  "third_person": [
+   2.78,
+   4.772
+  ],
+  "question": [
+   5.022,
+   6.414
+  ],
+  "answer": [
+   6.664,
+   8.584
+  ]
+ },
+ "frases-nativas_41": {
+  "idiom": [
+   0.0,
+   1.152
+  ],
+  "first_person": [
+   1.402,
+   3.73
+  ],
+  "third_person": [
+   3.98,
+   6.212
+  ],
+  "question": [
+   6.462,
+   7.902
+  ],
+  "answer": [
+   8.152,
+   10.624
+  ]
+ },
+ "frases-nativas_42": {
+  "idiom": [
+   0.0,
+   0.72
+  ],
+  "first_person": [
+   0.97,
+   3.538
+  ],
+  "third_person": [
+   3.788,
+   5.588
+  ],
+  "question": [
+   5.838,
+   8.07
+  ],
+  "answer": [
+   8.32,
+   10.408
+  ]
+ },
+ "frases-nativas_43": {
+  "idiom": [
+   0.0,
+   1.2
+  ],
+  "first_person": [
+   1.45,
+   3.298
+  ],
+  "third_person": [
+   3.548,
+   4.988
+  ],
+  "question": [
+   5.238,
+   6.438
+  ],
+  "answer": [
+   6.688,
+   8.776
+  ]
+ },
+ "frases-nativas_44": {
+  "idiom": [
+   0.0,
+   1.152
+  ],
+  "first_person": [
+   1.402,
+   3.13
+  ],
+  "third_person": [
+   3.38,
+   4.94
+  ],
+  "question": [
+   5.19,
+   6.582
+  ],
+  "answer": [
+   6.832,
+   8.872
+  ]
+ },
+ "frases-nativas_45": {
+  "idiom": [
+   0.0,
+   1.392
+  ],
+  "first_person": [
+   1.642,
+   3.25
+  ],
+  "third_person": [
+   3.5,
+   5.348
+  ],
+  "question": [
+   5.598,
+   7.206
+  ],
+  "answer": [
+   7.456,
+   9.736
+  ]
+ },
+ "frases-nativas_46": {
+  "idiom": [
+   0.0,
+   1.44
+  ],
+  "first_person": [
+   1.69,
+   3.778
+  ],
+  "third_person": [
+   4.028,
+   5.876
+  ],
+  "question": [
+   6.126,
+   7.518
+  ],
+  "answer": [
+   7.768,
+   10.12
+  ]
+ },
+ "frases-nativas_47": {
+  "idiom": [
+   0.0,
+   0.768
+  ],
+  "first_person": [
+   1.018,
+   3.346
+  ],
+  "third_person": [
+   3.596,
+   5.036
+  ],
+  "question": [
+   5.286,
+   6.678
+  ],
+  "answer": [
+   6.928,
+   8.656
+  ]
+ },
+ "frases-nativas_48": {
+  "idiom": [
+   0.0,
+   1.2
+  ],
+  "first_person": [
+   1.45,
+   4.21
+  ],
+  "third_person": [
+   4.46,
+   6.452
+  ],
+  "question": [
+   6.702,
+   8.214
+  ],
+  "answer": [
+   8.464,
+   10.984
+  ]
+ },
+ "frases-nativas_49": {
+  "idiom": [
+   0.0,
+   0.96
+  ],
+  "first_person": [
+   1.21,
+   3.322
+  ],
+  "third_person": [
+   3.572,
+   5.06
+  ],
+  "question": [
+   5.31,
+   6.798
+  ],
+  "answer": [
+   7.048,
+   9.808
+  ]
+ },
+ "frases-nativas_5": {
+  "idiom": [
+   0.0,
+   1.248
+  ],
+  "first_person": [
+   1.498,
+   3.61
+  ],
+  "third_person": [
+   3.86,
+   5.708
+  ],
+  "question": [
+   5.958,
+   7.398
+  ],
+  "answer": [
+   7.648,
+   10.048
+  ]
+ },
+ "frases-nativas_50": {
+  "idiom": [
+   0.0,
+   1.2
+  ],
+  "first_person": [
+   1.45,
+   3.73
+  ],
+  "third_person": [
+   3.98,
+   5.732
+  ],
+  "question": [
+   5.982,
+   8.55
+  ],
+  "answer": [
+   8.8,
+   11.392
+  ]
+ },
+ "frases-nativas_51": {
+  "idiom": [
+   0.0,
+   1.32
+  ],
+  "first_person": [
+   1.57,
+   3.298
+  ],
+  "third_person": [
+   3.548,
+   5.588
+  ],
+  "question": [
+   5.838,
+   7.47
+  ],
+  "answer": [
+   7.72,
+   9.928
+  ]
+ },
+ "frases-nativas_52": {
+  "idiom": [
+   0.0,
+   1.2
+  ],
+  "first_person": [
+   1.45,
+   3.202
+  ],
+  "third_person": [
+   3.452,
+   5.3
+  ],
+  "question": [
+   5.55,
+   7.47
+  ],
+  "answer": [
+   7.72,
+   10.408
+  ]
+ },
+ "frases-nativas_53": {
+  "idiom": [
+   0.0,
+   1.008
+  ],
+  "first_person": [
+   1.258,
+   3.85
+  ],
+  "third_person": [
+   4.1,
+   5.732
+  ],
+  "question": [
+   5.982,
+   8.19
+  ],
+  "answer": [
+   8.44,
+   10.24
+  ]
+ },
+ "frases-nativas_54": {
+  "idiom": [
+   0.0,
+   0.888
+  ],
+  "first_person": [
+   1.138,
+   2.866
+  ],
+  "third_person": [
+   3.116,
+   4.628
+  ],
+  "question": [
+   4.878,
+   6.438
+  ],
+  "answer": [
+   6.688,
+   8.56
+  ]
+ },
+ "frases-nativas_55": {
+  "idiom": [
+   0.0,
+   1.272
+  ],
+  "first_person": [
+   1.522,
+   3.562
+  ],
+  "third_person": [
+   3.812,
+   6.092
+  ],
+  "question": [
+   6.342,
+   8.574
+  ],
+  "answer": [
+   8.824,
+   10.936
+  ]
+ },
+ "frases-nativas_56": {
+  "idiom": [
+   0.0,
+   1.032
+  ],
+  "first_person": [
+   1.282,
+   3.514
+  ],
+  "third_person": [
+   3.764,
+   6.884
+  ],
+  "question": [
+   7.134,
+   8.622
+  ],
+  "answer": [
+   8.872,
+   11.08
+  ]
+ },
+ "frases-nativas_57": {
+  "idiom": [
+   0.0,
+   1.152
+  ],
+  "first_person": [
+   1.402,
+   3.37
+  ],
+  "third_person": [
+   3.62,
+   5.468
+  ],
+  "question": [
+   5.718,
+   8.958
+  ],
+  "answer": [
+   9.208,
+   11.32
+  ]
+ },
+ "frases-nativas_58": {
+  "idiom": [
+   0.0,
+   1.2
+  ],
+  "first_person": [
+   1.45,
+   3.49
+  ],
+  "third_person": [
+   3.74,
+   5.66
+  ],
+  "question": [
+   5.91,
+   7.422
+  ],
+  "answer": [
+   7.672,
+   9.784
+  ]
+ },
+ "frases-nativas_59": {
+  "idiom": [
+   0.0,
+   1.44
+  ],
+  "first_person": [
+   1.69,
+   3.49
+  ],
+  "third_person": [
+   3.74,
+   5.66
+  ],
+  "question": [
+   5.91,
+   7.398
+  ],
+  "answer": [
+   7.648,
+   9.88
+  ]
+ },
+ "frases-nativas_6": {
+  "idiom": [
+   0.0,
+   1.2
+  ],
+  "first_person": [
+   1.45,
+   3.802
+  ],
+  "third_person": [
+   4.052,
+   6.452
+  ],
+  "question": [
+   6.702,
+   8.094
+  ],
+  "answer": [
+   8.344,
+   10.936
+  ]
+ },
+ "frases-nativas_60": {
+  "idiom": [
+   0.0,
+   1.32
+  ],
+  "first_person": [
+   1.57,
+   3.418
+  ],
+  "third_person": [
+   3.668,
+   5.516
+  ],
+  "question": [
+   5.766,
+   7.038
+  ],
+  "answer": [
+   7.288,
+   9.52
+  ]
+ },
+ "frases-nativas_61": {
+  "idiom": [
+   0.0,
+   1.008
+  ],
+  "first_person": [
+   1.258,
+   3.298
+  ],
+  "third_person": [
+   3.548,
+   5.228
+  ],
+  "question": [
+   5.478,
+   7.086
+  ],
+  "answer": [
+   7.336,
+   8.968
+  ]
+ },
+ "frases-nativas_62": {
+  "idiom": [
+   0.0,
+   1.248
+  ],
+  "first_person": [
+   1.498,
+   4.186
+  ],
+  "third_person": [
+   4.436,
+   5.948
+  ],
+  "question": [
+   6.198,
+   7.806
+  ],
+  "answer": [
+   8.056,
+   9.904
+  ]
+ },
+ "frases-nativas_63": {
+  "idiom": [
+   0.0,
+   0.96
+  ],
+  "first_person": [
+   1.21,
+   3.25
+  ],
+  "third_person": [
+   3.5,
+   5.252
+  ],
+  "question": [
+   5.502,
+   8.094
+  ],
+  "answer": [
+   8.344,
+   10.384
+  ]
+ },
+ "frases-nativas_64": {
+  "idiom": [
+   0.0,
+   1.392
+  ],
+  "first_person": [
+   1.642,
+   3.97
+  ],
+  "third_person": [
+   4.22,
+   6.5
+  ],
+  "question": [
+   6.75,
+   8.502
+  ],
+  "answer": [
+   8.752,
+   10.552
+  ]
+ },
+ "frases-nativas_65": {
+  "idiom": [
+   0.0,
+   1.488
+  ],
+  "first_person": [
+   1.738,
+   3.586
+  ],
+  "third_person": [
+   3.836,
+   5.636
+  ],
+  "question": [
+   5.886,
+   9.246
+  ],
+  "answer": [
+   9.496,
+   12.208
+  ]
+ },
+ "frases-nativas_66": {
+  "idiom": [
+   0.0,
+   1.152
+  ],
+  "first_person": [
+   1.402,
+   3.922
+  ],
+  "third_person": [
+   4.172,
+   6.212
+  ],
+  "question": [
+   6.462,
+   9.27
+  ],
+  "answer": [
+   9.52,
+   12.208
+  ]
+ },
+ "frases-nativas_67": {
+  "idiom": [
+   0.0,
+   1.152
+  ],
+  "first_person": [
+   1.402,
+   3.49
+  ],
+  "third_person": [
+   3.74,
+   5.78
+  ],
+  "question": [
+   6.03,
+   7.902
+  ],
+  "answer": [
+   8.152,
+   9.664
+  ]
+ },
+ "frases-nativas_68": {
+  "idiom": [
+   0.0,
+   1.2
+  ],
+  "first_person": [
+   1.45,
+   3.61
+  ],
+  "third_person": [
+   3.86,
+   5.588
+  ],
+  "question": [
+   5.838,
+   8.118
+  ],
+  "answer": [
+   8.368,
+   10.36
+  ]
+ },
+ "frases-nativas_69": {
+  "idiom": [
+   0.0,
+   1.392
+  ],
+  "first_person": [
+   1.642,
+   4.162
+  ],
+  "third_person": [
+   4.412,
+   6.092
+  ],
+  "question": [
+   6.342,
+   7.95
+  ],
+  "answer": [
+   8.2,
+   10.96
+  ]
+ },
+ "frases-nativas_7": {
+  "idiom": [
+   0.0,
+   0.912
+  ],
+  "first_person": [
+   1.162,
+   2.41
+  ],
+  "third_person": [
+   2.66,
+   4.292
+  ],
+  "question": [
+   4.542,
+   5.934
+  ],
+  "answer": [
+   6.184,
+   8.512
+  ]
+ },
+ "frases-nativas_70": {
+  "idiom": [
+   0.0,
+   1.248
+  ],
+  "first_person": [
+   1.498,
+   3.538
+  ],
+  "third_person": [
+   3.788,
+   5.756
+  ],
+  "question": [
+   6.006,
+   7.974
+  ],
+  "answer": [
+   8.224,
+   10.384
+  ]
+ },
+ "frases-nativas_71": {
+  "idiom": [
+   0.0,
+   1.248
+  ],
+  "first_person": [
+   1.498,
+   3.37
+  ],
+  "third_person": [
+   3.62,
+   5.42
+  ],
+  "question": [
+   5.67,
+   7.422
+  ],
+  "answer": [
+   7.672,
+   9.784
+  ]
+ },
+ "frases-nativas_72": {
+  "idiom": [
+   0.0,
+   1.392
+  ],
+  "first_person": [
+   1.642,
+   3.754
+  ],
+  "third_person": [
+   4.004,
+   5.876
+  ],
+  "question": [
+   6.126,
+   8.406
+  ],
+  "answer": [
+   8.656,
+   10.456
+  ]
+ },
+ "frases-nativas_73": {
+  "idiom": [
+   0.0,
+   1.44
+  ],
+  "first_person": [
+   1.69,
+   4.21
+  ],
+  "third_person": [
+   4.46,
+   6.14
+  ],
+  "question": [
+   6.39,
+   8.022
+  ],
+  "answer": [
+   8.272,
+   10.864
+  ]
+ },
+ "frases-nativas_74": {
+  "idiom": [
+   0.0,
+   1.248
+  ],
+  "first_person": [
+   1.498,
+   3.778
+  ],
+  "third_person": [
+   4.028,
+   6.86
+  ],
+  "question": [
+   7.11,
+   9.078
+  ],
+  "answer": [
+   9.328,
+   12.856
+  ]
+ },
+ "frases-nativas_75": {
+  "idiom": [
+   0.0,
+   1.128
+  ],
+  "first_person": [
+   1.378,
+   3.49
+  ],
+  "third_person": [
+   3.74,
+   5.66
+  ],
+  "question": [
+   5.91,
+   7.998
+  ],
+  "answer": [
+   8.248,
+   11.176
+  ]
+ },
+ "frases-nativas_76": {
+  "idiom": [
+   0.0,
+   1.248
+  ],
+  "first_person": [
+   1.498,
+   4.09
+  ],
+  "third_person": [
+   4.34,
+   6.5
+  ],
+  "question": [
+   6.75,
+   9.318
+  ],
+  "answer": [
+   9.568,
+   12.736
+  ]
+ },
+ "frases-nativas_77": {
+  "idiom": [
+   0.0,
+   1.392
+  ],
+  "first_person": [
+   1.642,
+   3.754
+  ],
+  "third_person": [
+   4.004,
+   5.972
+  ],
+  "question": [
+   6.222,
+   8.07
+  ],
+  "answer": [
+   8.32,
+   10.552
+  ]
+ },
+ "frases-nativas_78": {
+  "idiom": [
+   0.0,
+   1.512
+  ],
+  "first_person": [
+   1.762,
+   3.97
+  ],
+  "third_person": [
+   4.22,
+   6.5
+  ],
+  "question": [
+   6.75,
+   8.55
+  ],
+  "answer": [
+   8.8,
+   10.672
+  ]
+ },
+ "frases-nativas_79": {
+  "idiom": [
+   0.0,
+   1.488
+  ],
+  "first_person": [
+   1.738,
+   3.778
+  ],
+  "third_person": [
+   4.028,
+   5.948
+  ],
+  "question": [
+   6.198,
+   7.446
+  ],
+  "answer": [
+   7.696,
+   9.904
+  ]
+ },
+ "frases-nativas_8": {
+  "idiom": [
+   0.0,
+   1.2
+  ],
+  "first_person": [
+   1.45,
+   3.49
+  ],
+  "third_person": [
+   3.74,
+   5.828
+  ],
+  "question": [
+   6.078,
+   7.926
+  ],
+  "answer": [
+   8.176,
+   10.744
+  ]
+ },
+ "frases-nativas_80": {
+  "idiom": [
+   0.0,
+   1.488
+  ],
+  "first_person": [
+   1.738,
+   4.618
+  ],
+  "third_person": [
+   4.868,
+   7.268
+  ],
+  "question": [
+   7.518,
+   9.15
+  ],
+  "answer": [
+   9.4,
+   12.328
+  ]
+ },
+ "frases-nativas_81": {
+  "idiom": [
+   0.0,
+   1.512
+  ],
+  "first_person": [
+   1.762,
+   4.09
+  ],
+  "third_person": [
+   4.34,
+   6.428
+  ],
+  "question": [
+   6.678,
+   8.838
+  ],
+  "answer": [
+   9.088,
+   11.896
+  ]
+ },
+ "frases-nativas_82": {
+  "idiom": [
+   0.0,
+   1.32
+  ],
+  "first_person": [
+   1.57,
+   3.658
+  ],
+  "third_person": [
+   3.908,
+   5.588
+  ],
+  "question": [
+   5.838,
+   7.086
+  ],
+  "answer": [
+   7.336,
+   9.184
+  ]
+ },
+ "frases-nativas_83": {
+  "idiom": [
+   0.0,
+   1.272
+  ],
+  "first_person": [
+   1.522,
+   3.634
+  ],
+  "third_person": [
+   3.884,
+   5.924
+  ],
+  "question": [
+   6.174,
+   8.262
+  ],
+  "answer": [
+   8.512,
+   11.2
+  ]
+ },
+ "frases-nativas_84": {
+  "idiom": [
+   0.0,
+   1.2
+  ],
+  "first_person": [
+   1.45,
+   3.418
+  ],
+  "third_person": [
+   3.668,
+   5.3
+  ],
+  "question": [
+   5.55,
+   6.822
+  ],
+  "answer": [
+   7.072,
+   10.072
+  ]
+ },
+ "frases-nativas_85": {
+  "idiom": [
+   0.0,
+   1.152
+  ],
+  "first_person": [
+   1.402,
+   3.154
+  ],
+  "third_person": [
+   3.404,
+   5.036
+  ],
+  "question": [
+   5.286,
+   6.846
+  ],
+  "answer": [
+   7.096,
+   10.168
+  ]
+ },
+ "frases-nativas_86": {
+  "idiom": [
+   0.0,
+   1.512
+  ],
+  "first_person": [
+   1.762,
+   3.97
+  ],
+  "third_person": [
+   4.22,
+   6.02
+  ],
+  "question": [
+   6.27,
+   8.43
+  ],
+  "answer": [
+   8.68,
+   11.872
+  ]
+ },
+ "frases-nativas_87": {
+  "idiom": [
+   0.0,
+   1.728
+  ],
+  "first_person": [
+   1.978,
+   5.218
+  ],
+  "third_person": [
+   5.468,
+   7.268
+  ],
+  "question": [
+   7.518,
+   9.246
+  ],
+  "answer": [
+   9.496,
+   11.848
+  ]
+ },
+ "frases-nativas_88": {
+  "idiom": [
+   0.0,
+   2.112
+  ],
+  "first_person": [
+   2.362,
+   5.362
+  ],
+  "third_person": [
+   5.612,
+   7.484
+  ],
+  "question": [
+   7.734,
+   9.462
+  ],
+  "answer": [
+   9.712,
+   12.184
+  ]
+ },
+ "frases-nativas_89": {
+  "idiom": [
+   0.0,
+   1.488
+  ],
+  "first_person": [
+   1.738,
+   4.306
+  ],
+  "third_person": [
+   4.556,
+   6.836
+  ],
+  "question": [
+   7.086,
+   9.126
+  ],
+  "answer": [
+   9.376,
+   11.488
+  ]
+ },
+ "frases-nativas_9": {
+  "idiom": [
+   0.0,
+   1.392
+  ],
+  "first_person": [
+   1.642,
+   3.562
+  ],
+  "third_person": [
+   3.812,
+   5.78
+  ],
+  "question": [
+   6.03,
+   7.638
+  ],
+  "answer": [
+   7.888,
+   10.408
+  ]
+ },
+ "frases-nativas_90": {
+  "idiom": [
+   0.0,
+   1.152
+  ],
+  "first_person": [
+   1.402,
+   3.634
+  ],
+  "third_person": [
+   3.884,
+   5.564
+  ],
+  "question": [
+   5.814,
+   7.326
+  ],
+  "answer": [
+   7.576,
+   9.376
+  ]
+ },
+ "frases-nativas_91": {
+  "idiom": [
+   0.0,
+   1.632
+  ],
+  "first_person": [
+   1.882,
+   4.33
+  ],
+  "third_person": [
+   4.58,
+   6.332
+  ],
+  "question": [
+   6.582,
+   7.974
+  ],
+  "answer": [
+   8.224,
+   10.672
+  ]
+ },
+ "frases-nativas_92": {
+  "idiom": [
+   0.0,
+   1.608
+  ],
+  "first_person": [
+   1.858,
+   4.306
+  ],
+  "third_person": [
+   4.556,
+   6.236
+  ],
+  "question": [
+   6.486,
+   8.766
+  ],
+  "answer": [
+   9.016,
+   11.368
+  ]
+ },
+ "frases-nativas_93": {
+  "idiom": [
+   0.0,
+   1.608
+  ],
+  "first_person": [
+   1.858,
+   4.666
+  ],
+  "third_person": [
+   4.916,
+   7.748
+  ],
+  "question": [
+   7.998,
+   9.27
+  ],
+  "answer": [
+   9.52,
+   11.632
+  ]
+ },
+ "frases-nativas_94": {
+  "idiom": [
+   0.0,
+   1.248
+  ],
+  "first_person": [
+   1.498,
+   3.37
+  ],
+  "third_person": [
+   3.62,
+   5.252
+  ],
+  "question": [
+   5.502,
+   7.23
+  ],
+  "answer": [
+   7.48,
+   9.64
+  ]
+ },
+ "frases-nativas_95": {
+  "idiom": [
+   0.0,
+   1.2
+  ],
+  "first_person": [
+   1.45,
+   3.25
+  ],
+  "third_person": [
+   3.5,
+   5.228
+  ],
+  "question": [
+   5.478,
+   6.966
+  ],
+  "answer": [
+   7.216,
+   10.096
+  ]
+ },
+ "frases-nativas_96": {
+  "idiom": [
+   0.0,
+   1.2
+  ],
+  "first_person": [
+   1.45,
+   3.202
+  ],
+  "third_person": [
+   3.452,
+   4.94
+  ],
+  "question": [
+   5.19,
+   7.398
+  ],
+  "answer": [
+   7.648,
+   10.336
+  ]
+ },
+ "frases-nativas_97": {
+  "idiom": [
+   0.0,
+   1.008
+  ],
+  "first_person": [
+   1.258,
+   3.49
+  ],
+  "third_person": [
+   3.74,
+   6.548
+  ],
+  "question": [
+   6.798,
+   9.006
+  ],
+  "answer": [
+   9.256,
+   11.608
+  ]
+ },
+ "frases-nativas_98": {
+  "idiom": [
+   0.0,
+   1.512
+  ],
+  "first_person": [
+   1.762,
+   3.922
+  ],
+  "third_person": [
+   4.172,
+   5.78
+  ],
+  "question": [
+   6.03,
+   8.07
+  ],
+  "answer": [
+   8.32,
+   10.672
+  ]
+ },
+ "frases-nativas_99": {
+  "idiom": [
+   0.0,
+   1.2
+  ],
+  "first_person": [
+   1.45,
+   3.682
+  ],
+  "third_person": [
+   3.932,
+   6.14
+  ],
+  "question": [
+   6.39,
+   8.022
+  ],
+  "answer": [
+   8.272,
+   10.6
+  ]
+ },
+ "idioms_1": {
+  "idiom": [
+   0.0,
+   3.168
+  ],
+  "first_person": [
+   3.418,
+   4.93
+  ],
+  "third_person": [
+   5.18,
+   7.028
+  ],
+  "question": [
+   7.278,
+   8.79
+  ],
+  "answer": [
+   9.04,
+   11.608
+  ]
+ },
+ "idioms_10": {
+  "idiom": [
+   0.0,
+   1.392
+  ],
+  "first_person": [
+   1.642,
+   3.274
+  ],
+  "third_person": [
+   3.524,
+   5.252
+  ],
+  "question": [
+   5.502,
+   7.11
+  ],
+  "answer": [
+   7.36,
+   9.712
+  ]
+ },
+ "idioms_100": {
+  "idiom": [
+   0.0,
+   1.128
+  ],
+  "first_person": [
+   1.378,
+   3.538
+  ],
+  "third_person": [
+   3.788,
+   6.356
+  ],
+  "question": [
+   6.606,
+   8.574
+  ],
+  "answer": [
+   8.824,
+   11.344
+  ]
+ },
+ "idioms_11": {
+  "idiom": [
+   0.0,
+   1.56
+  ],
+  "first_person": [
+   1.81,
+   3.562
+  ],
+  "third_person": [
+   3.812,
+   5.804
+  ],
+  "question": [
+   6.054,
+   7.974
+  ],
+  "answer": [
+   8.224,
+   10.576
+  ]
+ },
+ "idioms_12": {
+  "idiom": [
+   0.0,
+   1.128
+  ],
+  "first_person": [
+   1.378,
+   3.13
+  ],
+  "third_person": [
+   3.38,
+   5.18
+  ],
+  "question": [
+   5.43,
+   7.062
+  ],
+  "answer": [
+   7.312,
+   10.432
+  ]
+ },
+ "idioms_13": {
+  "idiom": [
+   0.0,
+   1.248
+  ],
+  "first_person": [
+   1.498,
+   3.13
+  ],
+  "third_person": [
+   3.38,
+   5.06
+  ],
+  "question": [
+   5.31,
+   7.182
+  ],
+  "answer": [
+   7.432,
+   10.36
+  ]
+ },
+ "idioms_14": {
+  "idiom": [
+   0.0,
+   1.32
+  ],
+  "first_person": [
+   1.57,
+   3.538
+  ],
+  "third_person": [
+   3.788,
+   6.116
+  ],
+  "question": [
+   6.366,
+   8.238
+  ],
+  "answer": [
+   8.488,
+   11.176
+  ]
+ },
+ "idioms_15": {
+  "idiom": [
+   0.0,
+   1.68
+  ],
+  "first_person": [
+   1.93,
+   3.922
+  ],
+  "third_person": [
+   4.172,
+   6.452
+  ],
+  "question": [
+   6.702,
+   8.574
+  ],
+  "answer": [
+   8.824,
+   11.176
+  ]
+ },
+ "idioms_16": {
+  "idiom": [
+   0.0,
+   1.56
+  ],
+  "first_person": [
+   1.81,
+   3.322
+  ],
+  "third_person": [
+   3.572,
+   5.06
+  ],
+  "question": [
+   5.31,
+   6.918
+  ],
+  "answer": [
+   7.168,
+   9.16
+  ]
+ },
+ "idioms_17": {
+  "idiom": [
+   0.0,
+   1.56
+  ],
+  "first_person": [
+   1.81,
+   3.778
+  ],
+  "third_person": [
+   4.028,
+   5.708
+  ],
+  "question": [
+   5.958,
+   7.83
+  ],
+  "answer": [
+   8.08,
+   10.48
+  ]
+ },
+ "idioms_18": {
+  "idiom": [
+   0.0,
+   1.32
+  ],
+  "first_person": [
+   1.57,
+   3.082
+  ],
+  "third_person": [
+   3.332,
+   5.012
+  ],
+  "question": [
+   5.262,
+   7.422
+  ],
+  "answer": [
+   7.672,
+   10.264
+  ]
+ },
+ "idioms_19": {
+  "idiom": [
+   0.0,
+   1.272
+  ],
+  "first_person": [
+   1.522,
+   3.154
+  ],
+  "third_person": [
+   3.404,
+   5.324
+  ],
+  "question": [
+   5.574,
+   7.326
+  ],
+  "answer": [
+   7.576,
+   10.024
+  ]
+ },
+ "idioms_2": {
+  "idiom": [
+   0.0,
+   1.392
+  ],
+  "first_person": [
+   1.642,
+   3.202
+  ],
+  "third_person": [
+   3.452,
+   4.964
+  ],
+  "question": [
+   5.214,
+   7.062
+  ],
+  "answer": [
+   7.312,
+   9.352
+  ]
+ },
+ "idioms_20": {
+  "idiom": [
+   0.0,
+   1.608
+  ],
+  "first_person": [
+   1.858,
+   4.426
+  ],
+  "third_person": [
+   4.676,
+   6.884
+  ],
+  "question": [
+   7.134,
+   9.054
+  ],
+  "answer": [
+   9.304,
+   12.064
+  ]
+ },
+ "idioms_21": {
+  "idiom": [
+   0.0,
+   1.128
+  ],
+  "first_person": [
+   1.378,
+   3.106
+  ],
+  "third_person": [
+   3.356,
+   5.084
+  ],
+  "question": [
+   5.334,
+   7.062
+  ],
+  "answer": [
+   7.312,
+   10.0
+  ]
+ },
+ "idioms_22": {
+  "idiom": [
+   0.0,
+   1.08
+  ],
+  "first_person": [
+   1.33,
+   3.538
+  ],
+  "third_person": [
+   3.788,
+   5.996
+  ],
+  "question": [
+   6.246,
+   7.758
+  ],
+  "answer": [
+   8.008,
+   10.456
+  ]
+ },
+ "idioms_23": {
+  "idiom": [
+   0.0,
+   1.488
+  ],
+  "first_person": [
+   1.738,
+   4.21
+  ],
+  "third_person": [
+   4.46,
+   6.74
+  ],
+  "question": [
+   6.99,
+   9.462
+  ],
+  "answer": [
+   9.712,
+   11.704
+  ]
+ },
+ "idioms_24": {
+  "idiom": [
+   0.0,
+   1.128
+  ],
+  "first_person": [
+   1.378,
+   3.85
+  ],
+  "third_person": [
+   4.1,
+   6.212
+  ],
+  "question": [
+   6.462,
+   8.694
+  ],
+  "answer": [
+   8.944,
+   11.224
+  ]
+ },
+ "idioms_25": {
+  "idiom": [
+   0.0,
+   0.912
+  ],
+  "first_person": [
+   1.162,
+   3.202
+  ],
+  "third_person": [
+   3.452,
+   5.132
+  ],
+  "question": [
+   5.382,
+   7.494
+  ],
+  "answer": [
+   7.744,
+   10.024
+  ]
+ },
+ "idioms_26": {
+  "idiom": [
+   0.0,
+   2.688
+  ],
+  "first_person": [
+   2.938,
+   4.738
+  ],
+  "third_person": [
+   4.988,
+   7.196
+  ],
+  "question": [
+   7.446,
+   9.366
+  ],
+  "answer": [
+   9.616,
+   11.608
+  ]
+ },
+ "idioms_27": {
+  "idiom": [
+   0.0,
+   0.912
+  ],
+  "first_person": [
+   1.162,
+   3.202
+  ],
+  "third_person": [
+   3.452,
+   5.42
+  ],
+  "question": [
+   5.67,
+   7.47
+  ],
+  "answer": [
+   7.72,
+   9.76
+  ]
+ },
+ "idioms_28": {
+  "idiom": [
+   0.0,
+   2.688
+  ],
+  "first_person": [
+   2.938,
+   4.978
+  ],
+  "third_person": [
+   5.228,
+   7.196
+  ],
+  "question": [
+   7.446,
+   9.294
+  ],
+  "answer": [
+   9.544,
+   11.512
+  ]
+ },
+ "idioms_29": {
+  "idiom": [
+   0.0,
+   1.08
+  ],
+  "first_person": [
+   1.33,
+   3.682
+  ],
+  "third_person": [
+   3.932,
+   6.164
+  ],
+  "question": [
+   6.414,
+   7.902
+  ],
+  "answer": [
+   8.152,
+   10.96
+  ]
+ },
+ "idioms_3": {
+  "idiom": [
+   0.0,
+   1.272
+  ],
+  "first_person": [
+   1.522,
+   3.322
+  ],
+  "third_person": [
+   3.572,
+   5.54
+  ],
+  "question": [
+   5.79,
+   7.59
+  ],
+  "answer": [
+   7.84,
+   10.312
+  ]
+ },
+ "idioms_30": {
+  "idiom": [
+   0.0,
+   0.888
+  ],
+  "first_person": [
+   1.138,
+   3.25
+  ],
+  "third_person": [
+   3.5,
+   5.468
+  ],
+  "question": [
+   5.718,
+   7.758
+  ],
+  "answer": [
+   8.008,
+   9.808
+  ]
+ },
+ "idioms_31": {
+  "idiom": [
+   0.0,
+   1.032
+  ],
+  "first_person": [
+   1.282,
+   3.034
+  ],
+  "third_person": [
+   3.284,
+   5.204
+  ],
+  "question": [
+   5.454,
+   7.062
+  ],
+  "answer": [
+   7.312,
+   9.52
+  ]
+ },
+ "idioms_32": {
+  "idiom": [
+   0.0,
+   1.152
+  ],
+  "first_person": [
+   1.402,
+   3.514
+  ],
+  "third_person": [
+   3.764,
+   6.116
+  ],
+  "question": [
+   6.366,
+   8.334
+  ],
+  "answer": [
+   8.584,
+   10.456
+  ]
+ },
+ "idioms_33": {
+  "idiom": [
+   0.0,
+   1.32
+  ],
+  "first_person": [
+   1.57,
+   3.922
+  ],
+  "third_person": [
+   4.172,
+   5.732
+  ],
+  "question": [
+   5.982,
+   7.662
+  ],
+  "answer": [
+   7.912,
+   10.12
+  ]
+ },
+ "idioms_34": {
+  "idiom": [
+   0.0,
+   0.888
+  ],
+  "first_person": [
+   1.138,
+   2.89
+  ],
+  "third_person": [
+   3.14,
+   5.66
+  ],
+  "question": [
+   5.91,
+   7.35
+  ],
+  "answer": [
+   7.6,
+   9.712
+  ]
+ },
+ "idioms_35": {
+  "idiom": [
+   0.0,
+   1.2
+  ],
+  "first_person": [
+   1.45,
+   3.73
+  ],
+  "third_person": [
+   3.98,
+   6.02
+  ],
+  "question": [
+   6.27,
+   8.07
+  ],
+  "answer": [
+   8.32,
+   10.36
+  ]
+ },
+ "idioms_36": {
+  "idiom": [
+   0.0,
+   0.672
+  ],
+  "first_person": [
+   0.922,
+   2.89
+  ],
+  "third_person": [
+   3.14,
+   5.18
+  ],
+  "question": [
+   5.43,
+   7.182
+  ],
+  "answer": [
+   7.432,
+   9.64
+  ]
+ },
+ "idioms_37": {
+  "idiom": [
+   0.0,
+   1.392
+  ],
+  "first_person": [
+   1.642,
+   3.994
+  ],
+  "third_person": [
+   4.244,
+   6.284
+  ],
+  "question": [
+   6.534,
+   8.406
+  ],
+  "answer": [
+   8.656,
+   10.768
+  ]
+ },
+ "idioms_38": {
+  "idiom": [
+   0.0,
+   1.032
+  ],
+  "first_person": [
+   1.282,
+   3.154
+  ],
+  "third_person": [
+   3.404,
+   5.636
+  ],
+  "question": [
+   5.886,
+   7.638
+  ],
+  "answer": [
+   7.888,
+   10.048
+  ]
+ },
+ "idioms_39": {
+  "idiom": [
+   0.0,
+   1.128
+  ],
+  "first_person": [
+   1.378,
+   3.226
+  ],
+  "third_person": [
+   3.476,
+   5.564
+  ],
+  "question": [
+   5.814,
+   7.302
+  ],
+  "answer": [
+   7.552,
+   9.544
+  ]
+ },
+ "idioms_4": {
+  "idiom": [
+   0.0,
+   1.488
+  ],
+  "first_person": [
+   1.738,
+   3.538
+  ],
+  "third_person": [
+   3.788,
+   5.636
+  ],
+  "question": [
+   5.886,
+   7.638
+  ],
+  "answer": [
+   7.888,
+   10.48
+  ]
+ },
+ "idioms_40": {
+  "idiom": [
+   0.0,
+   1.08
+  ],
+  "first_person": [
+   1.33,
+   3.178
+  ],
+  "third_person": [
+   3.428,
+   5.228
+  ],
+  "question": [
+   5.478,
+   6.966
+  ],
+  "answer": [
+   7.216,
+   10.288
+  ]
+ },
+ "idioms_41": {
+  "idiom": [
+   0.0,
+   1.128
+  ],
+  "first_person": [
+   1.378,
+   3.658
+  ],
+  "third_person": [
+   3.908,
+   6.5
+  ],
+  "question": [
+   6.75,
+   8.91
+  ],
+  "answer": [
+   9.16,
+   11.488
+  ]
+ },
+ "idioms_42": {
+  "idiom": [
+   0.0,
+   1.08
+  ],
+  "first_person": [
+   1.33,
+   3.538
+  ],
+  "third_person": [
+   3.788,
+   5.996
+  ],
+  "question": [
+   6.246,
+   8.094
+  ],
+  "answer": [
+   8.344,
+   10.144
+  ]
+ },
+ "idioms_43": {
+  "idiom": [
+   0.0,
+   1.488
+  ],
+  "first_person": [
+   1.738,
+   4.45
+  ],
+  "third_person": [
+   4.7,
+   8.012
+  ],
+  "question": [
+   8.262,
+   10.59
+  ],
+  "answer": [
+   10.84,
+   13.552
+  ]
+ },
+ "idioms_44": {
+  "idiom": [
+   0.0,
+   1.08
+  ],
+  "first_person": [
+   1.33,
+   3.418
+  ],
+  "third_person": [
+   3.668,
+   5.468
+  ],
+  "question": [
+   5.718,
+   7.23
+  ],
+  "answer": [
+   7.48,
+   9.712
+  ]
+ },
+ "idioms_45": {
+  "idiom": [
+   0.0,
+   1.08
+  ],
+  "first_person": [
+   1.33,
+   3.37
+  ],
+  "third_person": [
+   3.62,
+   5.468
+  ],
+  "question": [
+   5.718,
+   7.926
+  ],
+  "answer": [
+   8.176,
+   10.696
+  ]
+ },
+ "idioms_46": {
+  "idiom": [
+   0.0,
+   1.128
+  ],
+  "first_person": [
+   1.378,
+   3.346
+  ],
+  "third_person": [
+   3.596,
+   5.636
+  ],
+  "question": [
+   5.886,
+   7.686
+  ],
+  "answer": [
+   7.936,
+   10.024
+  ]
+ },
+ "idioms_47": {
+  "idiom": [
+   0.0,
+   1.152
+  ],
+  "first_person": [
+   1.402,
+   3.442
+  ],
+  "third_person": [
+   3.692,
+   5.684
+  ],
+  "question": [
+   5.934,
+   7.446
+  ],
+  "answer": [
+   7.696,
+   9.808
+  ]
+ },
+ "idioms_48": {
+  "idiom": [
+   0.0,
+   1.152
+  ],
+  "first_person": [
+   1.402,
+   3.322
+  ],
+  "third_person": [
+   3.572,
+   5.492
+  ],
+  "question": [
+   5.742,
+   7.59
+  ],
+  "answer": [
+   7.84,
+   9.928
+  ]
+ },
+ "idioms_49": {
+  "idiom": [
+   0.0,
+   1.488
+  ],
+  "first_person": [
+   1.738,
+   3.97
+  ],
+  "third_person": [
+   4.22,
+   6.62
+  ],
+  "question": [
+   6.87,
+   8.598
+  ],
+  "answer": [
+   8.848,
+   11.296
+  ]
+ },
+ "idioms_5": {
+  "idiom": [
+   0.0,
+   1.32
+  ],
+  "first_person": [
+   1.57,
+   3.898
+  ],
+  "third_person": [
+   4.148,
+   6.116
+  ],
+  "question": [
+   6.366,
+   7.806
+  ],
+  "answer": [
+   8.056,
+   10.576
+  ]
+ },
+ "idioms_50": {
+  "idiom": [
+   0.0,
+   1.68
+  ],
+  "first_person": [
+   1.93,
+   4.162
+  ],
+  "third_person": [
+   4.412,
+   7.1
+  ],
+  "question": [
+   7.35,
+   9.078
+  ],
+  "answer": [
+   9.328,
+   12.016
+  ]
+ },
+ "idioms_51": {
+  "idiom": [
+   0.0,
+   1.272
+  ],
+  "first_person": [
+   1.522,
+   3.754
+  ],
+  "third_person": [
+   4.004,
+   6.332
+  ],
+  "question": [
+   6.582,
+   8.142
+  ],
+  "answer": [
+   8.392,
+   10.624
+  ]
+ },
+ "idioms_52": {
+  "idiom": [
+   0.0,
+   1.248
+  ],
+  "first_person": [
+   1.498,
+   3.946
+  ],
+  "third_person": [
+   4.196,
+   6.644
+  ],
+  "question": [
+   6.894,
+   8.742
+  ],
+  "answer": [
+   8.992,
+   10.984
+  ]
+ },
+ "idioms_53": {
+  "idiom": [
+   0.0,
+   1.392
+  ],
+  "first_person": [
+   1.642,
+   3.634
+  ],
+  "third_person": [
+   3.884,
+   6.164
+  ],
+  "question": [
+   6.414,
+   7.902
+  ],
+  "answer": [
+   8.152,
+   10.672
+  ]
+ },
+ "idioms_54": {
+  "idiom": [
+   0.0,
+   1.272
+  ],
+  "first_person": [
+   1.522,
+   4.282
+  ],
+  "third_person": [
+   4.532,
+   6.74
+  ],
+  "question": [
+   6.99,
+   8.742
+  ],
+  "answer": [
+   8.992,
+   11.32
+  ]
+ },
+ "idioms_55": {
+  "idiom": [
+   0.0,
+   1.2
+  ],
+  "first_person": [
+   1.45,
+   4.018
+  ],
+  "third_person": [
+   4.268,
+   6.428
+  ],
+  "question": [
+   6.678,
+   8.358
+  ],
+  "answer": [
+   8.608,
+   11.296
+  ]
+ },
+ "idioms_56": {
+  "idiom": [
+   0.0,
+   1.968
+  ],
+  "first_person": [
+   2.218,
+   5.626
+  ],
+  "third_person": [
+   5.876,
+   9.236
+  ],
+  "question": [
+   9.486,
+   11.718
+  ],
+  "answer": [
+   11.968,
+   14.728
+  ]
+ },
+ "idioms_57": {
+  "idiom": [
+   0.0,
+   1.272
+  ],
+  "first_person": [
+   1.522,
+   3.442
+  ],
+  "third_person": [
+   3.692,
+   6.092
+  ],
+  "question": [
+   6.342,
+   7.974
+  ],
+  "answer": [
+   8.224,
+   10.552
+  ]
+ },
+ "idioms_58": {
+  "idiom": [
+   0.0,
+   1.08
+  ],
+  "first_person": [
+   1.33,
+   3.082
+  ],
+  "third_person": [
+   3.332,
+   5.492
+  ],
+  "question": [
+   5.742,
+   7.374
+  ],
+  "answer": [
+   7.624,
+   9.712
+  ]
+ },
+ "idioms_59": {
+  "idiom": [
+   0.0,
+   1.488
+  ],
+  "first_person": [
+   1.738,
+   4.498
+  ],
+  "third_person": [
+   4.748,
+   7.34
+  ],
+  "question": [
+   7.59,
+   9.222
+  ],
+  "answer": [
+   9.472,
+   11.752
+  ]
+ },
+ "idioms_6": {
+  "idiom": [
+   0.0,
+   1.2
+  ],
+  "first_person": [
+   1.45,
+   3.13
+  ],
+  "third_person": [
+   3.38,
+   5.18
+  ],
+  "question": [
+   5.43,
+   7.35
+  ],
+  "answer": [
+   7.6,
+   10.0
+  ]
+ },
+ "idioms_60": {
+  "idiom": [
+   0.0,
+   1.008
+  ],
+  "first_person": [
+   1.258,
+   3.178
+  ],
+  "third_person": [
+   3.428,
+   5.588
+  ],
+  "question": [
+   5.838,
+   7.95
+  ],
+  "answer": [
+   8.2,
+   10.288
+  ]
+ },
+ "idioms_61": {
+  "idiom": [
+   0.0,
+   1.728
+  ],
+  "first_person": [
+   1.978,
+   3.778
+  ],
+  "third_person": [
+   4.028,
+   6.02
+  ],
+  "question": [
+   6.27,
+   7.758
+  ],
+  "answer": [
+   8.008,
+   10.576
+  ]
+ },
+ "idioms_62": {
+  "idiom": [
+   0.0,
+   1.56
+  ],
+  "first_person": [
+   1.81,
+   3.922
+  ],
+  "third_person": [
+   4.172,
+   5.9
+  ],
+  "question": [
+   6.15,
+   8.142
+  ],
+  "answer": [
+   8.392,
+   10.144
+  ]
+ },
+ "idioms_63": {
+  "idiom": [
+   0.0,
+   1.32
+  ],
+  "first_person": [
+   1.57,
+   4.018
+  ],
+  "third_person": [
+   4.268,
+   5.876
+  ],
+  "question": [
+   6.126,
+   7.566
+  ],
+  "answer": [
+   7.816,
+   9.568
+  ]
+ },
+ "idioms_64": {
+  "idiom": [
+   0.0,
+   1.512
+  ],
+  "first_person": [
+   1.762,
+   3.562
+  ],
+  "third_person": [
+   3.812,
+   5.732
+  ],
+  "question": [
+   5.982,
+   7.83
+  ],
+  "answer": [
+   8.08,
+   10.168
+  ]
+ },
+ "idioms_65": {
+  "idiom": [
+   0.0,
+   1.272
+  ],
+  "first_person": [
+   1.522,
+   3.634
+  ],
+  "third_person": [
+   3.884,
+   6.284
+  ],
+  "question": [
+   6.534,
+   8.334
+  ],
+  "answer": [
+   8.584,
+   10.816
+  ]
+ },
+ "idioms_66": {
+  "idiom": [
+   0.0,
+   1.392
+  ],
+  "first_person": [
+   1.642,
+   4.33
+  ],
+  "third_person": [
+   4.58,
+   6.932
+  ],
+  "question": [
+   7.182,
+   8.67
+  ],
+  "answer": [
+   8.92,
+   11.08
+  ]
+ },
+ "idioms_67": {
+  "idiom": [
+   0.0,
+   1.392
+  ],
+  "first_person": [
+   1.642,
+   3.61
+  ],
+  "third_person": [
+   3.86,
+   6.26
+  ],
+  "question": [
+   6.51,
+   8.142
+  ],
+  "answer": [
+   8.392,
+   10.552
+  ]
+ },
+ "idioms_68": {
+  "idiom": [
+   0.0,
+   1.56
+  ],
+  "first_person": [
+   1.81,
+   4.282
+  ],
+  "third_person": [
+   4.532,
+   7.004
+  ],
+  "question": [
+   7.254,
+   9.246
+  ],
+  "answer": [
+   9.496,
+   11.536
+  ]
+ },
+ "idioms_69": {
+  "idiom": [
+   0.0,
+   1.128
+  ],
+  "first_person": [
+   1.378,
+   3.25
+  ],
+  "third_person": [
+   3.5,
+   5.54
+  ],
+  "question": [
+   5.79,
+   7.062
+  ],
+  "answer": [
+   7.312,
+   9.664
+  ]
+ },
+ "idioms_7": {
+  "idiom": [
+   0.0,
+   1.32
+  ],
+  "first_person": [
+   1.57,
+   3.61
+  ],
+  "third_person": [
+   3.86,
+   5.612
+  ],
+  "question": [
+   5.862,
+   7.614
+  ],
+  "answer": [
+   7.864,
+   10.576
+  ]
+ },
+ "idioms_70": {
+  "idiom": [
+   0.0,
+   1.608
+  ],
+  "first_person": [
+   1.858,
+   4.546
+  ],
+  "third_person": [
+   4.796,
+   6.836
+  ],
+  "question": [
+   7.086,
+   8.526
+  ],
+  "answer": [
+   8.776,
+   11.104
+  ]
+ },
+ "idioms_71": {
+  "idiom": [
+   0.0,
+   1.032
+  ],
+  "first_person": [
+   1.282,
+   3.37
+  ],
+  "third_person": [
+   3.62,
+   6.092
+  ],
+  "question": [
+   6.342,
+   7.494
+  ],
+  "answer": [
+   7.744,
+   9.832
+  ]
+ },
+ "idioms_72": {
+  "idiom": [
+   0.0,
+   1.152
+  ],
+  "first_person": [
+   1.402,
+   3.49
+  ],
+  "third_person": [
+   3.74,
+   6.068
+  ],
+  "question": [
+   6.318,
+   7.926
+  ],
+  "answer": [
+   8.176,
+   10.336
+  ]
+ },
+ "idioms_73": {
+  "idiom": [
+   0.0,
+   0.96
+  ],
+  "first_person": [
+   1.21,
+   3.178
+  ],
+  "third_person": [
+   3.428,
+   5.78
+  ],
+  "question": [
+   6.03,
+   7.71
+  ],
+  "answer": [
+   7.96,
+   10.408
+  ]
+ },
+ "idioms_74": {
+  "idiom": [
+   0.0,
+   1.632
+  ],
+  "first_person": [
+   1.882,
+   4.282
+  ],
+  "third_person": [
+   4.532,
+   7.124
+  ],
+  "question": [
+   7.374,
+   9.174
+  ],
+  "answer": [
+   9.424,
+   11.416
+  ]
+ },
+ "idioms_75": {
+  "idiom": [
+   0.0,
+   1.008
+  ],
+  "first_person": [
+   1.258,
+   3.73
+  ],
+  "third_person": [
+   3.98,
+   6.092
+  ],
+  "question": [
+   6.342,
+   7.734
+  ],
+  "answer": [
+   7.984,
+   9.592
+  ]
+ },
+ "idioms_76": {
+  "idiom": [
+   0.0,
+   2.448
+  ],
+  "first_person": [
+   2.698,
+   4.426
+  ],
+  "third_person": [
+   4.676,
+   6.716
+  ],
+  "question": [
+   6.966,
+   8.214
+  ],
+  "answer": [
+   8.464,
+   10.216
+  ]
+ },
+ "idioms_77": {
+  "idiom": [
+   0.0,
+   1.248
+  ],
+  "first_person": [
+   1.498,
+   3.778
+  ],
+  "third_person": [
+   4.028,
+   6.356
+  ],
+  "question": [
+   6.606,
+   8.166
+  ],
+  "answer": [
+   8.416,
+   10.456
+  ]
+ },
+ "idioms_78": {
+  "idiom": [
+   0.0,
+   1.248
+  ],
+  "first_person": [
+   1.498,
+   3.418
+  ],
+  "third_person": [
+   3.668,
+   5.948
+  ],
+  "question": [
+   6.198,
+   8.07
+  ],
+  "answer": [
+   8.32,
+   10.672
+  ]
+ },
+ "idioms_79": {
+  "idiom": [
+   0.0,
+   1.44
+  ],
+  "first_person": [
+   1.69,
+   4.042
+  ],
+  "third_person": [
+   4.292,
+   7.22
+  ],
+  "question": [
+   7.47,
+   9.798
+  ],
+  "answer": [
+   10.048,
+   12.256
+  ]
+ },
+ "idioms_8": {
+  "idiom": [
+   0.0,
+   0.912
+  ],
+  "first_person": [
+   1.162,
+   2.722
+  ],
+  "third_person": [
+   2.972,
+   4.604
+  ],
+  "question": [
+   4.854,
+   6.342
+  ],
+  "answer": [
+   6.592,
+   8.872
+  ]
+ },
+ "idioms_80": {
+  "idiom": [
+   0.0,
+   1.272
+  ],
+  "first_person": [
+   1.522,
+   3.994
+  ],
+  "third_person": [
+   4.244,
+   6.356
+  ],
+  "question": [
+   6.606,
+   7.878
+  ],
+  "answer": [
+   8.128,
+   10.456
+  ]
+ },
+ "idioms_81": {
+  "idiom": [
+   0.0,
+   1.2
+  ],
+  "first_person": [
+   1.45,
+   3.61
+  ],
+  "third_person": [
+   3.86,
+   6.548
+  ],
+  "question": [
+   6.798,
+   9.078
+  ],
+  "answer": [
+   9.328,
+   11.776
+  ]
+ },
+ "idioms_82": {
+  "idiom": [
+   0.0,
+   1.08
+  ],
+  "first_person": [
+   1.33,
+   3.898
+  ],
+  "third_person": [
+   4.148,
+   6.62
+  ],
+  "question": [
+   6.87,
+   8.838
+  ],
+  "answer": [
+   9.088,
+   12.088
+  ]
+ },
+ "idioms_83": {
+  "idiom": [
+   0.0,
+   1.128
+  ],
+  "first_person": [
+   1.378,
+   3.37
+  ],
+  "third_person": [
+   3.62,
+   5.9
+  ],
+  "question": [
+   6.15,
+   7.758
+  ],
+  "answer": [
+   8.008,
+   10.24
+  ]
+ },
+ "idioms_84": {
+  "idiom": [
+   0.0,
+   1.392
+  ],
+  "first_person": [
+   1.642,
+   3.97
+  ],
+  "third_person": [
+   4.22,
+   6.428
+  ],
+  "question": [
+   6.678,
+   9.006
+  ],
+  "answer": [
+   9.256,
+   11.584
+  ]
+ },
+ "idioms_85": {
+  "idiom": [
+   0.0,
+   1.128
+  ],
+  "first_person": [
+   1.378,
+   3.49
+  ],
+  "third_person": [
+   3.74,
+   6.212
+  ],
+  "question": [
+   6.462,
+   8.022
+  ],
+  "answer": [
+   8.272,
+   10.432
+  ]
+ },
+ "idioms_86": {
+  "idiom": [
+   0.0,
+   1.248
+  ],
+  "first_person": [
+   1.498,
+   3.97
+  ],
+  "third_person": [
+   4.22,
+   6.572
+  ],
+  "question": [
+   6.822,
+   9.15
+  ],
+  "answer": [
+   9.4,
+   12.088
+  ]
+ },
+ "idioms_87": {
+  "idiom": [
+   0.0,
+   1.128
+  ],
+  "first_person": [
+   1.378,
+   3.946
+  ],
+  "third_person": [
+   4.196,
+   6.548
+  ],
+  "question": [
+   6.798,
+   8.646
+  ],
+  "answer": [
+   8.896,
+   11.368
+  ]
+ },
+ "idioms_88": {
+  "idiom": [
+   0.0,
+   0.96
+  ],
+  "first_person": [
+   1.21,
+   3.61
+  ],
+  "third_person": [
+   3.86,
+   5.9
+  ],
+  "question": [
+   6.15,
+   8.358
+  ],
+  "answer": [
+   8.608,
+   11.008
+  ]
+ },
+ "idioms_89": {
+  "idiom": [
+   0.0,
+   2.808
+  ],
+  "first_person": [
+   3.058,
+   5.506
+  ],
+  "third_person": [
+   5.756,
+   8.324
+  ],
+  "question": [
+   8.574,
+   10.446
+  ],
+  "answer": [
+   10.696,
+   12.784
+  ]
+ },
+ "idioms_9": {
+  "idiom": [
+   0.0,
+   1.32
+  ],
+  "first_person": [
+   1.57,
+   3.538
+  ],
+  "third_person": [
+   3.788,
+   5.396
+  ],
+  "question": [
+   5.646,
+   7.158
+  ],
+  "answer": [
+   7.408,
+   9.688
+  ]
+ },
+ "idioms_90": {
+  "idiom": [
+   0.0,
+   1.08
+  ],
+  "first_person": [
+   1.33,
+   3.418
+  ],
+  "third_person": [
+   3.668,
+   6.26
+  ],
+  "question": [
+   6.51,
+   8.43
+  ],
+  "answer": [
+   8.68,
+   10.792
+  ]
+ },
+ "idioms_91": {
+  "idiom": [
+   0.0,
+   1.68
+  ],
+  "first_person": [
+   1.93,
+   4.042
+  ],
+  "third_person": [
+   4.292,
+   6.764
+  ],
+  "question": [
+   7.014,
+   8.814
+  ],
+  "answer": [
+   9.064,
+   11.344
+  ]
+ },
+ "idioms_92": {
+  "idiom": [
+   0.0,
+   1.32
+  ],
+  "first_person": [
+   1.57,
+   4.498
+  ],
+  "third_person": [
+   4.748,
+   7.196
+  ],
+  "question": [
+   7.446,
+   9.294
+  ],
+  "answer": [
+   9.544,
+   12.064
+  ]
+ },
+ "idioms_93": {
+  "idiom": [
+   0.0,
+   1.848
+  ],
+  "first_person": [
+   2.098,
+   4.618
+  ],
+  "third_person": [
+   4.868,
+   7.388
+  ],
+  "question": [
+   7.638,
+   9.51
+  ],
+  "answer": [
+   9.76,
+   12.04
+  ]
+ },
+ "idioms_94": {
+  "idiom": [
+   0.0,
+   1.032
+  ],
+  "first_person": [
+   1.282,
+   3.442
+  ],
+  "third_person": [
+   3.692,
+   5.684
+  ],
+  "question": [
+   5.934,
+   7.806
+  ],
+  "answer": [
+   8.056,
+   9.976
+  ]
+ },
+ "idioms_95": {
+  "idiom": [
+   0.0,
+   1.152
+  ],
+  "first_person": [
+   1.402,
+   3.322
+  ],
+  "third_person": [
+   3.572,
+   6.02
+  ],
+  "question": [
+   6.27,
+   7.758
+  ],
+  "answer": [
+   8.008,
+   9.688
+  ]
+ },
+ "idioms_96": {
+  "idiom": [
+   0.0,
+   1.488
+  ],
+  "first_person": [
+   1.738,
+   4.258
+  ],
+  "third_person": [
+   4.508,
+   7.316
+  ],
+  "question": [
+   7.566,
+   9.366
+  ],
+  "answer": [
+   9.616,
+   11.896
+  ]
+ },
+ "idioms_97": {
+  "idiom": [
+   0.0,
+   0.912
+  ],
+  "first_person": [
+   1.162,
+   3.13
+  ],
+  "third_person": [
+   3.38,
+   5.348
+  ],
+  "question": [
+   5.598,
+   7.23
+  ],
+  "answer": [
+   7.48,
+   9.448
+  ]
+ },
+ "idioms_98": {
+  "idiom": [
+   0.0,
+   1.032
+  ],
+  "first_person": [
+   1.282,
+   3.754
+  ],
+  "third_person": [
+   4.004,
+   6.404
+  ],
+  "question": [
+   6.654,
+   8.382
+  ],
+  "answer": [
+   8.632,
+   10.624
+  ]
+ },
+ "idioms_99": {
+  "idiom": [
+   0.0,
+   1.608
+  ],
+  "first_person": [
+   1.858,
+   4.45
+  ],
+  "third_person": [
+   4.7,
+   7.292
+  ],
+  "question": [
+   7.542,
+   9.87
+  ],
+  "answer": [
+   10.12,
+   12.64
+  ]
+ },
+ "palabras-clave_1": {
+  "idiom": [
+   0.0,
+   1.848
+  ],
+  "first_person": [
+   2.098,
+   4.138
+  ],
+  "third_person": [
+   4.388,
+   6.668
+  ],
+  "question": [
+   6.918,
+   8.766
+  ],
+  "answer": [
+   9.016,
+   11.104
+  ]
+ },
+ "palabras-clave_10": {
+  "idiom": [
+   0.0,
+   8.64
+  ],
+  "first_person": [
+   8.89,
+   12.01
+  ],
+  "third_person": [
+   12.26,
+   14.708
+  ],
+  "question": [
+   14.958,
+   17.478
+  ],
+  "answer": [
+   17.728,
+   20.44
+  ]
+ },
+ "palabras-clave_11": {
+  "idiom": [
+   0.0,
+   1.8
+  ],
+  "first_person": [
+   2.05,
+   4.522
+  ],
+  "third_person": [
+   4.772,
+   7.34
+  ],
+  "question": [
+   7.59,
+   9.438
+  ],
+  "answer": [
+   9.688,
+   12.376
+  ]
+ },
+ "palabras-clave_12": {
+  "idiom": [
+   0.0,
+   1.8
+  ],
+  "first_person": [
+   2.05,
+   5.122
+  ],
+  "third_person": [
+   5.372,
+   8.204
+  ],
+  "question": [
+   8.454,
+   11.142
+  ],
+  "answer": [
+   11.392,
+   14.152
+  ]
+ },
+ "palabras-clave_13": {
+  "idiom": [
+   0.0,
+   2.04
+  ],
+  "first_person": [
+   2.29,
+   4.81
+  ],
+  "third_person": [
+   5.06,
+   7.58
+  ],
+  "question": [
+   7.83,
+   9.582
+  ],
+  "answer": [
+   9.832,
+   12.664
+  ]
+ },
+ "palabras-clave_14": {
+  "idiom": [
+   0.0,
+   2.04
+  ],
+  "first_person": [
+   2.29,
+   5.41
+  ],
+  "third_person": [
+   5.66,
+   8.492
+  ],
+  "question": [
+   8.742,
+   10.974
+  ],
+  "answer": [
+   11.224,
+   13.984
+  ]
+ },
+ "palabras-clave_15": {
+  "idiom": [
+   0.0,
+   1.848
+  ],
+  "first_person": [
+   2.098,
+   4.618
+  ],
+  "third_person": [
+   4.868,
+   7.436
+  ],
+  "question": [
+   7.686,
+   9.606
+  ],
+  "answer": [
+   9.856,
+   12.208
+  ]
+ },
+ "palabras-clave_16": {
+  "idiom": [
+   0.0,
+   1.968
+  ],
+  "first_person": [
+   2.218,
+   5.146
+  ],
+  "third_person": [
+   5.396,
+   7.964
+  ],
+  "question": [
+   8.214,
+   10.206
+  ],
+  "answer": [
+   10.456,
+   12.688
+  ]
+ },
+ "palabras-clave_17": {
+  "idiom": [
+   0.0,
+   1.968
+  ],
+  "first_person": [
+   2.218,
+   4.306
+  ],
+  "third_person": [
+   4.556,
+   7.028
+  ],
+  "question": [
+   7.278,
+   9.366
+  ],
+  "answer": [
+   9.616,
+   11.944
+  ]
+ },
+ "palabras-clave_18": {
+  "idiom": [
+   0.0,
+   2.112
+  ],
+  "first_person": [
+   2.362,
+   5.17
+  ],
+  "third_person": [
+   5.42,
+   8.372
+  ],
+  "question": [
+   8.622,
+   10.854
+  ],
+  "answer": [
+   11.104,
+   13.816
+  ]
+ },
+ "palabras-clave_19": {
+  "idiom": [
+   0.0,
+   1.992
+  ],
+  "first_person": [
+   2.242,
+   4.354
+  ],
+  "third_person": [
+   4.604,
+   7.004
+  ],
+  "question": [
+   7.254,
+   9.414
+  ],
+  "answer": [
+   9.664,
+   11.776
+  ]
+ },
+ "palabras-clave_2": {
+  "idiom": [
+   0.0,
+   1.488
+  ],
+  "first_person": [
+   1.738,
+   4.21
+  ],
+  "third_person": [
+   4.46,
+   6.74
+  ],
+  "question": [
+   6.99,
+   8.43
+  ],
+  "answer": [
+   8.68,
+   11.08
+  ]
+ },
+ "palabras-clave_20": {
+  "idiom": [
+   0.0,
+   1.968
+  ],
+  "first_person": [
+   2.218,
+   4.738
+  ],
+  "third_person": [
+   4.988,
+   7.7
+  ],
+  "question": [
+   7.95,
+   9.942
+  ],
+  "answer": [
+   10.192,
+   12.952
+  ]
+ },
+ "palabras-clave_21": {
+  "idiom": [
+   0.0,
+   1.872
+  ],
+  "first_person": [
+   2.122,
+   4.882
+  ],
+  "third_person": [
+   5.132,
+   7.244
+  ],
+  "question": [
+   7.494,
+   9.654
+  ],
+  "answer": [
+   9.904,
+   12.424
+  ]
+ },
+ "palabras-clave_22": {
+  "idiom": [
+   0.0,
+   1.848
+  ],
+  "first_person": [
+   2.098,
+   4.858
+  ],
+  "third_person": [
+   5.108,
+   7.196
+  ],
+  "question": [
+   7.446,
+   9.606
+  ],
+  "answer": [
+   9.856,
+   12.568
+  ]
+ },
+ "palabras-clave_23": {
+  "idiom": [
+   0.0,
+   1.752
+  ],
+  "first_person": [
+   2.002,
+   4.162
+  ],
+  "third_person": [
+   4.412,
+   6.764
+  ],
+  "question": [
+   7.014,
+   8.814
+  ],
+  "answer": [
+   9.064,
+   11.872
+  ]
+ },
+ "palabras-clave_24": {
+  "idiom": [
+   0.0,
+   7.92
+  ],
+  "first_person": [
+   8.17,
+   11.77
+  ],
+  "third_person": [
+   12.02,
+   14.948
+  ],
+  "question": [
+   15.198,
+   18.486
+  ],
+  "answer": [
+   18.736,
+   21.304
+  ]
+ },
+ "palabras-clave_25": {
+  "idiom": [
+   0.0,
+   1.56
+  ],
+  "first_person": [
+   1.81,
+   4.402
+  ],
+  "third_person": [
+   4.652,
+   7.412
+  ],
+  "question": [
+   7.662,
+   10.062
+  ],
+  "answer": [
+   10.312,
+   13.024
+  ]
+ },
+ "palabras-clave_3": {
+  "idiom": [
+   0.0,
+   1.872
+  ],
+  "first_person": [
+   2.122,
+   3.85
+  ],
+  "third_person": [
+   4.1,
+   6.62
+  ],
+  "question": [
+   6.87,
+   8.262
+  ],
+  "answer": [
+   8.512,
+   10.864
+  ]
+ },
+ "palabras-clave_4": {
+  "idiom": [
+   0.0,
+   1.56
+  ],
+  "first_person": [
+   1.81,
+   3.97
+  ],
+  "third_person": [
+   4.22,
+   6.38
+  ],
+  "question": [
+   6.63,
+   8.598
+  ],
+  "answer": [
+   8.848,
+   11.248
+  ]
+ },
+ "palabras-clave_5": {
+  "idiom": [
+   0.0,
+   1.392
+  ],
+  "first_person": [
+   1.642,
+   3.802
+  ],
+  "third_person": [
+   4.052,
+   6.092
+  ],
+  "question": [
+   6.342,
+   7.974
+  ],
+  "answer": [
+   8.224,
+   10.216
+  ]
+ },
+ "palabras-clave_6": {
+  "idiom": [
+   0.0,
+   1.872
+  ],
+  "first_person": [
+   2.122,
+   5.554
+  ],
+  "third_person": [
+   5.804,
+   8.972
+  ],
+  "question": [
+   9.222,
+   12.702
+  ],
+  "answer": [
+   12.952,
+   16.36
+  ]
+ },
+ "palabras-clave_7": {
+  "idiom": [
+   0.0,
+   1.752
+  ],
+  "first_person": [
+   2.002,
+   5.482
+  ],
+  "third_person": [
+   5.732,
+   9.5
+  ],
+  "question": [
+   9.75,
+   12.678
+  ],
+  "answer": [
+   12.928,
+   15.616
+  ]
+ },
+ "palabras-clave_8": {
+  "idiom": [
+   0.0,
+   7.608
+  ],
+  "first_person": [
+   7.858,
+   10.618
+  ],
+  "third_person": [
+   10.868,
+   13.556
+  ],
+  "question": [
+   13.806,
+   16.086
+  ],
+  "answer": [
+   16.336,
+   18.928
+  ]
+ },
+ "palabras-clave_9": {
+  "idiom": [
+   0.0,
+   1.848
+  ],
+  "first_person": [
+   2.098,
+   5.626
+  ],
+  "third_person": [
+   5.876,
+   9.644
+  ],
+  "question": [
+   9.894,
+   13.182
+  ],
+  "answer": [
+   13.432,
+   16.72
+  ]
+ },
+ "sustantivos-comunes_1": {
+  "idiom": [
+   0.0,
+   0.792
+  ],
+  "first_person": [
+   1.042,
+   2.482
+  ],
+  "third_person": [
+   2.732,
+   4.46
+  ],
+  "question": [
+   4.71,
+   6.27
+  ],
+  "answer": [
+   6.52,
+   8.92
+  ]
+ },
+ "sustantivos-comunes_10": {
+  "idiom": [
+   0.0,
+   0.648
+  ],
+  "first_person": [
+   0.898,
+   2.218
+  ],
+  "third_person": [
+   2.468,
+   4.34
+  ],
+  "question": [
+   4.59,
+   5.91
+  ],
+  "answer": [
+   6.16,
+   7.792
+  ]
+ },
+ "sustantivos-comunes_100": {
+  "idiom": [
+   0.0,
+   1.848
+  ],
+  "first_person": [
+   2.098,
+   3.946
+  ],
+  "third_person": [
+   4.196,
+   5.828
+  ],
+  "question": [
+   6.078,
+   7.686
+  ],
+  "answer": [
+   7.936,
+   10.336
+  ]
+ },
+ "sustantivos-comunes_11": {
+  "idiom": [
+   0.0,
+   0.792
+  ],
+  "first_person": [
+   1.042,
+   2.362
+  ],
+  "third_person": [
+   2.612,
+   4.364
+  ],
+  "question": [
+   4.614,
+   6.102
+  ],
+  "answer": [
+   6.352,
+   8.224
+  ]
+ },
+ "sustantivos-comunes_12": {
+  "idiom": [
+   0.0,
+   0.792
+  ],
+  "first_person": [
+   1.042,
+   2.65
+  ],
+  "third_person": [
+   2.9,
+   4.748
+  ],
+  "question": [
+   4.998,
+   6.558
+  ],
+  "answer": [
+   6.808,
+   8.92
+  ]
+ },
+ "sustantivos-comunes_13": {
+  "idiom": [
+   0.0,
+   0.888
+  ],
+  "first_person": [
+   1.138,
+   2.626
+  ],
+  "third_person": [
+   2.876,
+   4.508
+  ],
+  "question": [
+   4.758,
+   6.318
+  ],
+  "answer": [
+   6.568,
+   8.8
+  ]
+ },
+ "sustantivos-comunes_14": {
+  "idiom": [
+   0.0,
+   0.672
+  ],
+  "first_person": [
+   0.922,
+   2.434
+  ],
+  "third_person": [
+   2.684,
+   4.532
+  ],
+  "question": [
+   4.782,
+   6.174
+  ],
+  "answer": [
+   6.424,
+   8.656
+  ]
+ },
+ "sustantivos-comunes_15": {
+  "idiom": [
+   0.0,
+   0.672
+  ],
+  "first_person": [
+   0.922,
+   2.314
+  ],
+  "third_person": [
+   2.564,
+   4.532
+  ],
+  "question": [
+   4.782,
+   6.294
+  ],
+  "answer": [
+   6.544,
+   8.752
+  ]
+ },
+ "sustantivos-comunes_16": {
+  "idiom": [
+   0.0,
+   0.888
+  ],
+  "first_person": [
+   1.138,
+   2.578
+  ],
+  "third_person": [
+   2.828,
+   4.316
+  ],
+  "question": [
+   4.566,
+   6.054
+  ],
+  "answer": [
+   6.304,
+   8.512
+  ]
+ },
+ "sustantivos-comunes_17": {
+  "idiom": [
+   0.0,
+   0.84
+  ],
+  "first_person": [
+   1.09,
+   2.938
+  ],
+  "third_person": [
+   3.188,
+   4.94
+  ],
+  "question": [
+   5.19,
+   6.678
+  ],
+  "answer": [
+   6.928,
+   9.088
+  ]
+ },
+ "sustantivos-comunes_18": {
+  "idiom": [
+   0.0,
+   0.672
+  ],
+  "first_person": [
+   0.922,
+   2.554
+  ],
+  "third_person": [
+   2.804,
+   4.676
+  ],
+  "question": [
+   4.926,
+   6.246
+  ],
+  "answer": [
+   6.496,
+   8.296
+  ]
+ },
+ "sustantivos-comunes_19": {
+  "idiom": [
+   0.0,
+   0.72
+  ],
+  "first_person": [
+   0.97,
+   2.362
+  ],
+  "third_person": [
+   2.612,
+   4.412
+  ],
+  "question": [
+   4.662,
+   6.15
+  ],
+  "answer": [
+   6.4,
+   8.752
+  ]
+ },
+ "sustantivos-comunes_2": {
+  "idiom": [
+   0.0,
+   0.72
+  ],
+  "first_person": [
+   0.97,
+   2.842
+  ],
+  "third_person": [
+   3.092,
+   4.82
+  ],
+  "question": [
+   5.07,
+   6.75
+  ],
+  "answer": [
+   7.0,
+   9.352
+  ]
+ },
+ "sustantivos-comunes_20": {
+  "idiom": [
+   0.0,
+   0.672
+  ],
+  "first_person": [
+   0.922,
+   2.434
+  ],
+  "third_person": [
+   2.684,
+   4.484
+  ],
+  "question": [
+   4.734,
+   6.174
+  ],
+  "answer": [
+   6.424,
+   8.824
+  ]
+ },
+ "sustantivos-comunes_21": {
+  "idiom": [
+   0.0,
+   0.912
+  ],
+  "first_person": [
+   1.162,
+   2.89
+  ],
+  "third_person": [
+   3.14,
+   5.06
+  ],
+  "question": [
+   5.31,
+   7.062
+  ],
+  "answer": [
+   7.312,
+   9.424
+  ]
+ },
+ "sustantivos-comunes_22": {
+  "idiom": [
+   0.0,
+   0.792
+  ],
+  "first_person": [
+   1.042,
+   2.914
+  ],
+  "third_person": [
+   3.164,
+   5.036
+  ],
+  "question": [
+   5.286,
+   6.678
+  ],
+  "answer": [
+   6.928,
+   8.776
+  ]
+ },
+ "sustantivos-comunes_23": {
+  "idiom": [
+   0.0,
+   0.84
+  ],
+  "first_person": [
+   1.09,
+   3.082
+  ],
+  "third_person": [
+   3.332,
+   5.372
+  ],
+  "question": [
+   5.622,
+   7.134
+  ],
+  "answer": [
+   7.384,
+   9.976
+  ]
+ },
+ "sustantivos-comunes_24": {
+  "idiom": [
+   0.0,
+   0.888
+  ],
+  "first_person": [
+   1.138,
+   2.818
+  ],
+  "third_person": [
+   3.068,
+   5.06
+  ],
+  "question": [
+   5.31,
+   7.062
+  ],
+  "answer": [
+   7.312,
+   9.76
+  ]
+ },
+ "sustantivos-comunes_25": {
+  "idiom": [
+   0.0,
+   0.72
+  ],
+  "first_person": [
+   0.97,
+   2.41
+  ],
+  "third_person": [
+   2.66,
+   4.172
+  ],
+  "question": [
+   4.422,
+   5.862
+  ],
+  "answer": [
+   6.112,
+   8.44
+  ]
+ },
+ "sustantivos-comunes_26": {
+  "idiom": [
+   0.0,
+   0.888
+  ],
+  "first_person": [
+   1.138,
+   2.77
+  ],
+  "third_person": [
+   3.02,
+   4.7
+  ],
+  "question": [
+   4.95,
+   6.198
+  ],
+  "answer": [
+   6.448,
+   8.656
+  ]
+ },
+ "sustantivos-comunes_27": {
+  "idiom": [
+   0.0,
+   0.72
+  ],
+  "first_person": [
+   0.97,
+   2.482
+  ],
+  "third_person": [
+   2.732,
+   4.34
+  ],
+  "question": [
+   4.59,
+   6.102
+  ],
+  "answer": [
+   6.352,
+   8.032
+  ]
+ },
+ "sustantivos-comunes_28": {
+  "idiom": [
+   0.0,
+   0.6
+  ],
+  "first_person": [
+   0.85,
+   2.41
+  ],
+  "third_person": [
+   2.66,
+   4.292
+  ],
+  "question": [
+   4.542,
+   6.054
+  ],
+  "answer": [
+   6.304,
+   8.656
+  ]
+ },
+ "sustantivos-comunes_29": {
+  "idiom": [
+   0.0,
+   0.768
+  ],
+  "first_person": [
+   1.018,
+   2.818
+  ],
+  "third_person": [
+   3.068,
+   5.108
+  ],
+  "question": [
+   5.358,
+   6.75
+  ],
+  "answer": [
+   7.0,
+   9.352
+  ]
+ },
+ "sustantivos-comunes_3": {
+  "idiom": [
+   0.0,
+   0.6
+  ],
+  "first_person": [
+   0.85,
+   2.53
+  ],
+  "third_person": [
+   2.78,
+   4.532
+  ],
+  "question": [
+   4.782,
+   6.342
+  ],
+  "answer": [
+   6.592,
+   9.064
+  ]
+ },
+ "sustantivos-comunes_30": {
+  "idiom": [
+   0.0,
+   1.608
+  ],
+  "first_person": [
+   1.858,
+   3.37
+  ],
+  "third_person": [
+   3.62,
+   5.372
+  ],
+  "question": [
+   5.622,
+   7.134
+  ],
+  "answer": [
+   7.384,
+   9.544
+  ]
+ },
+ "sustantivos-comunes_31": {
+  "idiom": [
+   0.0,
+   0.72
+  ],
+  "first_person": [
+   0.97,
+   2.842
+  ],
+  "third_person": [
+   3.092,
+   4.772
+  ],
+  "question": [
+   5.022,
+   6.342
+  ],
+  "answer": [
+   6.592,
+   8.32
+  ]
+ },
+ "sustantivos-comunes_32": {
+  "idiom": [
+   0.0,
+   0.888
+  ],
+  "first_person": [
+   1.138,
+   2.626
+  ],
+  "third_person": [
+   2.876,
+   4.484
+  ],
+  "question": [
+   4.734,
+   6.174
+  ],
+  "answer": [
+   6.424,
+   8.392
+  ]
+ },
+ "sustantivos-comunes_33": {
+  "idiom": [
+   0.0,
+   0.84
+  ],
+  "first_person": [
+   1.09,
+   2.89
+  ],
+  "third_person": [
+   3.14,
+   5.012
+  ],
+  "question": [
+   5.262,
+   7.062
+  ],
+  "answer": [
+   7.312,
+   9.76
+  ]
+ },
+ "sustantivos-comunes_34": {
+  "idiom": [
+   0.0,
+   0.672
+  ],
+  "first_person": [
+   0.922,
+   2.842
+  ],
+  "third_person": [
+   3.092,
+   4.7
+  ],
+  "question": [
+   4.95,
+   6.222
+  ],
+  "answer": [
+   6.472,
+   8.56
+  ]
+ },
+ "sustantivos-comunes_35": {
+  "idiom": [
+   0.0,
+   0.84
+  ],
+  "first_person": [
+   1.09,
+   2.77
+  ],
+  "third_person": [
+   3.02,
+   4.58
+  ],
+  "question": [
+   4.83,
+   6.438
+  ],
+  "answer": [
+   6.688,
+   8.728
+  ]
+ },
+ "sustantivos-comunes_36": {
+  "idiom": [
+   0.0,
+   0.768
+  ],
+  "first_person": [
+   1.018,
+   2.698
+  ],
+  "third_person": [
+   2.948,
+   4.868
+  ],
+  "question": [
+   5.118,
+   6.318
+  ],
+  "answer": [
+   6.568,
+   8.656
+  ]
+ },
+ "sustantivos-comunes_37": {
+  "idiom": [
+   0.0,
+   0.672
+  ],
+  "first_person": [
+   0.922,
+   2.482
+  ],
+  "third_person": [
+   2.732,
+   4.484
+  ],
+  "question": [
+   4.734,
+   6.126
+  ],
+  "answer": [
+   6.376,
+   8.248
+  ]
+ },
+ "sustantivos-comunes_38": {
+  "idiom": [
+   0.0,
+   0.672
+  ],
+  "first_person": [
+   0.922,
+   2.914
+  ],
+  "third_person": [
+   3.164,
+   4.844
+  ],
+  "question": [
+   5.094,
+   6.942
+  ],
+  "answer": [
+   7.192,
+   10.024
+  ]
+ },
+ "sustantivos-comunes_39": {
+  "idiom": [
+   0.0,
+   0.6
+  ],
+  "first_person": [
+   0.85,
+   2.362
+  ],
+  "third_person": [
+   2.612,
+   4.34
+  ],
+  "question": [
+   4.59,
+   5.982
+  ],
+  "answer": [
+   6.232,
+   8.944
+  ]
+ },
+ "sustantivos-comunes_4": {
+  "idiom": [
+   0.0,
+   0.6
+  ],
+  "first_person": [
+   0.85,
+   2.41
+  ],
+  "third_person": [
+   2.66,
+   3.932
+  ],
+  "question": [
+   4.182,
+   5.862
+  ],
+  "answer": [
+   6.112,
+   8.2
+  ]
+ },
+ "sustantivos-comunes_40": {
+  "idiom": [
+   0.0,
+   0.96
+  ],
+  "first_person": [
+   1.21,
+   3.298
+  ],
+  "third_person": [
+   3.548,
+   5.66
+  ],
+  "question": [
+   5.91,
+   7.35
+  ],
+  "answer": [
+   7.6,
+   10.312
+  ]
+ },
+ "sustantivos-comunes_41": {
+  "idiom": [
+   0.0,
+   0.72
+  ],
+  "first_person": [
+   0.97,
+   2.482
+  ],
+  "third_person": [
+   2.732,
+   4.58
+  ],
+  "question": [
+   4.83,
+   6.27
+  ],
+  "answer": [
+   6.52,
+   8.8
+  ]
+ },
+ "sustantivos-comunes_42": {
+  "idiom": [
+   0.0,
+   0.768
+  ],
+  "first_person": [
+   1.018,
+   2.578
+  ],
+  "third_person": [
+   2.828,
+   4.628
+  ],
+  "question": [
+   4.878,
+   6.606
+  ],
+  "answer": [
+   6.856,
+   8.944
+  ]
+ },
+ "sustantivos-comunes_43": {
+  "idiom": [
+   0.0,
+   0.72
+  ],
+  "first_person": [
+   0.97,
+   2.722
+  ],
+  "third_person": [
+   2.972,
+   4.844
+  ],
+  "question": [
+   5.094,
+   6.486
+  ],
+  "answer": [
+   6.736,
+   8.656
+  ]
+ },
+ "sustantivos-comunes_44": {
+  "idiom": [
+   0.0,
+   0.84
+  ],
+  "first_person": [
+   1.09,
+   3.058
+  ],
+  "third_person": [
+   3.308,
+   5.108
+  ],
+  "question": [
+   5.358,
+   6.846
+  ],
+  "answer": [
+   7.096,
+   9.544
+  ]
+ },
+ "sustantivos-comunes_45": {
+  "idiom": [
+   0.0,
+   1.488
+  ],
+  "first_person": [
+   1.738,
+   3.25
+  ],
+  "third_person": [
+   3.5,
+   5.108
+  ],
+  "question": [
+   5.358,
+   6.918
+  ],
+  "answer": [
+   7.168,
+   9.52
+  ]
+ },
+ "sustantivos-comunes_46": {
+  "idiom": [
+   0.0,
+   0.84
+  ],
+  "first_person": [
+   1.09,
+   2.338
+  ],
+  "third_person": [
+   2.588,
+   4.748
+  ],
+  "question": [
+   4.998,
+   6.606
+  ],
+  "answer": [
+   6.856,
+   9.184
+  ]
+ },
+ "sustantivos-comunes_47": {
+  "idiom": [
+   0.0,
+   1.752
+  ],
+  "first_person": [
+   2.002,
+   3.61
+  ],
+  "third_person": [
+   3.86,
+   5.348
+  ],
+  "question": [
+   5.598,
+   7.11
+  ],
+  "answer": [
+   7.36,
+   9.928
+  ]
+ },
+ "sustantivos-comunes_48": {
+  "idiom": [
+   0.0,
+   0.96
+  ],
+  "first_person": [
+   1.21,
+   2.938
+  ],
+  "third_person": [
+   3.188,
+   4.82
+  ],
+  "question": [
+   5.07,
+   6.75
+  ],
+  "answer": [
+   7.0,
+   9.592
+  ]
+ },
+ "sustantivos-comunes_49": {
+  "idiom": [
+   0.0,
+   0.96
+  ],
+  "first_person": [
+   1.21,
+   2.818
+  ],
+  "third_person": [
+   3.068,
+   4.82
+  ],
+  "question": [
+   5.07,
+   6.63
+  ],
+  "answer": [
+   6.88,
+   9.16
+  ]
+ },
+ "sustantivos-comunes_5": {
+  "idiom": [
+   0.0,
+   0.648
+  ],
+  "first_person": [
+   0.898,
+   2.77
+  ],
+  "third_person": [
+   3.02,
+   4.628
+  ],
+  "question": [
+   4.878,
+   6.39
+  ],
+  "answer": [
+   6.64,
+   8.632
+  ]
+ },
+ "sustantivos-comunes_50": {
+  "idiom": [
+   0.0,
+   0.84
+  ],
+  "first_person": [
+   1.09,
+   2.698
+  ],
+  "third_person": [
+   2.948,
+   4.628
+  ],
+  "question": [
+   4.878,
+   6.27
+  ],
+  "answer": [
+   6.52,
+   8.56
+  ]
+ },
+ "sustantivos-comunes_51": {
+  "idiom": [
+   0.0,
+   0.84
+  ],
+  "first_person": [
+   1.09,
+   2.698
+  ],
+  "third_person": [
+   2.948,
+   5.06
+  ],
+  "question": [
+   5.31,
+   6.822
+  ],
+  "answer": [
+   7.072,
+   9.592
+  ]
+ },
+ "sustantivos-comunes_52": {
+  "idiom": [
+   0.0,
+   1.56
+  ],
+  "first_person": [
+   1.81,
+   3.49
+  ],
+  "third_person": [
+   3.74,
+   6.092
+  ],
+  "question": [
+   6.342,
+   7.734
+  ],
+  "answer": [
+   7.984,
+   10.216
+  ]
+ },
+ "sustantivos-comunes_53": {
+  "idiom": [
+   0.0,
+   0.912
+  ],
+  "first_person": [
+   1.162,
+   2.914
+  ],
+  "third_person": [
+   3.164,
+   5.036
+  ],
+  "question": [
+   5.286,
+   7.134
+  ],
+  "answer": [
+   7.384,
+   10.192
+  ]
+ },
+ "sustantivos-comunes_54": {
+  "idiom": [
+   0.0,
+   0.648
+  ],
+  "first_person": [
+   0.898,
+   2.41
+  ],
+  "third_person": [
+   2.66,
+   4.628
+  ],
+  "question": [
+   4.878,
+   6.606
+  ],
+  "answer": [
+   6.856,
+   9.088
+  ]
+ },
+ "sustantivos-comunes_55": {
+  "idiom": [
+   0.0,
+   0.96
+  ],
+  "first_person": [
+   1.21,
+   2.89
+  ],
+  "third_person": [
+   3.14,
+   4.892
+  ],
+  "question": [
+   5.142,
+   6.774
+  ],
+  "answer": [
+   7.024,
+   9.592
+  ]
+ },
+ "sustantivos-comunes_56": {
+  "idiom": [
+   0.0,
+   0.648
+  ],
+  "first_person": [
+   0.898,
+   2.29
+  ],
+  "third_person": [
+   2.54,
+   4.46
+  ],
+  "question": [
+   4.71,
+   6.198
+  ],
+  "answer": [
+   6.448,
+   9.016
+  ]
+ },
+ "sustantivos-comunes_57": {
+  "idiom": [
+   0.0,
+   0.888
+  ],
+  "first_person": [
+   1.138,
+   2.746
+  ],
+  "third_person": [
+   2.996,
+   4.508
+  ],
+  "question": [
+   4.758,
+   6.246
+  ],
+  "answer": [
+   6.496,
+   8.944
+  ]
+ },
+ "sustantivos-comunes_58": {
+  "idiom": [
+   0.0,
+   1.56
+  ],
+  "first_person": [
+   1.81,
+   3.202
+  ],
+  "third_person": [
+   3.452,
+   4.964
+  ],
+  "question": [
+   5.214,
+   6.462
+  ],
+  "answer": [
+   6.712,
+   8.632
+  ]
+ },
+ "sustantivos-comunes_59": {
+  "idiom": [
+   0.0,
+   0.768
+  ],
+  "first_person": [
+   1.018,
+   2.29
+  ],
+  "third_person": [
+   2.54,
+   4.22
+  ],
+  "question": [
+   4.47,
+   5.79
+  ],
+  "answer": [
+   6.04,
+   8.32
+  ]
+ },
+ "sustantivos-comunes_6": {
+  "idiom": [
+   0.0,
+   0.72
+  ],
+  "first_person": [
+   0.97,
+   2.938
+  ],
+  "third_person": [
+   3.188,
+   5.18
+  ],
+  "question": [
+   5.43,
+   7.038
+  ],
+  "answer": [
+   7.288,
+   9.208
+  ]
+ },
+ "sustantivos-comunes_60": {
+  "idiom": [
+   0.0,
+   0.84
+  ],
+  "first_person": [
+   1.09,
+   2.77
+  ],
+  "third_person": [
+   3.02,
+   5.012
+  ],
+  "question": [
+   5.262,
+   6.654
+  ],
+  "answer": [
+   6.904,
+   9.376
+  ]
+ },
+ "sustantivos-comunes_61": {
+  "idiom": [
+   0.0,
+   0.792
+  ],
+  "first_person": [
+   1.042,
+   2.962
+  ],
+  "third_person": [
+   3.212,
+   5.084
+  ],
+  "question": [
+   5.334,
+   6.894
+  ],
+  "answer": [
+   7.144,
+   9.616
+  ]
+ },
+ "sustantivos-comunes_62": {
+  "idiom": [
+   0.0,
+   1.68
+  ],
+  "first_person": [
+   1.93,
+   3.778
+  ],
+  "third_person": [
+   4.028,
+   5.9
+  ],
+  "question": [
+   6.15,
+   7.638
+  ],
+  "answer": [
+   7.888,
+   10.408
+  ]
+ },
+ "sustantivos-comunes_63": {
+  "idiom": [
+   0.0,
+   0.84
+  ],
+  "first_person": [
+   1.09,
+   2.818
+  ],
+  "third_person": [
+   3.068,
+   4.868
+  ],
+  "question": [
+   5.118,
+   6.87
+  ],
+  "answer": [
+   7.12,
+   9.688
+  ]
+ },
+ "sustantivos-comunes_64": {
+  "idiom": [
+   0.0,
+   0.792
+  ],
+  "first_person": [
+   1.042,
+   2.674
+  ],
+  "third_person": [
+   2.924,
+   4.556
+  ],
+  "question": [
+   4.806,
+   6.126
+  ],
+  "answer": [
+   6.376,
+   9.064
+  ]
+ },
+ "sustantivos-comunes_65": {
+  "idiom": [
+   0.0,
+   0.648
+  ],
+  "first_person": [
+   0.898,
+   2.578
+  ],
+  "third_person": [
+   2.828,
+   4.7
+  ],
+  "question": [
+   4.95,
+   6.222
+  ],
+  "answer": [
+   6.472,
+   8.824
+  ]
+ },
+ "sustantivos-comunes_66": {
+  "idiom": [
+   0.0,
+   0.888
+  ],
+  "first_person": [
+   1.138,
+   2.626
+  ],
+  "third_person": [
+   2.876,
+   4.796
+  ],
+  "question": [
+   5.046,
+   6.438
+  ],
+  "answer": [
+   6.688,
+   9.856
+  ]
+ },
+ "sustantivos-comunes_67": {
+  "idiom": [
+   0.0,
+   0.72
+  ],
+  "first_person": [
+   0.97,
+   2.65
+  ],
+  "third_person": [
+   2.9,
+   4.748
+  ],
+  "question": [
+   4.998,
+   6.486
+  ],
+  "answer": [
+   6.736,
+   9.088
+  ]
+ },
+ "sustantivos-comunes_68": {
+  "idiom": [
+   0.0,
+   1.032
+  ],
+  "first_person": [
+   1.282,
+   2.842
+  ],
+  "third_person": [
+   3.092,
+   5.18
+  ],
+  "question": [
+   5.43,
+   6.87
+  ],
+  "answer": [
+   7.12,
+   9.16
+  ]
+ },
+ "sustantivos-comunes_69": {
+  "idiom": [
+   0.0,
+   0.792
+  ],
+  "first_person": [
+   1.042,
+   2.554
+  ],
+  "third_person": [
+   2.804,
+   4.652
+  ],
+  "question": [
+   4.902,
+   6.342
+  ],
+  "answer": [
+   6.592,
+   8.944
+  ]
+ },
+ "sustantivos-comunes_7": {
+  "idiom": [
+   0.0,
+   0.792
+  ],
+  "first_person": [
+   1.042,
+   2.65
+  ],
+  "third_person": [
+   2.9,
+   4.82
+  ],
+  "question": [
+   5.07,
+   6.822
+  ],
+  "answer": [
+   7.072,
+   9.544
+  ]
+ },
+ "sustantivos-comunes_70": {
+  "idiom": [
+   0.0,
+   0.84
+  ],
+  "first_person": [
+   1.09,
+   2.65
+  ],
+  "third_person": [
+   2.9,
+   4.772
+  ],
+  "question": [
+   5.022,
+   6.582
+  ],
+  "answer": [
+   6.832,
+   9.352
+  ]
+ },
+ "sustantivos-comunes_71": {
+  "idiom": [
+   0.0,
+   0.84
+  ],
+  "first_person": [
+   1.09,
+   2.938
+  ],
+  "third_person": [
+   3.188,
+   5.036
+  ],
+  "question": [
+   5.286,
+   6.918
+  ],
+  "answer": [
+   7.168,
+   9.16
+  ]
+ },
+ "sustantivos-comunes_72": {
+  "idiom": [
+   0.0,
+   0.96
+  ],
+  "first_person": [
+   1.21,
+   3.01
+  ],
+  "third_person": [
+   3.26,
+   4.988
+  ],
+  "question": [
+   5.238,
+   6.75
+  ],
+  "answer": [
+   7.0,
+   9.328
+  ]
+ },
+ "sustantivos-comunes_73": {
+  "idiom": [
+   0.0,
+   0.792
+  ],
+  "first_person": [
+   1.042,
+   2.722
+  ],
+  "third_person": [
+   2.972,
+   4.844
+  ],
+  "question": [
+   5.094,
+   6.582
+  ],
+  "answer": [
+   6.832,
+   8.944
+  ]
+ },
+ "sustantivos-comunes_74": {
+  "idiom": [
+   0.0,
+   0.792
+  ],
+  "first_person": [
+   1.042,
+   2.65
+  ],
+  "third_person": [
+   2.9,
+   4.892
+  ],
+  "question": [
+   5.142,
+   6.654
+  ],
+  "answer": [
+   6.904,
+   9.352
+  ]
+ },
+ "sustantivos-comunes_75": {
+  "idiom": [
+   0.0,
+   1.8
+  ],
+  "first_person": [
+   2.05,
+   3.802
+  ],
+  "third_person": [
+   4.052,
+   5.684
+  ],
+  "question": [
+   5.934,
+   7.326
+  ],
+  "answer": [
+   7.576,
+   9.856
+  ]
+ },
+ "sustantivos-comunes_76": {
+  "idiom": [
+   0.0,
+   0.84
+  ],
+  "first_person": [
+   1.09,
+   2.65
+  ],
+  "third_person": [
+   2.9,
+   4.772
+  ],
+  "question": [
+   5.022,
+   6.894
+  ],
+  "answer": [
+   7.144,
+   9.544
+  ]
+ },
+ "sustantivos-comunes_77": {
+  "idiom": [
+   0.0,
+   0.84
+  ],
+  "first_person": [
+   1.09,
+   2.89
+  ],
+  "third_person": [
+   3.14,
+   4.94
+  ],
+  "question": [
+   5.19,
+   6.63
+  ],
+  "answer": [
+   6.88,
+   9.352
+  ]
+ },
+ "sustantivos-comunes_78": {
+  "idiom": [
+   0.0,
+   0.888
+  ],
+  "first_person": [
+   1.138,
+   3.01
+  ],
+  "third_person": [
+   3.26,
+   4.82
+  ],
+  "question": [
+   5.07,
+   6.462
+  ],
+  "answer": [
+   6.712,
+   8.512
+  ]
+ },
+ "sustantivos-comunes_79": {
+  "idiom": [
+   0.0,
+   0.768
+  ],
+  "first_person": [
+   1.018,
+   2.41
+  ],
+  "third_person": [
+   2.66,
+   4.172
+  ],
+  "question": [
+   4.422,
+   5.814
+  ],
+  "answer": [
+   6.064,
+   8.584
+  ]
+ },
+ "sustantivos-comunes_8": {
+  "idiom": [
+   0.0,
+   0.792
+  ],
+  "first_person": [
+   1.042,
+   2.77
+  ],
+  "third_person": [
+   3.02,
+   4.868
+  ],
+  "question": [
+   5.118,
+   6.63
+  ],
+  "answer": [
+   6.88,
+   9.352
+  ]
+ },
+ "sustantivos-comunes_80": {
+  "idiom": [
+   0.0,
+   0.768
+  ],
+  "first_person": [
+   1.018,
+   2.458
+  ],
+  "third_person": [
+   2.708,
+   4.22
+  ],
+  "question": [
+   4.47,
+   5.79
+  ],
+  "answer": [
+   6.04,
+   8.32
+  ]
+ },
+ "sustantivos-comunes_81": {
+  "idiom": [
+   0.0,
+   0.72
+  ],
+  "first_person": [
+   0.97,
+   2.29
+  ],
+  "third_person": [
+   2.54,
+   4.052
+  ],
+  "question": [
+   4.302,
+   5.622
+  ],
+  "answer": [
+   5.872,
+   7.744
+  ]
+ },
+ "sustantivos-comunes_82": {
+  "idiom": [
+   0.0,
+   0.648
+  ],
+  "first_person": [
+   0.898,
+   2.338
+  ],
+  "third_person": [
+   2.588,
+   4.196
+  ],
+  "question": [
+   4.446,
+   5.886
+  ],
+  "answer": [
+   6.136,
+   8.104
+  ]
+ },
+ "sustantivos-comunes_83": {
+  "idiom": [
+   0.0,
+   0.672
+  ],
+  "first_person": [
+   0.922,
+   2.554
+  ],
+  "third_person": [
+   2.804,
+   4.532
+  ],
+  "question": [
+   4.782,
+   6.102
+  ],
+  "answer": [
+   6.352,
+   8.224
+  ]
+ },
+ "sustantivos-comunes_84": {
+  "idiom": [
+   0.0,
+   0.72
+  ],
+  "first_person": [
+   0.97,
+   2.65
+  ],
+  "third_person": [
+   2.9,
+   4.7
+  ],
+  "question": [
+   4.95,
+   6.222
+  ],
+  "answer": [
+   6.472,
+   8.824
+  ]
+ },
+ "sustantivos-comunes_85": {
+  "idiom": [
+   0.0,
+   0.72
+  ],
+  "first_person": [
+   0.97,
+   2.722
+  ],
+  "third_person": [
+   2.972,
+   4.7
+  ],
+  "question": [
+   4.95,
+   6.27
+  ],
+  "answer": [
+   6.52,
+   8.92
+  ]
+ },
+ "sustantivos-comunes_86": {
+  "idiom": [
+   0.0,
+   1.752
+  ],
+  "first_person": [
+   2.002,
+   3.682
+  ],
+  "third_person": [
+   3.932,
+   6.02
+  ],
+  "question": [
+   6.27,
+   7.542
+  ],
+  "answer": [
+   7.792,
+   10.024
+  ]
+ },
+ "sustantivos-comunes_87": {
+  "idiom": [
+   0.0,
+   0.648
+  ],
+  "first_person": [
+   0.898,
+   2.698
+  ],
+  "third_person": [
+   2.948,
+   4.628
+  ],
+  "question": [
+   4.878,
+   6.51
+  ],
+  "answer": [
+   6.76,
+   9.28
+  ]
+ },
+ "sustantivos-comunes_88": {
+  "idiom": [
+   0.0,
+   0.672
+  ],
+  "first_person": [
+   0.922,
+   2.41
+  ],
+  "third_person": [
+   2.66,
+   4.148
+  ],
+  "question": [
+   4.398,
+   5.598
+  ],
+  "answer": [
+   5.848,
+   7.696
+  ]
+ },
+ "sustantivos-comunes_89": {
+  "idiom": [
+   0.0,
+   0.96
+  ],
+  "first_person": [
+   1.21,
+   2.77
+  ],
+  "third_person": [
+   3.02,
+   5.06
+  ],
+  "question": [
+   5.31,
+   6.798
+  ],
+  "answer": [
+   7.048,
+   9.448
+  ]
+ },
+ "sustantivos-comunes_9": {
+  "idiom": [
+   0.0,
+   0.792
+  ],
+  "first_person": [
+   1.042,
+   2.77
+  ],
+  "third_person": [
+   3.02,
+   4.628
+  ],
+  "question": [
+   4.878,
+   6.438
+  ],
+  "answer": [
+   6.688,
+   9.16
+  ]
+ },
+ "sustantivos-comunes_90": {
+  "idiom": [
+   0.0,
+   0.72
+  ],
+  "first_person": [
+   0.97,
+   2.29
+  ],
+  "third_person": [
+   2.54,
+   4.82
+  ],
+  "question": [
+   5.07,
+   6.582
+  ],
+  "answer": [
+   6.832,
+   8.824
+  ]
+ },
+ "sustantivos-comunes_91": {
+  "idiom": [
+   0.0,
+   1.728
+  ],
+  "first_person": [
+   1.978,
+   3.85
+  ],
+  "third_person": [
+   4.1,
+   5.948
+  ],
+  "question": [
+   6.198,
+   7.758
+  ],
+  "answer": [
+   8.008,
+   10.216
+  ]
+ },
+ "sustantivos-comunes_92": {
+  "idiom": [
+   0.0,
+   0.912
+  ],
+  "first_person": [
+   1.162,
+   2.674
+  ],
+  "third_person": [
+   2.924,
+   4.676
+  ],
+  "question": [
+   4.926,
+   6.366
+  ],
+  "answer": [
+   6.616,
+   9.328
+  ]
+ },
+ "sustantivos-comunes_93": {
+  "idiom": [
+   0.0,
+   1.608
+  ],
+  "first_person": [
+   1.858,
+   3.298
+  ],
+  "third_person": [
+   3.548,
+   5.276
+  ],
+  "question": [
+   5.526,
+   6.798
+  ],
+  "answer": [
+   7.048,
+   9.88
+  ]
+ },
+ "sustantivos-comunes_94": {
+  "idiom": [
+   0.0,
+   0.672
+  ],
+  "first_person": [
+   0.922,
+   2.722
+  ],
+  "third_person": [
+   2.972,
+   4.532
+  ],
+  "question": [
+   4.782,
+   6.27
+  ],
+  "answer": [
+   6.52,
+   9.28
+  ]
+ },
+ "sustantivos-comunes_95": {
+  "idiom": [
+   0.0,
+   0.888
+  ],
+  "first_person": [
+   1.138,
+   2.986
+  ],
+  "third_person": [
+   3.236,
+   4.676
+  ],
+  "question": [
+   4.926,
+   6.414
+  ],
+  "answer": [
+   6.664,
+   8.536
+  ]
+ },
+ "sustantivos-comunes_96": {
+  "idiom": [
+   0.0,
+   0.768
+  ],
+  "first_person": [
+   1.018,
+   2.746
+  ],
+  "third_person": [
+   2.996,
+   4.556
+  ],
+  "question": [
+   4.806,
+   6.414
+  ],
+  "answer": [
+   6.664,
+   9.136
+  ]
+ },
+ "sustantivos-comunes_97": {
+  "idiom": [
+   0.0,
+   1.56
+  ],
+  "first_person": [
+   1.81,
+   3.49
+  ],
+  "third_person": [
+   3.74,
+   5.54
+  ],
+  "question": [
+   5.79,
+   7.23
+  ],
+  "answer": [
+   7.48,
+   9.76
+  ]
+ },
+ "sustantivos-comunes_98": {
+  "idiom": [
+   0.0,
+   2.088
+  ],
+  "first_person": [
+   2.338,
+   3.73
+  ],
+  "third_person": [
+   3.98,
+   5.78
+  ],
+  "question": [
+   6.03,
+   7.302
+  ],
+  "answer": [
+   7.552,
+   9.4
+  ]
+ },
+ "sustantivos-comunes_99": {
+  "idiom": [
+   0.0,
+   0.552
+  ],
+  "first_person": [
+   0.802,
+   2.674
+  ],
+  "third_person": [
+   2.924,
+   4.844
+  ],
+  "question": [
+   5.094,
+   6.486
+  ],
+  "answer": [
+   6.736,
+   8.824
+  ]
+ }
+}
