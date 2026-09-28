@@ -500,6 +500,12 @@ if (html) {
     "len=" + desc.length);
   const faqCount = (html.match(/"@type":\s*"Question"/g) || []).length;
   ok("release: >=4 preguntas FAQ para motores de respuesta", faqCount >= 4, "preguntas=" + faqCount);
+  const canonical = (html.match(/<link rel="canonical" href="([^"]+)"/) || [])[1] || "";
+  const ldUrl = ldTypes.length ? ((JSON.parse(ld[0])["@graph"] || []).find((n) => n["@type"] === "WebApplication") || {}).url || "" : "";
+  ok("release: canonical declarado y sin version", /^https:\/\/[^/?#]+(\/[^?#]*)?$/.test(canonical),
+    "canonical='" + canonical + "'");
+  ok("release: canonical y JSON-LD apuntan al mismo origen",
+    canonical !== "" && ldUrl !== "" && canonical === ldUrl, "canonical=" + canonical + " url=" + ldUrl);
 }
 
 console.log(failed === 0 ? "\nTODO OK (0 fallos)" : `\n${failed} FALLO(S)`);
