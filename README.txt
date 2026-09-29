@@ -156,3 +156,19 @@ Revision previa al despliegue (28 sept 2026):
 - Nota: los .wasm -threaded (18 MB) solo se usan con cabeceras COOP/COEP; si
   en Vercel no se activan, se pueden excluir para adelgazar el despliegue.
 Firma: ED-Dev
+
+Publicacion en GitHub y Vercel (28 sept 2026):
+- Repo publico: https://github.com/ericksondaviddev-source/edenglishchunks
+- Produccion: https://edenglishchunks.vercel.app
+- check-ui.mjs suma 4 comprobaciones mas: canonical y JSON-LD deben apuntar al
+  mismo origen, y og:image + twitter:image deben existir con 1200x630.
+- assets/og-image.png: tarjeta social 1200x630 generada con
+  tools/make-og-image.py (Pillow). Sin ella, el link se comparte sin imagen en
+  LinkedIn, WhatsApp y Slack.
+- El commit inicial se troceo en 7 commits por peso: la subida de esta red es de
+  unos 65 KB/s y el push unico de 171 MB se agotaba a los 40 minutos.
+  El repo pesa 171,7 MB: 131,7 MB de MP3 (450 chunks, 9 episodios, 21
+  canciones, 2 historias) y 36,6 MB de binarios wasm de transformers.js.
+- Pendiente: .wasm -threaded (18 MB) solo se usan con cabeceras COOP/COEP; si
+  en Vercel no se activan, se pueden excluir para adelgazar el despliegue.
+Firma: ED-Dev

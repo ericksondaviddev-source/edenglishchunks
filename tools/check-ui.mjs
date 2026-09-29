@@ -506,6 +506,13 @@ if (html) {
     "canonical='" + canonical + "'");
   ok("release: canonical y JSON-LD apuntan al mismo origen",
     canonical !== "" && ldUrl !== "" && canonical === ldUrl, "canonical=" + canonical + " url=" + ldUrl);
+  const ogImage = (html.match(/<meta property="og:image" content="([^"]+)"/) || [])[1] || "";
+  const twImage = (html.match(/<meta name="twitter:image" content="([^"]+)"/) || [])[1] || "";
+  ok("release: og:image y twitter:image para compartir en redes",
+    ogImage.startsWith(canonical) && twImage === ogImage, "og=" + ogImage);
+  ok("release: og:image es una imagen de 1200x630",
+    ogImage !== "" && (html.match(/og:image:width" content="1200"/) || []).length === 1,
+    "sin dimensiones declaradas");
 }
 
 console.log(failed === 0 ? "\nTODO OK (0 fallos)" : `\n${failed} FALLO(S)`);
