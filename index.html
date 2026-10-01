@@ -501,7 +501,7 @@
     .sequence-video-head p { margin: 5px 0 0; color: var(--muted); font-size: .82rem; }
     .sequence-video-close { flex: 0 0 auto; border: 1px solid var(--line); background: var(--surface-2); border-radius: 8px; padding: 7px 10px; font-weight: 800; cursor: pointer; }
     .sequence-video-layout { display: grid; grid-template-columns: minmax(0, 1fr) 180px; gap: 18px; margin-top: 18px; align-items: center; }
-    .sequence-video-options { display: grid; gap: 14px; }
+    .sequence-video-options { display: block; }
     .sequence-video-pace { display: grid; gap: 6px; max-width: 300px; }
     .sequence-video-quality { display: grid; gap: 8px; margin-top: 10px; }
     .sequence-video-pace span { font-size: .78rem; font-weight: 820; }
@@ -687,6 +687,27 @@
   .topbar-home { display: inline-flex; align-items: center; gap: 9px; background: none; border: 0; padding: 4px; cursor: pointer; color: var(--ink); font: inherit; font-weight: 800; font-size: 1rem; border-radius: 10px; }
   .topbar-home svg { width: 30px; height: 30px; display: block; }
   .topbar-home:hover, .topbar-home:focus-visible { background: var(--surface-2); outline: 2px solid var(--blue); outline-offset: 2px; }
+  .sequence-own { margin-top: 14px; border: 1px solid var(--line); border-radius: 14px; background: var(--surface-2); }
+  .sequence-own > summary { cursor: pointer; padding: 14px 16px; font-weight: 750; color: var(--ink); list-style: none; display: flex; align-items: center; gap: 10px; }
+  .sequence-own > summary::-webkit-details-marker { display: none; }
+  .sequence-own > summary::before { content: "▸"; color: var(--blue); font-weight: 800; transition: transform .18s ease; }
+  .sequence-own[open] > summary::before { transform: rotate(90deg); }
+  .sequence-own > summary::after { content: "Desplegar"; margin-left: auto; font-size: .78rem; font-weight: 650; color: var(--muted); }
+  .sequence-own[open] > summary::after { content: "Colapsar"; }
+  .sequence-own > p, .sequence-own > button, .sequence-own > section { margin: 0 16px 14px; }
+  .sequence-own > p { color: var(--muted); font-size: .9rem; }
+  .creative-list-details { border: 1px solid var(--line); border-radius: 14px; overflow: hidden; }
+  .creative-list-details > summary { cursor: pointer; padding: 13px 16px; font-weight: 750; color: var(--ink); background: var(--surface-2); list-style: none; display: flex; align-items: center; gap: 10px; }
+  .creative-list-details > summary::-webkit-details-marker { display: none; }
+  .creative-list-details > summary::before { content: "▸"; color: var(--blue); font-weight: 800; transition: transform .18s ease; }
+  .creative-list-details[open] > summary::before { transform: rotate(90deg); }
+  .creative-list-details > summary::after { content: "Colapsar"; margin-left: auto; font-size: .78rem; font-weight: 650; color: var(--muted); }
+  .sequence-video-options { border: 1px solid var(--line); border-radius: 14px; background: var(--surface-2); padding: 4px 16px 16px; }
+  .sequence-video-options > summary { cursor: pointer; padding: 13px 0; font-weight: 750; color: var(--ink); list-style: none; display: flex; align-items: center; gap: 10px; }
+  .sequence-video-options > summary::-webkit-details-marker { display: none; }
+  .sequence-video-options > summary::before { content: "▸"; color: var(--blue); font-weight: 800; transition: transform .18s ease; }
+  .sequence-video-options[open] > summary::before { transform: rotate(90deg); }
+  .sequence-video-options > summary::after { content: "Colapsar"; margin-left: auto; font-size: .78rem; font-weight: 650; color: var(--muted); }
   .cover-view { padding: 26px clamp(16px, 4vw, 48px) 40px; max-width: 1180px; margin: 0 auto; }
   .cover-hero { display: grid; grid-template-columns: minmax(0, 1.15fr) minmax(0, .85fr); gap: 34px; align-items: start; }
   .cover-kicker { display: inline-block; font-size: .8rem; font-weight: 700; letter-spacing: .14em; text-transform: uppercase; color: var(--blue); margin-bottom: 12px; }
@@ -1030,8 +1051,8 @@
             <span class="sequence-result-count" id="sequenceResultCount">Preparando biblioteca…</span>
           </div>
           <div class="sequence-results" id="sequenceResults" aria-live="polite"></div>
-          <div class="sequence-own">
-            <strong>Tu propia voz o audio</strong>
+          <details class="sequence-own">
+            <summary>Tu propia voz o audio</summary>
             <p>Sube audios cortos —una palabra, un nombre o un sonido— y escribe en su tarjeta el texto que aparecerá en el video.</p>
             <button class="sequence-upload" id="sequenceUploadBtn" type="button">＋ Agregar audio propio</button>
             <section class="sequence-recorder" id="sequenceRecorder" aria-labelledby="sequenceRecorderHeading" hidden>
@@ -1046,7 +1067,7 @@
               </div>
               <p class="sequence-recorder-status" id="sequenceRecorderStatus" role="status">La grabación vive solo en esta pestaña hasta que la uses.</p>
             </section>
-          </div>
+          </details>
         </section>
 
         <section class="sequence-panel" aria-labelledby="sequenceOrderHeading">
@@ -1098,7 +1119,8 @@
               <button class="sequence-video-close" id="sequenceVideoCloseBtn" type="button" aria-label="Cerrar creador de video">Cerrar</button>
             </div>
             <div class="sequence-video-layout">
-              <div class="sequence-video-options">
+              <details class="sequence-video-options">
+                <summary>Opciones de video</summary>
                 <label class="sequence-video-pace" for="sequenceVideoPace">
                   <span>Ritmo del video</span>
                   <select id="sequenceVideoPace">
@@ -1131,7 +1153,7 @@
                     </select>
                   </label>
                 </div>
-              </div>
+              </details>
               <div class="sequence-video-preview"><canvas id="sequenceVideoCanvas" width="720" height="1280" aria-label="Vista previa del diseño Solar"></canvas></div>
             </div>
             <div class="sequence-video-actions">
@@ -1162,7 +1184,10 @@
         <aside class="creative-library" aria-label="Colección">
           <div class="creative-library-head"><strong id="creativeLibraryTitle">Serie podcast completa</strong><span id="creativeLibraryHint">9 episodios · 2250 chunks · narrados por Nora.</span></div>
           <div class="creative-filter" id="creativeFilter" role="group" aria-label="Filtrar por categoría" hidden></div>
-          <div class="creative-list" id="creativeList"></div>
+          <details class="creative-list-details">
+            <summary>Ver episodios</summary>
+            <div class="creative-list" id="creativeList"></div>
+          </details>
         </aside>
         <article class="creative-reader" id="creativeReader" aria-live="polite"></article>
       </div>
@@ -4657,6 +4682,28 @@
       };
     }
 
+    async function getPreRenderedVideo(media) {
+      const title = media.title || "";
+      // Extraer el nombre base antes de "·" o "· Versión"
+      const baseTitle = title.split("·")[0].trim();
+      const slugMap = {
+        "Sunrise City": "sunrise-city",
+        "Market Day": "market-day",
+        "Golden Hour": "golden-hour",
+        "Connected Speech": "connected-speech",
+        "Progress Chunks": "progress"
+      };
+      const slug = slugMap[baseTitle];
+      if (!slug) return null;
+      try {
+        const response = await fetch("assets/videos/hero/" + slug + ".mp4");
+        if (!response.ok) return null;
+        return await response.blob();
+      } catch (e) {
+        return null;
+      }
+    }
+
     async function encodeSequenceMp4WebCodecs(media) {
       if (!window.VideoEncoder || !window.AudioEncoder || !window.VideoFrame || !window.AudioData) throw new Error("webcodecs-unavailable");
       setSequenceVideoStatus("Cargando el codificador MP4…", false);
@@ -4830,6 +4877,11 @@
           }
         }
         let blob;
+        const preRendered = await getPreRenderedVideo(media);
+if (preRendered) {
+        blob = preRendered;
+        setSequenceVideoStatus("Video pre-renderizado listo. Descargando…", false);
+      } else {
         try {
           blob = await encodeSequenceMp4WebCodecs(media);
         } catch (webCodecsError) {
@@ -4837,7 +4889,9 @@
           setSequenceVideoStatus("Tu navegador generará el MP4 en tiempo real. Mantén esta pantalla abierta…", false);
           blob = await encodeSequenceMp4Recorder(media);
         }
-        if (!blob || blob.size < 1000) throw new Error("empty-mp4");
+      }
+      if (!blob || blob.size < 1000) throw new Error("empty-mp4");
+        window.__lastMp4 = blob;
         downloadSequenceFile(blob, "mi-secuencia-chunks-" + sequenceState.videoTheme + ".mp4");
         setSequenceVideoStatus("MP4 listo y descargado. Ya puedes compartirlo.", false);
         setSequenceStatus("Video MP4 descargado con el diseño " + sequenceState.videoTheme + ".", false);
