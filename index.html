@@ -4699,7 +4699,18 @@
         "Market Day · Versión original": "market-day",
         "Golden Hour · Versión original": "golden-hour",
         "Connected Speech · Versión original": "connected-speech",
-        "Progress Chunks · Versión original": "progress"
+        "Progress Chunks · Versión original": "progress",
+        "El primer día": "chunks-el-primer-dia",
+        "Una semana a tope": "chunks-la-semana",
+        "Frases nativas I": "frases-nativas-i",
+        "Frases nativas II": "frases-nativas-ii",
+        "Idioms I": "idioms-i",
+        "Idioms II": "idioms-ii",
+        "Adjetivos I": "adjetivos-i",
+        "Adjetivos II": "adjetivos-ii",
+        "Sustantivos I": "sustantivos-i",
+        "Sustantivos II": "sustantivos-ii",
+        "Palabras clave y Contracciones": "palabras-clave-y-contracciones"
       };
       const slug = slugMap[baseTitle];
       if (!slug) return null;
@@ -5046,35 +5057,21 @@ if (preRendered) {
       const creativeMp3Link = document.getElementById("creativeMp3Link");
       if (creativeState.current.audio) creativeMp3Link.setAttribute("href", creativeState.current.audio);
       else { creativeMp3Link.removeAttribute("href"); creativeMp3Link.classList.add("creative-download-disabled"); }
-      document.getElementById("creativeMp4Btn").addEventListener("click", async function() {
-        const slugMap = {
-          "Sunrise City": "sunrise-city",
-          "Market Day": "market-day",
-          "Golden Hour": "golden-hour",
-          "Connected Speech": "connected-speech",
-          "Progress Chunks": "progress"
-        };
-const current = creativeState.current;
+document.getElementById("creativeMp4Btn").addEventListener("click", async function() {
+        const current = creativeState.current;
         if (current) {
-          const baseTitle = current.title.split("·")[0].trim();
-          const slug = slugMap[current.title.split("·")[0].trim()];
-          if (slug) {
-            try {
-              const response = await fetch("assets/videos/hero/" + slug + ".mp4");
-              if (response.ok) {
-                const blob = await response.blob();
-                const url = URL.createObjectURL(blob);
-                const a = document.createElement("a");
-                a.href = url;
-                a.download = slug + ".mp4";
-                document.body.appendChild(a);
-                a.click();
-                document.body.removeChild(a);
-                URL.revokeObjectURL(url);
-                showToast("Video descargado: " + creativeState.current.title);
-                return;
-              }
-            } catch (e) {}
+          const preRendered = await getPreRenderedVideo(current);
+          if (preRendered) {
+            const url = URL.createObjectURL(preRendered);
+            const a = document.createElement("a");
+            a.href = url;
+            a.download = current.title.split("·")[0].trim().toLowerCase().replace(/[^a-z0-9]+/g, "-") + ".mp4";
+            document.body.appendChild(a);
+            a.click();
+            document.body.removeChild(a);
+            URL.revokeObjectURL(url);
+            showToast("Video descargado: " + creativeState.current.title);
+            return;
           }
         }
         // Fallback: genera en el navegador
