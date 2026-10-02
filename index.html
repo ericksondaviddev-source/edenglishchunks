@@ -518,10 +518,7 @@
     .sequence-design strong { display: block; font-size: .84rem; }
     .sequence-design small { display: block; margin-top: 2px; color: var(--muted); font-size: .68rem; line-height: 1.25; }
     .sequence-design-swatch { width: 46px; aspect-ratio: 9 / 16; border: 1px solid color-mix(in srgb, var(--ink) 18%, transparent); }
-    .sequence-design-swatch.solar { background: linear-gradient(155deg, #f5cd4b 0 63%, #102a43 63%); }
-    .sequence-design-swatch.noche { background: linear-gradient(180deg, #081725 0 70%, #53d4c8 70% 73%, #102a43 73%); }
-    .sequence-design-swatch.editorial { background: linear-gradient(90deg, #f7f5ef 0 73%, #c83d45 73% 82%, #183f65 82%); }
-    .sequence-design-swatch.pulso { background: linear-gradient(145deg, #c83d45 0 43%, #102a43 43% 78%, #f2c94c 78%); }
+
     .sequence-design-swatch.keynote { background: linear-gradient(160deg, #faf3e2 0 60%, #c8862a 60%); }
     .sequence-design-swatch.netflix { background: linear-gradient(180deg, #0b0b10 0 72%, #e50914 72% 78%, #0b0b10 78%); }
     .sequence-design-swatch.diccionario { background: linear-gradient(90deg, #f7f4ec 0 70%, #8a2d2b 70% 80%, #26221b 80%); }
@@ -810,6 +807,7 @@
           <p class="cover-map-hint">Toca un episodio para ir directo a él.</p>
           <svg id="coverMindMap" viewBox="0 0 560 560" role="group" aria-label="Mapa mental interactivo de los 9 episodios"></svg>
         </div>
+        <button class="next-section-btn" id="coverNextBtn" type="button" aria-label="Ir a Tarjetas">Siguiente →</button>
       </div>
     </section>
 
@@ -858,10 +856,12 @@
           <button class="learn-button" id="learnBtn" type="button" aria-pressed="false">Marcar como aprendido</button>
           <button class="nav-button" id="nextBtn" type="button">Siguiente →</button>
           <button class="random-button" id="randomBtn" type="button">Ir a uno aleatorio</button>
-        </div>
-        <p class="session-note" id="sessionNote" hidden>El estado “aprendido” se mantiene solo mientras esta pestaña siga abierta.</p>
+</div>
+        <p class="session-note" id="sessionNote" hidden>El estado "aprendido" se mantiene solo mientras esta pestaña siga abierta.</p>
         <p class="status" id="status" role="status"></p>
+        <button class="next-section-btn" id="cardsNextBtn" type="button" aria-label="Ir a Quiz">Siguiente →</button>
       </section>
+    </section>
     </section>
 
     <section class="quiz-view" id="quizView" aria-labelledby="quizHeading" hidden>
@@ -898,6 +898,7 @@
         </div>
       </article>
       <p class="quiz-session-note">Tu progreso del quiz se reinicia al recargar la página.</p>
+      <button class="next-section-btn" id="quizNextSectionBtn" type="button" aria-label="Ir a Responde">Siguiente →</button>
     </section>
 
     <section class="respond-view" id="respondView" aria-labelledby="respondHeading" hidden>
@@ -957,8 +958,9 @@
             <button class="respond-next" id="respondNextBtn" type="button">Siguiente pregunta →</button>
           </div>
         </div>
-      </article>
-      <p class="respond-note" id="respondSupportNote">Toca “Responder con voz”, habla en inglés y vuelve a tocar el botón para terminar. La app analizará tu grabación aquí.</p>
+</article>
+      <p class="respond-note" id="respondSupportNote">Toca "Responder con voz", habla en inglés y vuelve a tocar el botón para terminar. La app analizará tu grabación aquí.</p>
+      <button class="next-section-btn" id="respondNextSectionBtn" type="button" aria-label="Ir a Preguntas">Siguiente →</button>
     </section>
 
     <section class="respond-view question-view" id="questionView" aria-labelledby="questionHeading" hidden>
@@ -1021,6 +1023,7 @@
         </div>
       </article>
       <p class="respond-note" id="questionSupportNote">Toca “Formular pregunta”, habla en inglés y vuelve a tocar el botón para terminar. La app evaluará la idea, no una coincidencia palabra por palabra.</p>
+      <button class="next-section-btn" id="questionNextSectionBtn" type="button" aria-label="Ir a Secuencias">Siguiente →</button>
     </section>
 
     <section class="sequence-view" id="sequenceView" aria-labelledby="sequenceHeading" hidden>
@@ -1092,11 +1095,7 @@
           <div class="sequence-designs-wrap">
             <p class="sequence-designs-label">Diseño del video</p>
             <div class="sequence-designs" role="group" aria-label="Diseños visuales">
-              <button class="sequence-design" type="button" data-video-theme="solar" aria-pressed="true"><span class="sequence-design-swatch solar" aria-hidden="true"></span><span><strong>Solar</strong><small>Cálido y enérgico</small></span></button>
-              <button class="sequence-design" type="button" data-video-theme="noche" aria-pressed="false"><span class="sequence-design-swatch noche" aria-hidden="true"></span><span><strong>Noche</strong><small>Oscuro y enfocado</small></span></button>
-              <button class="sequence-design" type="button" data-video-theme="editorial" aria-pressed="false"><span class="sequence-design-swatch editorial" aria-hidden="true"></span><span><strong>Editorial</strong><small>Limpio y expresivo</small></span></button>
-              <button class="sequence-design" type="button" data-video-theme="pulso" aria-pressed="false"><span class="sequence-design-swatch pulso" aria-hidden="true"></span><span><strong>Pulso</strong><small>Contraste en movimiento</small></span></button>
-              <button class="sequence-design" type="button" data-video-theme="keynote" aria-pressed="false"><span class="sequence-design-swatch keynote" aria-hidden="true"></span><span><strong>Keynote</strong><small>Display enorme</small></span></button>
+              <button class="sequence-design" type="button" data-video-theme="keynote" aria-pressed="true"><span class="sequence-design-swatch keynote" aria-hidden="true"></span><span><strong>Keynote</strong><small>Display enorme</small></span></button>
               <button class="sequence-design" type="button" data-video-theme="netflix" aria-pressed="false"><span class="sequence-design-swatch netflix" aria-hidden="true"></span><span><strong>Netflix</strong><small>Cine oscuro</small></span></button>
               <button class="sequence-design" type="button" data-video-theme="diccionario" aria-pressed="false"><span class="sequence-design-swatch diccionario" aria-hidden="true"></span><span><strong>Diccionario</strong><small>Entrada editorial</small></span></button>
               <button class="sequence-design" type="button" data-video-theme="escenario" aria-pressed="false"><span class="sequence-design-swatch escenario" aria-hidden="true"></span><span><strong>Escenario</strong><small>Sing-along</small></span></button>
@@ -1161,6 +1160,7 @@
               <button class="sequence-video-create" id="sequenceVideoCreateBtn" type="button">Generar y descargar MP4</button>
             </div>
             <p class="sequence-video-status" id="sequenceVideoStatus" role="status">El video usa la cadena actual y se crea en este dispositivo.</p>
+            <button class="next-section-btn" id="sequenceNextSectionBtn" type="button" aria-label="Ir a Biblioteca">Siguiente →</button>
           </section>
         </section>
       </div>
@@ -1191,7 +1191,8 @@
         </aside>
         <article class="creative-reader" id="creativeReader" aria-live="polite"></article>
       </div>
-      <p class="creative-note">Cada episodio incluye el audio completo, sus 250 chunks con traducción y acceso directo para llevarlos a Secuencias.</p>
+      <p class="creative-note">Cada episodio incluye el audio completo, sus 250 chunks con traducción y acceso directo para descarga directa.</p>
+      <button class="next-section-btn" id="creativeNextSectionBtn" type="button" aria-label="Fin del recorrido">Siguiente →</button>
     </section>
 
     <footer class="signature" aria-label="Firma del creador">
@@ -2701,6 +2702,12 @@
       creativeTab.removeAttribute("aria-current");
       cardsTab.classList.add("active");
       cardsTab.setAttribute("aria-current", "page");
+      const targetModule = sessionStorage.getItem("targetModule");
+      if (targetModule) {
+        sessionStorage.removeItem("targetModule");
+        const btn = document.querySelector('[data-module="' + targetModule + '"]');
+        if (btn) { btn.click(); }
+      }
     }
 
     function responseItems(category) {
@@ -3811,14 +3818,10 @@
     }
 
     const SEQUENCE_VIDEO_THEMES = {
-      solar: { background: "#f4cb4b", ink: "#102a43", accent: "#c83d45", secondary: "#185d9d", footer: "#102a43", footerInk: "#ffffff", glowA: "rgba(245,205,75,.36)", glowB: "rgba(200,120,40,.20)", particle: "#7a4d12", particleAlpha: .28, uppercase: false },
-      noche: { background: "#081725", ink: "#f5f9fc", accent: "#53d4c8", secondary: "#78b9f2", footer: "#0d2235", footerInk: "#f5f9fc", glowA: "rgba(83,212,200,.20)", glowB: "rgba(120,185,242,.14)", particle: "#78b9f2", particleAlpha: .24, uppercase: false },
-      editorial: { background: "#f6f3ea", ink: "#112a43", accent: "#c83d45", secondary: "#185d9d", footer: "#112a43", footerInk: "#ffffff", glowA: "rgba(200,160,90,.22)", glowB: "rgba(200,61,69,.10)", particle: "#8a7a55", particleAlpha: .24, uppercase: false },
-      pulso: { background: "#102a43", ink: "#ffffff", accent: "#f2c94c", secondary: "#ef5b62", footer: "#c83d45", footerInk: "#ffffff", glowA: "rgba(242,201,76,.24)", glowB: "rgba(239,91,98,.20)", particle: "#f2c94c", particleAlpha: .26, uppercase: false },
-      keynote: { background: "#faf3e2", ink: "#1c2b3a", accent: "#c8862a", secondary: "#185d9d", footer: "#1c2b3a", footerInk: "#ffffff", glowA: "rgba(245,205,75,.38)", glowB: "rgba(200,134,42,.22)", particle: "#c8862a", particleAlpha: .3, uppercase: false },
-      netflix: { background: "#0b0b10", ink: "#ffffff", accent: "#e50914", secondary: "#f5cd4b", footer: "#141419", footerInk: "#ffffff", glowA: "rgba(229,9,20,.22)", glowB: "rgba(245,205,75,.09)", particle: "#e50914", particleAlpha: .26, uppercase: true },
-      diccionario: { background: "#f7f4ec", ink: "#26221b", accent: "#8a2d2b", secondary: "#185d9d", footer: "#26221b", footerInk: "#ffffff", glowA: "rgba(185,158,100,.24)", glowB: "rgba(138,45,43,.10)", particle: "#8a2d2b", particleAlpha: .24, uppercase: false },
-      escenario: { background: "#0e1520", ink: "#ffffff", accent: "#f5cd4b", secondary: "#53d4c8", footer: "#101826", footerInk: "#ffffff", glowA: "rgba(245,205,75,.24)", glowB: "rgba(83,212,200,.14)", particle: "#f5cd4b", particleAlpha: .26, uppercase: false, upcoming: true },
+      keynote: { background: "#faf3e2", ink: "#1c2b3a", accent: "#c8862a", secondary: "#185d9d", footer: "#1c2b3a", footerInk: "#ffffff", glowA: "rgba(245,205,75,.38)", glowB: "rgba(200,134,42,.22)", particle: "#c8862a", particleAlpha: .3, uppercase: false, label: "Display enorme" },
+      netflix: { background: "#0b0b10", ink: "#ffffff", accent: "#e50914", secondary: "#f5cd4b", footer: "#141419", footerInk: "#ffffff", glowA: "rgba(229,9,20,.22)", glowB: "rgba(245,205,75,.09)", particle: "#e50914", particleAlpha: .26, uppercase: true, label: "Cine oscuro" },
+      diccionario: { background: "#f7f4ec", ink: "#26221b", accent: "#8a2d2b", secondary: "#185d9d", footer: "#26221b", footerInk: "#ffffff", glowA: "rgba(185,158,100,.24)", glowB: "rgba(138,45,43,.10)", particle: "#8a2d2b", particleAlpha: .24, uppercase: false, label: "Entrada editorial" },
+      escenario: { background: "#0e1520", ink: "#ffffff", accent: "#f5cd4b", secondary: "#53d4c8", footer: "#101826", footerInk: "#ffffff", glowA: "rgba(245,205,75,.24)", glowB: "rgba(83,212,200,.14)", particle: "#f5cd4b", particleAlpha: .26, uppercase: false, upcoming: true, label: "Sing-along" },
     };
     const VIDEO_TRANSITION_SECONDS = .12;
     const SEQUENCE_VIDEO_INTRO_SECONDS = 3.4;
@@ -4206,7 +4209,7 @@
     }
 
     function drawSequenceRepeatCue(context, width, time, current, themeName, theme) {
-      const repeatStart = Number.isFinite(current.repeatStart) ? current.repeatStart : current.audioEnd;
+      const repeatStart = Number.isFinite(current.repeatStart) ? current.repeatStart : creativeState.current.audioEnd;
       const repeatEnd = Number.isFinite(current.repeatEnd) ? current.repeatEnd : current.end;
       const elapsed = Math.max(0, time - repeatStart);
       const duration = Math.max(.01, repeatEnd - repeatStart);
@@ -4328,7 +4331,7 @@
       const localTime = Math.max(0, time - current.start);
       const entrance = Math.min(1, localTime / .22);
       const eased = 1 - Math.pow(1 - entrance, 3);
-      const audioEnd = Number.isFinite(current.audioEnd) ? current.audioEnd : current.end;
+      const audioEnd = Number.isFinite(creativeState.current.audioEnd) ? creativeState.current.audioEnd : current.end;
       const repeatEnd = Number.isFinite(current.repeatEnd) ? current.repeatEnd : current.end;
       const isRepeatTurn = time >= audioEnd && time < repeatEnd;
       const overall = Math.max(0, Math.min(1, time / Math.max(.01, totalDuration)));
@@ -4512,7 +4515,7 @@
       const first = preview.timeline[0];
       const previewTime = Number.isFinite(first.repeatStart) ? first.repeatStart + .55 : preview.introDuration + .48;
       drawSequenceVideoFrame(sequenceVideoCanvas, preview, previewTime, sequenceState.videoTheme);
-      const selected = document.querySelector('[data-video-theme="' + sequenceState.videoTheme + '"] strong');
+      const selected = document.querySelector("[data-video-theme='" + sequenceState.videoTheme + '"] strong');
       sequenceVideoCanvas.setAttribute("aria-label", "Vista previa del diseño " + (selected ? selected.textContent : "elegido"));
     }
 
@@ -4691,7 +4694,12 @@
         "Market Day": "market-day",
         "Golden Hour": "golden-hour",
         "Connected Speech": "connected-speech",
-        "Progress Chunks": "progress"
+        "Progress Chunks": "progress",
+        "Sunrise City · Versión original": "sunrise-city",
+        "Market Day · Versión original": "market-day",
+        "Golden Hour · Versión original": "golden-hour",
+        "Connected Speech · Versión original": "connected-speech",
+        "Progress Chunks · Versión original": "progress"
       };
       const slug = slugMap[baseTitle];
       if (!slug) return null;
@@ -5008,7 +5016,8 @@ if (preRendered) {
         creativeState.index = visible[0].index;
       }
       const current = collections[creativeState.index];
-      const lines = Array.isArray(current.lines) ? current.lines : [];
+      creativeState.current = current;
+      const lines = Array.isArray(creativeState.current.lines) ? creativeState.current.lines : [];
 
       creativeList.innerHTML = visible.map(function(pair) {
         const entry = pair.entry;
@@ -5016,8 +5025,8 @@ if (preRendered) {
         const chip = entry.category ? '<small>' + escapeHtml(CATEGORY_LABELS[entry.category] || entry.category) + '</small>' : "";
         return '<button class="creative-pick" type="button" data-creative-index="' + pair.index + '" aria-pressed="' + (pair.index === creativeState.index) + '"><span><strong>' + escapeHtml(entry.title) + '</strong><small>' + escapeHtml(entry.subtitle || (isStories ? "Podcast narrado" : "Canción indexada")) + '</small>' + chip + '</span><span class="creative-pick-count">' + count + '</span></button>';
       }).join("");
-      creativeReader.innerHTML = '<div class="creative-reader-head"><p class="creative-type">' + (isStories ? "Episodio · Podcast" : "Canción · IA musical") + '</p><h2 class="creative-title">' + escapeHtml(current.title) + '</h2><p class="creative-summary">' + escapeHtml(current.summary || "Audio completo con sus chunks destacados.") + '</p></div>' +
-        '<div class="creative-actions"><button class="creative-listen" id="creativeListenBtn" type="button">▶ Escuchar audio completo</button><button class="creative-sequence" id="creativeSequenceBtn" type="button">Practicar estos chunks</button><a class="creative-download" id="creativeMp3Link" href="#" download>⬇ MP3</a><button class="creative-video-link" id="creativeMp4Btn" type="button">🎬 Crear MP4</button></div>' +
+      creativeReader.innerHTML = '<div class="creative-reader-head"><p class="creative-type">' + (isStories ? "Episodio · Podcast" : "Canción · IA musical") + '</p><h2 class="creative-title">' + escapeHtml(creativeState.current.title) + '</h2><p class="creative-summary">' + escapeHtml(creativeState.current.summary || "Audio completo con sus chunks destacados.") + '</p></div>' +
+        '<div class="creative-actions"><button class="creative-listen" id="creativeListenBtn" type="button">▶ Escuchar audio completo</button><a class="creative-download" id="creativeMp3Link" href="#" download>⬇ MP3</a><button class="creative-video-link" id="creativeMp4Btn" type="button">🎬 Crear MP4</button></div>' +
         '<ol class="creative-lines">' + lines.map(function(line, index) {
           return '<li class="creative-line"><span class="creative-line-number">' + (index + 1) + '</span><div>' + (line.speaker ? '<span class="creative-speaker">' + escapeHtml(line.speaker) + '</span>' : '') + '<p class="creative-line-en">' + escapeHtml(line.en || line.text || "") + '</p>' + (line.es ? '<p class="creative-line-es">' + escapeHtml(line.es) + '</p>' : '') + '</div></li>';
         }).join("") + '</ol>';
@@ -5030,16 +5039,47 @@ if (preRendered) {
         });
       });
       const listenButton = document.getElementById("creativeListenBtn");
-      listenButton.disabled = !current.audio;
-      if (!current.audio) listenButton.textContent = "Audio no disponible";
-      listenButton.addEventListener("click", function() { playCreativeAudio(current, listenButton); });
-      document.getElementById("creativeSequenceBtn").addEventListener("click", function() { addCreativeChunksToSequence(lines); });
+      listenButton.disabled = !creativeState.current.audio;
+      if (!creativeState.current.audio) listenButton.textContent = "Audio no disponible";
+      listenButton.addEventListener("click", function() { playCreativeAudio(creativeState.current, listenButton); });
+      
       const creativeMp3Link = document.getElementById("creativeMp3Link");
-      if (current.audio) creativeMp3Link.setAttribute("href", current.audio);
+      if (creativeState.current.audio) creativeMp3Link.setAttribute("href", creativeState.current.audio);
       else { creativeMp3Link.removeAttribute("href"); creativeMp3Link.classList.add("creative-download-disabled"); }
-      document.getElementById("creativeMp4Btn").addEventListener("click", function() {
+      document.getElementById("creativeMp4Btn").addEventListener("click", async function() {
+        const slugMap = {
+          "Sunrise City": "sunrise-city",
+          "Market Day": "market-day",
+          "Golden Hour": "golden-hour",
+          "Connected Speech": "connected-speech",
+          "Progress Chunks": "progress"
+        };
+const current = creativeState.current;
+        if (current) {
+          const baseTitle = current.title.split("·")[0].trim();
+          const slug = slugMap[current.title.split("·")[0].trim()];
+          if (slug) {
+            try {
+              const response = await fetch("assets/videos/hero/" + slug + ".mp4");
+              if (response.ok) {
+                const blob = await response.blob();
+                const url = URL.createObjectURL(blob);
+                const a = document.createElement("a");
+                a.href = url;
+                a.download = slug + ".mp4";
+                document.body.appendChild(a);
+                a.click();
+                document.body.removeChild(a);
+                URL.revokeObjectURL(url);
+                showToast("Video descargado: " + creativeState.current.title);
+                return;
+              }
+            } catch (e) {}
+          }
+        }
+        // Fallback: genera en el navegador
         showSequence();
-        openSequenceVideoMaker(current);
+        openSequenceVideoMaker(creativeState.current);
       });
     }
 
@@ -5064,30 +5104,6 @@ if (preRendered) {
         releaseAudioState("Este audio todavía no está disponible.");
         renderCreative();
       });
-    }
-
-    function addCreativeChunksToSequence(lines) {
-      const matches = lines.map(function(line) {
-        const text = String(line.en || line.text || "").trim().toLowerCase();
-        return sequenceState.catalog.find(function(entry) {
-          return String(entry.text || "").trim().toLowerCase() === text;
-        });
-      }).filter(Boolean);
-      const existing = new Set(sequenceState.items.filter(function(item) { return item.kind === "library"; }).map(function(item) { return item.catalogKey; }));
-      let added = 0;
-      matches.forEach(function(entry) {
-        if (existing.has(entry.catalogKey)) return;
-        sequenceState.items.push({ kind: "library", catalogKey: entry.catalogKey });
-        existing.add(entry.catalogKey);
-        added += 1;
-      });
-      if (!matches.length) {
-        showToast("Esta pieza aún no tiene chunks vinculados a las tarjetas.");
-        return;
-      }
-      renderSequenceList();
-      showSequence();
-      showToast(added ? added + (added === 1 ? " chunk agregado a Secuencias." : " chunks agregados a Secuencias.") : "Estos chunks ya estaban en tu secuencia.");
     }
 
     function chooseCreativeKind(kind) {
@@ -5504,6 +5520,22 @@ if (preRendered) {
       initCover();
     });
 
+    // Event listeners para los botones "Siguiente →" de navegación entre secciones
+    document.getElementById("coverNextBtn").addEventListener("click", function() { showCards(); });
+    document.getElementById("cardsNextBtn").addEventListener("click", function() { showQuiz(); });
+    document.getElementById("quizNextSectionBtn").addEventListener("click", function() { showRespond(); });
+    document.getElementById("respondNextSectionBtn").addEventListener("click", function() { showQuestion(); });
+    document.getElementById("questionNextSectionBtn").addEventListener("click", function() { showSequence(); });
+    document.getElementById("sequenceNextSectionBtn").addEventListener("click", function() { showCreative(); });
+    document.getElementById("creativeNextSectionBtn").addEventListener("click", function() { /* Biblioteca es el final */ });
+
+    renderModules();
+    renderCategoryPickers();
+    loadData().then(function() {
+      showCover();
+      initCover();
+    });
+
     function initCover() {
       const CATEGORIES = [
         { name: "Frases nativas", color: "#f5cd4b", match: /^Frases nativas/ },
@@ -5558,10 +5590,22 @@ if (preRendered) {
           node.appendChild(el("text", { x: epX - nodeW / 2 + 12, y: epY - 2, "class": "map-ep-num" }, "EP " + (episodeTarget(ep.title) + 1)));
           node.appendChild(el("text", { x: epX - nodeW / 2 + 12, y: epY + 16, "class": "map-ep-label" }, ep.title.length > 16 ? ep.title.slice(0, 15) + "…" : ep.title));
           function go() {
-            showCreative();
-            const buttons = document.querySelectorAll("[data-creative-index]");
-            const target = buttons[episodeTarget(ep.title)];
-            if (target) { target.click(); }
+            const targetModule = (function() {
+              const t = ep.title;
+              if (t.startsWith("Frases nativas")) return "native";
+              if (t.startsWith("Idioms")) return "idioms";
+              if (t.startsWith("Adjetivos")) return "adjectives";
+              if (t.startsWith("Sustantivos")) return "nouns";
+              if (t.startsWith("Palabras clave")) return "keywords";
+              if (t.startsWith("Contracciones")) return "contractions";
+              return "native";
+            })();
+            sessionStorage.setItem("targetModule", targetModule);
+            showCards();
+            setTimeout(function() {
+              const btn = document.querySelector('[data-module="' + targetModule + '"]');
+              if (btn) { btn.click(); }
+            }, 0);
           }
           node.addEventListener("click", go);
           node.addEventListener("keydown", function(event) {

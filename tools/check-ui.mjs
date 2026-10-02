@@ -169,9 +169,13 @@ if (!html) {
     html.includes("CREATIVE_COLLECTIONS.stories.length !== 9") && html.includes("podcastChunkCount !== 2250"));
   ok("viewport-fit=cover conservado", html.includes("viewport-fit=cover"));
   ok("cargador de podcast-series intacto", html.includes("CREATIVE_COLLECTIONS.stories = await podcastSeriesResponse.json()"));
-  ok("listeners de Biblioteca intactos",
-    html.includes('id="creativeListenBtn"') && html.includes('id="creativeSequenceBtn"') &&
-    html.includes("addCreativeChunksToSequence"));
+  ok("listeners de Biblioteca intactos (sin Practicar chunks)",
+    html.includes('id="creativeListenBtn"') &&
+    html.includes('id="creativeMp3Link"') &&
+    html.includes('id="creativeMp4Btn"') &&
+    !html.includes('id="creativeSequenceBtn"') &&
+    !html.includes('id="creativeSequenceBtn"') &&
+    !html.includes('addCreativeChunksToSequence'));
 
   const sStart = html.indexOf("function renderCreative");
   const sEnd = html.indexOf("function playCreativeAudio");
@@ -359,9 +363,9 @@ if (html) {
   const tStart = html.indexOf("const SEQUENCE_VIDEO_THEMES");
   const tEnd = html.indexOf("};", tStart);
   const themesBlock = tStart > -1 && tEnd > tStart ? html.slice(tStart, tEnd) : "";
-  const themeKeys = ["solar", "noche", "editorial", "pulso", "keynote", "netflix", "diccionario"];
+  const themeKeys = ["keynote", "netflix", "diccionario", "escenario"];
   const missingThemes = themeKeys.filter((k) => !new RegExp("\\b" + k + "\\s*:").test(themesBlock));
-  ok("motor: 7 temas de video definidos", themesBlock !== "" && missingThemes.length === 0,
+  ok("motor: 4 temas de video definidos", themesBlock !== "" && missingThemes.length === 0,
     themesBlock === "" ? "SEQUENCE_VIDEO_THEMES no encontrado" : "faltan: " + missingThemes.join(", "));
   ok("motor: ambiente con glow/partículas", themesBlock.includes("glowA") && themesBlock.includes("particle"),
     "sin campos glowA/particle");
@@ -386,8 +390,8 @@ if (html) {
   ok("Biblioteca: botón 🎬 Crear MP4", html.includes('id="creativeMp4Btn"'),
     "sin botón de video");
   const swatches = (html.match(/data-video-theme="[^"]+"/g) || []).map((m) => m.slice(18, -1));
-  ok("swatches: 7 diseños con data-video-theme", swatches.length >= 7 &&
-    ["keynote", "netflix", "diccionario"].every((k) => swatches.includes(k)),
+  ok("swatches: 4 diseños con data-video-theme", swatches.length === 4 &&
+    ["keynote", "netflix", "diccionario", "escenario"].every((k) => swatches.includes(k)),
     "diseños: " + swatches.join(","));
   ok(".creative-download y .creative-video-link con estilos",
     html.includes(".creative-download") && html.includes(".creative-video-link"),
@@ -430,7 +434,7 @@ if (html) {
     "sin preparePieceVideoMedia");
   ok("video fiel: modo pieza en el maker", html.includes("sequenceState.videoPiece"),
     "sin videoPiece");
-  ok("video fiel: 🎬 abre el modo pieza", html.includes("openSequenceVideoMaker(current)"),
+  ok("video fiel: 🎬 abre el modo pieza", html.includes("openSequenceVideoMaker(creativeState.current)"),
     "sin apertura por pieza");
 }
 
@@ -455,7 +459,7 @@ if (html) {
     songAudios.length !== 21 ? `audios=${songAudios.length}` : "mal: " + badTimings.join(", "));
   ok("video fiel: usa timing real si existe", html.includes(".timing.json"),
     "sin carga de timing");
-  const themeKeys8 = ["solar", "noche", "editorial", "pulso", "keynote", "netflix", "diccionario", "escenario"];
+  const themeKeys8 = ["keynote", "netflix", "diccionario", "escenario"];
   const tStart = html.indexOf("const SEQUENCE_VIDEO_THEMES");
   const tEnd = html.indexOf("};", tStart);
   const themesBlock = tStart > -1 && tEnd > tStart ? html.slice(tStart, tEnd) : "";
