@@ -172,3 +172,28 @@ Publicacion en GitHub y Vercel (28 sept 2026):
 - Pendiente: .wasm -threaded (18 MB) solo se usan con cabeceras COOP/COEP; si
   en Vercel no se activan, se pueden excluir para adelgazar el despliegue.
 Firma: ED-Dev
+
+Offline - service worker (13 oct 2026):
+- sw.js en la raiz hace que la practica diaria funcione sin conexion tras una
+  visita previa: precache del shell + los 15 JSON (~1,15 MB); los MP3/MP4 se
+  cachean al usarlos (tope ~30 ficheros con purga automatica por cuota).
+- Estrategias: navegaciones network-first (online = ultima version), JSON
+  stale-while-revalidate, estaticos cache-first y media cache-first con
+  soporte Range (206). Requests a otros origenes no se interceptan.
+- Sin skipWaiting: la version nueva del SW se activa en la siguiente visita;
+  jamas hay recargas forzadas en mitad de una practica.
+- Badge "Sin conexion - usando cache" (#offlineBadge) visible solo cuando el
+  navegador esta sin red; anuncio aria-live para lectores de pantalla.
+- vercel.json sirve sw.js con Cache-Control must-revalidate para detectar
+  actualizaciones sin demora.
+- tools/check-ui.mjs suma la seccion 13 "offline" (13 comprobaciones; total
+  149) y CI la ejecuta en cada push.
+- Regresion E2E: con "npm run dev" corriendo en otra terminal, ejecuta
+  "npm run test:offline" (Playwright): precache, recarga offline, tarjetas
+  desde cache, audio con Range 206, recorrido completo de 7 secciones sin
+  red y badge on/offline. Imprime "E2E OFFLINE: TODO OK".
+- Comportamiento esperado: un MP3 nunca reproducido online responde 503
+  controlado al estar sin red; la app muestra su propio estado de error y
+  el resto de la practica sigue funcionando (texto, quizzes, recorrido).
+- Mas detalle: docs/ARQUITECTURA.md (seccion "Offline (service worker)").
+Firma: ED-Dev

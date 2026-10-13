@@ -9,11 +9,13 @@ Punto de entrada único: `index.html`.
 
 ```
 index.html            HTML + CSS inline + JS de la app (monolito deliberado)
+sw.js                 Service worker offline (precache shell + 15 JSON)
 manifest.webmanifest  PWA: instalable en móvil/escritorio
+vercel.json           Headers: /sw.js sin caché (must-revalidate)
 assets/
   solar-themes.css    Temas Solar Light / Dark (cargado después del <style> inline)
   theme-toggle.js     Ciclo sistema → solar-light → solar-dark (síncrono en <head>)
-  *.json              Datos de contenido (14 ficheros, ~692 KB en total)
+  *.json + music/     Datos de contenido (15 JSON, ~692 KB en total)
   audio/              450 MP3 de las tarjetas
   podcasts/           9 episodios de la serie
   songs/              21 canciones + timings
@@ -38,11 +40,11 @@ docs/                 Documentación y planes de trabajo
    solo cuando se usan.
 3. **Contenido separado de mecánica.** El contenido vive en JSON bajo
    `assets/`; la lógica nunca debe incrustar frases sueltas.
-4. **Verificación antes que confianza.** `npm test` valida 136 invariantes.
+4. **Verificación antes que confianza.** `npm test` valida 149 invariantes.
 
 ## Invariantes críticos (NO romper)
 
-Validados por `tools/check-ui.mjs` (136 checks) y por CI en cada push:
+Validados por `tools/check-ui.mjs` (149 checks) y por CI en cada push:
 
 - `assets/podcast-series.json`: **9 episodios / 2250 chunks** exactos.
 - `theme-toggle.js` debe ir **síncrono** dentro de `<head>` (sin defer/async).
@@ -51,6 +53,8 @@ Validados por `tools/check-ui.mjs` (136 checks) y por CI en cada push:
   `extra-stories.json` y `songs-index.json`.
 - Contacto = **solo LinkedIn**; enlaces externos con `rel="noopener"`.
 - `assets/solar-themes.css` se enlaza **después** del `<style>` inline.
+- `sw.js`: precachea los 15 JSON, **nunca** binarios pesados
+  (mp3/mp4/wasm) y **nunca** usa `skipWaiting`.
 
 ## Rendimiento medido (2026-10-13, local)
 
@@ -66,12 +70,46 @@ satisfactorio; partirlo rompería los checks de `check-ui.mjs` sin beneficio
 apreciable. Si algún día se hace, debe ser una migración propia con
 actualización sincronizada de los checks y regresión completa en navegador.
 
+## Verificación antes que confianza
+
+- `npm test` valida **149 invariantes** (UI, contenido, release y offline).
+- `npm run test:offline` (requiere `npm run dev` en otra terminal) ejecuta la
+  regresión end-to-end con Playwright: precache, recarga offline, tarjetas
+  desde caché, audio con Range (206), recorrido de 7 secciones sin red y
+  comportamiento del badge.
+
+## Offline (service worker)
+
+`sw.js` en la raíz hace que la práctica diaria funcione sin conexión tras una
+visita previa. Estrategias por tipo de request (solo mismo origen, GET):
+
+| Tipo | Estrategia | Detalle |
+|---|---|---|
+| Navegaciones | network-first → fallback `index.html` | online = siempre la última versión |
+| 15 JSON (691 KB) | stale-while-revalidate | rápido y fresco; offline sirve caché |
+| css/js/iconos/manifest | cache-first | estáticos |
+| MP3/MP4 | cache-first **bajo demanda** + Range 206 | solo se cachean al usarlos; tope ~30 ficheros (~250 MB) con purga LRU al exceder cuota |
+| cross-origin (Hugging Face) | sin interceptar | Whisper se comporta igual que sin SW |
+
+- **Precache en `install`** (~1,15 MB): shell + los 15 JSON. Jamás binarios
+  pesados (vigilado por checks: mp3/mp4/wasm prohibidos en el precache).
+- **Actualizaciones:** sin `skipWaiting` → la versión nueva se activa en la
+  siguiente visita; nunca hay recargas forzadas en mitad de una práctica.
+- **Badge**: `#offlineBadge` («Sin conexión · usando caché») visible solo
+  cuando `navigator.onLine` es falso; `aria-live="polite"`.
+- **Headers**: `vercel.json` sirve `sw.js` con `max-age=0, must-revalidate`
+  para detectar actualizaciones sin demora.
+- Si el usuario reproduce un MP3 por primera vez sin conexión, responde 503
+  controlado y la app muestra su propio estado de error (comportamiento
+  esperado, cubierto por el test).
+
 ## Flujo de trabajo
 
 ```bash
-npm test     # 136 checks de UI/contenido (también corre en CI)
-npm run dev  # servidor local en http://127.0.0.1:8765
-npm run clean# elimina snapshots, caches y artefactos (solo no trackeados)
+npm test            # 149 checks de UI/contenido/offline (también corre en CI)
+npm run dev         # servidor local en http://127.0.0.1:8765
+npm run test:offline# E2E offline con Playwright (con el dev server corriendo)
+npm run clean       # elimina snapshots, caches y artefactos (solo no trackeados)
 ```
 
 - **Commits atómicos**: un cambio = un commit con mensaje convencional.
@@ -88,11 +126,11 @@ npm run clean# elimina snapshots, caches y artefactos (solo no trackeados)
 
 ## Roadmap de mejoras (pendientes, por prioridad)
 
-1. **Service worker offline** (la app es de práctica diaria; el contenido
-   JSON+MP3 se podría cachear para uso sin conexión).
-2. **Modularización del JS** (extraer a `assets/app.js` + actualizar checks)
+1. **Modularización del JS** (extraer a `assets/app.js` + actualizar checks)
    cuando haya tests de regresión en navegador automatizados.
-3. **Contenido estático para SEO**: versión sin JS de la FAQ ya existe en
+2. **Contenido estático para SEO**: versión sin JS de la FAQ ya existe en
    el JSON-LD; valorar prerender de listados.
-4. **Marketing**: bios, guiones de RRSS (`docs/rrss-videos.md`,
+3. **Marketing**: bios, guiones de RRSS (`docs/rrss-videos.md`,
    `docs/contenido-redes.md`) y versiones en inglés.
+
+Hecho: ~~service worker offline + badge~~ (2026-10-13).
