@@ -27,3 +27,5 @@ __pycache__/
 
 # Marcadores del generador de musica (vacias)
 .belt/
+
+.vercel
