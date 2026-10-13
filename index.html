@@ -22,6 +22,10 @@
   <meta name="twitter:description" content="2250 frases de inglés real en contexto: podcasts, canciones e historias. Escucha, lee, repite y graba tu voz. Gratis y sin registro.">
   <meta name="twitter:image" content="https://edenglishchunks.vercel.app/assets/og-image.png">
   <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="assets/icons/apple-touch-icon.png">
+  <link rel="manifest" href="manifest.webmanifest">
+  <meta name="theme-color" media="(prefers-color-scheme: light)" content="#faf5e9">
+  <meta name="theme-color" media="(prefers-color-scheme: dark)" content="#191510">
   <link rel="canonical" href="https://edenglishchunks.vercel.app">
   <script type="application/ld+json">
   {
@@ -740,11 +744,23 @@
     .cover-map { order: -1; }
   }
   </style>
+  <style>
+    /* Fallback sin JavaScript: solo se pinta si el navegador bloquea el script. */
+    .noscript-banner { max-width: 42rem; margin: 12vh auto; padding: 28px 32px; border: 1px solid GrayText; border-radius: 14px; background: Canvas; color: CanvasText; font-family: Georgia, "Times New Roman", serif; line-height: 1.55; }
+    .noscript-banner h1 { margin: 0 0 12px; font-size: clamp(1.6rem, 4vw, 2.3rem); }
+    .noscript-banner p { margin: 0 0 10px; font-family: system-ui, -apple-system, Segoe UI, sans-serif; }
+  </style>
   <link rel="stylesheet" href="assets/solar-themes.css">
   <script src="assets/theme-toggle.js"></script>
-  <link rel="icon" type="image/svg+xml" href="assets/favicon.svg">
 </head>
 <body>
+  <noscript>
+    <div class="noscript-banner">
+      <h1>Inglés con Chunks</h1>
+      <p>Esta app necesita JavaScript para funcionar. Actívalo en la configuración de tu navegador y recarga la página.</p>
+      <p>Qué encontrarás dentro: <strong>2250 frases reales</strong> organizadas en 10 mazos de tarjetas, un quiz de escucha, práctica de respuesta con voz, 9 episodios de podcast, 21 canciones con letra y 2 historias narradas. Gratis y sin registro.</p>
+    </div>
+  </noscript>
   <main class="shell">
     <header class="topbar" aria-label="Barra principal">
       <div class="topbar-flag" aria-hidden="true"></div>

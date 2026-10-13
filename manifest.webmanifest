@@ -1,0 +1,17 @@
+{
+  "name": "Inglés con Chunks",
+  "short_name": "Chunks",
+  "description": "Practica inglés real por chunks: tarjetas, quiz, respuestas con voz, secuencias y una serie de podcasts y canciones.",
+  "lang": "es",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#faf5e9",
+  "theme_color": "#faf5e9",
+  "icons": [
+    { "src": "assets/icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "assets/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "assets/icons/icon-512-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
