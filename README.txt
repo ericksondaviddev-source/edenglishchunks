@@ -21,7 +21,7 @@ Estructura:
 - assets/podcasts/ .... 9 episodios de la serie (comprimidos)
 - assets/voice/ ....... audios de voz
 - assets/stories/ ..... historias anteriores
-- icon.jpg ............ ícono
+- brand\ ............. material gráfico para redes (icon.jpg, portadas)
 
 Temas visuales y verificación (Fase 1):
 - Botón de tema en la barra superior: alterna Sistema / Solar Light / Solar Dark
