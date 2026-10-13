@@ -749,6 +749,9 @@
     .noscript-banner { max-width: 42rem; margin: 12vh auto; padding: 28px 32px; border: 1px solid GrayText; border-radius: 14px; background: Canvas; color: CanvasText; font-family: Georgia, "Times New Roman", serif; line-height: 1.55; }
     .noscript-banner h1 { margin: 0 0 12px; font-size: clamp(1.6rem, 4vw, 2.3rem); }
     .noscript-banner p { margin: 0 0 10px; font-family: system-ui, -apple-system, Segoe UI, sans-serif; }
+    /* Badge de conexión: navy fijo, legible en ambos temas (sin media query: invariante de 7 bloques). */
+    .offline-badge { position: fixed; left: 50%; bottom: max(14px, env(safe-area-inset-bottom)); transform: translateX(-50%); z-index: 90; padding: 7px 15px; border-radius: 999px; font: 600 12.5px/1.25 system-ui, -apple-system, "Segoe UI", sans-serif; letter-spacing: .01em; background: #102a43; color: #ffffff; border: 1px solid rgba(255, 255, 255, .28); box-shadow: 0 4px 14px rgba(0, 0, 0, .28); }
+    .offline-badge[hidden] { display: none; }
   </style>
   <link rel="stylesheet" href="assets/solar-themes.css">
   <script src="assets/theme-toggle.js"></script>
@@ -761,6 +764,7 @@
       <p>Qué encontrarás dentro: <strong>2250 frases reales</strong> organizadas en 10 mazos de tarjetas, un quiz de escucha, práctica de respuesta con voz, 9 episodios de podcast, 21 canciones con letra y 2 historias narradas. Gratis y sin registro.</p>
     </div>
   </noscript>
+  <div class="offline-badge" id="offlineBadge" role="status" aria-live="polite" hidden>Sin conexión · usando caché</div>
   <main class="shell">
     <header class="topbar" aria-label="Barra principal">
       <div class="topbar-flag" aria-hidden="true"></div>
@@ -5732,6 +5736,26 @@ document.getElementById("creativeMp4Btn").addEventListener("click", async functi
       }, { threshold: 0.25 }).observe(coverView);
       startWalkthrough();
     }
+  </script>
+  <script>
+    // Service worker: práctica sin conexión (ver docs/ARQUITECTURA.md y sw.js).
+    if ("serviceWorker" in navigator && /^https?:$/.test(location.protocol)) {
+      window.addEventListener("load", function () {
+        navigator.serviceWorker.register("./sw.js").catch(function (err) {
+          console.warn("Service worker no disponible:", err);
+        });
+      });
+    }
+    // Badge "Sin conexión": solo visible cuando el navegador pierde la red.
+    (function () {
+      var badge = document.getElementById("offlineBadge");
+      function syncOnlineState() {
+        if (badge) badge.hidden = navigator.onLine;
+      }
+      window.addEventListener("online", syncOnlineState);
+      window.addEventListener("offline", syncOnlineState);
+      syncOnlineState();
+    })();
   </script>
 </body>
 </html>
