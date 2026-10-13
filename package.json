@@ -5,6 +5,7 @@
   "description": "Inglés con Chunks - webapp estática de práctica de inglés por chunks (index.html + assets)",
   "scripts": {
     "test": "node tools/check-ui.mjs",
+    "test:offline": "node tools/test-offline.e2e.mjs",
     "dev": "python -m http.server 8765 --bind 127.0.0.1",
     "clean": "node tools/clean.mjs"
   },

@@ -519,5 +519,49 @@ if (html) {
     "sin dimensiones declaradas");
 }
 
+// ---- 13. offline: service worker + badge de conexión ----
+{
+  const sw = readSafe("sw.js");
+  ok("sw: existe sw.js", !!sw, "falta sw.js");
+  if (sw) {
+    const dataFiles = [
+      "assets/offsets.json", "assets/podcast-series.json", "assets/extra-stories.json",
+      "assets/songs-index.json", "assets/music/index.json", "assets/Ingles-Frases-Nativas-1.json",
+      "assets/Idioms-1.json", "assets/Idioms-2.json", "assets/Idioms-3.json", "assets/Idioms-4.json",
+      "assets/Idioms-5.json", "assets/palabras_clave_esenciales.json",
+      "assets/100_adjetivos_y_sustantivos_m_s_usados.json",
+      "assets/palabras_sustantivas-comunes_m_s_usadas.json", "assets/contracciones_informales.json"
+    ];
+    const missingData = dataFiles.filter((f) => !sw.includes('"' + f + '"'));
+    ok("sw: precachea los 15 JSON de la app", missingData.length === 0,
+      missingData.length ? "faltan: " + missingData.join(", ") : "los 15 presentes");
+    ok("sw: sin binarios pesados en el precache",
+      !/SHELL_ASSETS[\s\S]{0,900}(\.mp3|\.mp4|\.wasm)/.test(sw),
+      "mp3/mp4/wasm en la lista de shell (instalaría ~167 MB)");
+    ok("sw: media solo bajo demanda (sin addAll de medios)",
+      !/addAll\s*\(\s*\[[^\]]*\.(mp3|mp4)/.test(sw), "addAll de medios detectado");
+    ok("sw: soporte de Range (206) para <audio>", sw.includes("206") && sw.includes("Content-Range"),
+      "sin manejo de Range: el audio se rompería offline");
+    ok("sw: sin skipWaiting (activación en siguiente visita)", !/self\.skipWaiting\s*\(/.test(sw),
+      "skipWaiting forzaría recargas");
+    ok("sw: navigations network-first", sw.includes("handleNavigate") && sw.includes("fetch(request)"),
+      "sin estrategia network-first para navegaciones");
+  }
+  if (html) {
+    ok("sw: registro en index.html con guardia de protocolo",
+      html.includes('navigator.serviceWorker.register("./sw.js")') && html.includes("/^https?:$/"),
+      "registro ausente o sin guardia file://");
+    ok("badge offline: presente con aria-live",
+      html.includes('id="offlineBadge"') && html.includes('aria-live="polite"') &&
+      html.includes("Sin conexión · usando caché"), "sin badge offline");
+    ok("badge offline: se sincroniza con eventos online/offline",
+      html.includes('addEventListener("offline"') && html.includes('badge.hidden = navigator.onLine'),
+      "sin listeners online/offline");
+    ok("invariante: sigue habiendo exactamente 7 bloques prefers-color-scheme",
+      (html.match(/@media \(prefers-color-scheme: dark\)/g) || []).length === 7,
+      "bloques=" + (html.match(/@media \(prefers-color-scheme: dark\)/g) || []).length);
+  }
+}
+
 console.log(failed === 0 ? "\nTODO OK (0 fallos)" : `\n${failed} FALLO(S)`);
 process.exitCode = failed === 0 ? 0 : 1;
